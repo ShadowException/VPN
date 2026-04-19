@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://a612c919-fe63-4da7-86a8-c6c3f824ca57@109.73.193.81:443?type=tcp&security=reality&pbk=vLLO06dCKIhSxGfKc4SJiGgmPTej8z6tdOAZ8C7KYSc&fp=random&sni=www.google.com&sid=4a&spx=/#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vmess://eyJ2IjoiMiIsInBzIjoiMy4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiIxOTIuMjEwLjIzNi4xNSIsInBvcnQiOiIxMDMyOSIsImlkIjoiNjZjNTljNGYtZTk3YS00NjA0LTg3OTEtZTViMTEzMDU1MTI4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIiwidHlwZSI6IiIsInRscyI6IiJ9
-ss://YWVzLTI1Ni1nY206ODNhY2Y2OWVkYjRlNTQ1Mw@194.87.69.143:12091#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://a612c919-fe63-4da7-86a8-c6c3f824ca57@109.73.193.81:443?fp=chrome&pbk=vLLO06dCKIhSxGfKc4SJiGgmPTej8z6tdOAZ8C7KYSc&security=reality&sid=4a&sni=www.google.com&type=tcp#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?security=tls&sni=daluan.eu.org&fp=chrome&type=ws&host=daluan.eu.org&packetEncoding=xudp&encryption=none#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=bold-term-4edd.mbigspot.workers.dev&path=/?ed=2048#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?security=tls&sni=daluan.eu.org&type=ws&host=daluan.eu.org&packetEncoding=xudp&encryption=none#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-trojan://a9866469-18db-4e57-9423-55ae5f96faab@141.98.24.234:443?security=reality&sni=www.google.com&fp=random&pbk=T_e4Kf_0Pbc5yM0ltYSjLDn2bZnAyl_m96te767mN1g&sid=07&spx=/&type=tcp#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?security=tls&sni=daluan.eu.org&type=ws&host=daluan.eu.org&packetEncoding=xudp&encryption=none#10.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fc53bae5-92f5-4572-9ce8-9e56901479f1@104.18.12.149:80?&type=ws&headerType=none&host=尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞3亞團員亞團員.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&path=%2Famo-mohammad#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?security=reality&sni=www.google.com&fp=random&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&sid=fd&spx=/&type=tcp#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visaeurope.ch:2083?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://49197da7-4f74-4c34-8229-35561043c113@159.195.6.151:443?fp=chrome&pbk=TEFfOIgYRUunDwRv_ycZiN8oXGROPx5AQvUCbp9171Q&security=reality&sid=fd&sni=www.google.com&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://931d70c1-8644-433a-9e8a-e09e10f5e7f5@ct.090227.xyz:443?type=ws&security=tls&path=%2F&host=v.vivia.cc.cd&sni=v.vivia.cc.cd&fp=chrome&allowInsecure=1#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@s6eba9cb4.fastvps-server.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com&spx=/#16.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?security=tls&sni=daluan.eu.org&type=ws&path=/&host=daluan.eu.org&packetEncoding=xudp&encryption=none#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?fp=random&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&security=reality&sid=3e&sni=www.google.com&type=tcp#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://a612c919-fe63-4da7-86a8-c6c3f824ca57@109.73.193.81:443?type=tcp&security=reality&pbk=vLLO06dCKIhSxGfKc4SJiGgmPTej8z6tdOAZ8C7KYSc&fp=random&sni=www.google.com&sid=4a&spx=/#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@95.163.208.136:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=6f0c2a9d&sni=i.oneme.ru#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@5.42.115.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.237.204:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lRk6p0r1iRelehqPuqRNLgODQeUQvtOxufdPuorG5ng&sid=40c9697ef67a03fb&sni=yandex.ru#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://a612c919-fe63-4da7-86a8-c6c3f824ca57@109.73.193.81:443?fp=random&pbk=vLLO06dCKIhSxGfKc4SJiGgmPTej8z6tdOAZ8C7KYSc&security=reality&sid=4a&sni=www.google.com&type=tcp#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://8d8c1f6e-3944-4cae-b941-013304ddbde4@192.210.236.15:10086?type=none&security=none#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://a612c919-fe63-4da7-86a8-c6c3f824ca57@109.73.193.81:443?fp=chrome&pbk=vLLO06dCKIhSxGfKc4SJiGgmPTej8z6tdOAZ8C7KYSc&security=reality&sid=4a&sni=www.google.com&type=tcp#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.237.204:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=lRk6p0r1iRelehqPuqRNLgODQeUQvtOxufdPuorG5ng&sid=40c9697ef67a03fb&packetEncoding=xudp#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2060228c-5f0f-41f8-a3ca-f7988308442d@test.wide-frost.test-cdn-kkk.com:443?allowinsecure=0&echfq=none&encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?fp=random&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&security=reality&sid=3e&sni=www.google.com&type=tcp#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://4e4f5607-087f-4ff6-907c-6b466530b455@spb.verymad.net:54986?type=tcp&security=reality&encryption=none&fp=firefox&pbk=r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U&sid=cccbaf57&sni=www.vk.com&spx=/NNV5u0Uzirss5NZ#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?type=tcp&security=reality&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&fp=random&sni=www.google.com&sid=3e&spx=/#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@myanmar.visa.com:8443?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-trojan://6eea921e-bfe7-4618-ab2c-5576bb984893@94.103.2.233:443?fp=random&pbk=AD5oeeDsLYOWS2HbDqHYV_MnhfsUzXKgvYL6Sueavy0&security=reality&sid=6d&sni=www.google.com&type=tcp#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://12e14a94-dee4-479d-8494-74b899508b75@pl3.agveit.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl3.agveit.pro&fp=chrome&security=reality&pbk=eC2HnARxJsoECIFuwibx1ARx8DeSjR4wJmrGt_cqbQc&sid=f33bcbb3b48a743a&packetEncoding=xudp#23.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://15da07d5-7f72-47db-9bd1-e122e9698d24@nl2.notyoursdog.biz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.notyoursdog.biz&fp=chrome&security=reality&pbk=7BByUOpKLyudAr2WQL-gm6bqwvpAGMStVvmhbu4LBAU&sid=4b72b91a48f19b61&packetEncoding=xudp#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2083?type=ws&security=tls&sni=&host=cIAllO-EGB.pAGES.dev&path=%2F%25252F#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2096?type=ws&security=tls&sni=&host=CIALlO-EgB.pAGES.dEV&path=%2F%25252F#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://d896222d-b446-42de-a0be-6996c6013779@45.150.64.248:443?fp=chrome&pbk=IkfiEw7m3p6og7gmN1xEpEwP2myga6YWM7dZQBuLPEk&security=reality&sid=3e&sni=www.google.com&type=tcp#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@extbalancer.onnstreaming.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=6f0c2a9d&sni=i.oneme.ru#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://dd09a21b-c1ac-4fde-83bb-dc09f85416b6@lt1.pineappled.org:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
