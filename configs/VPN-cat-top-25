@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&type=tcp&security=none#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&encryption=#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b61bf605-147f-429f-b10b-297e5e5fd02d@185.147.27.96:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.219.5.201:8880?host=www.udemy.com.joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@37.9.54.205:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rf.normbot.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=e49067cee081dc20#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@37.9.54.205:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rf.normbot.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=e49067cee081dc20#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@51.250.76.122:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d41e0582-080f-4338-8b2c-1ef872b95b20@109.69.218.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#12.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.201:8880?host=www.udemy.com.joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&security=none&encryption=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?type=ws&path=%2Fv1&host=live.ok.ru&sni=tn.xbs54as9c6.ru#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@89.169.191.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://4ed6854b-b42d-4a26-b0b6-2879d378c759@158.160.231.91:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://1ad02168-e517-450b-9613-67f82ebb6239@89.169.131.213:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nERxknsOFZqBENqyQSrqB0aimON9HJyzkgONd7i4bCY&security=reality&sid=590e5efe14ee0ba0&sni=5post-gate.x5.ru&type=tcp#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.124.127.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.48:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://b61bf605-147f-429f-b10b-297e5e5fd02d@109.73.195.191:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=F8-vs46mNbq9-5gAP08KD420Jf1tdHwcefIDTFpEMSs&sid=30095c0f0d#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://604e557e-41bf-45aa-9168-151715f531b3@109.69.218.162:443?security=reality&sni=lerua.xyz&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#24.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@185.175.47.238:4443?encryption=none&type=tcp&security=none#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?type=tcp&encryption=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&type=tcp&security=none#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.48:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.52:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&encryption=#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.48:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&encryption=#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?flow=&type=tcp#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://60b7b4be-1347-4757-81e7-c3b3f1316ce9@94.156.181.59:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.yandex.ru&pbk=6qoOEYRoVWBvXvVBGAviySCm8_WLOS8ZNunMFEHmSng&sid=84b7e9de967ff2ff&spx=%2F#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f993de15-4cc2-49bb-b64b-2d248687b819@5.188.224.167:2083?type=grpc&security=reality&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ir.ozone.ru&path=UpdateService&serviceName=UpdateService#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.201:8880?host=www.udemy.com.joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&encryption=#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?type=tcp&encryption=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&encryption=#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://9acd6813-c4c1-4365-bf50-17ebe53c557c@109.69.218.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#19.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
+vless://ead97ece-dd46-4010-b5e3-87cdd258c0be@109.69.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#20.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&type=tcp&security=none#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ead97ece-dd46-4010-b5e3-87cdd258c0be@109.69.218.166:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#22.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://9acd6813-c4c1-4365-bf50-17ebe53c557c@109.69.218.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#24.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
+vless://ead97ece-dd46-4010-b5e3-87cdd258c0be@109.69.218.167:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=lerua.xyz&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&sid=223d6eafc6c6e894#25.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
