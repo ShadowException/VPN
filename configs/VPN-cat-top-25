@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?flow=&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&type=tcp&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&type=tcp&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?flow=&type=tcp#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&type=tcp&security=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@92.255.76.96:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&security=none&type=tcp#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@185.175.47.238:4443?encryption=none&type=tcp&security=none#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&encryption=none#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?flow=&type=tcp#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@212.113.121.161:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none&type=tcp&security=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?type=tcp&security=none&encryption=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&encryption=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@188.225.81.60:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.210.168.147:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&encryption=#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru7.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@87.249.44.93:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@87.228.124.196:4443?encryption=none#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.7:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?encryption=none&security=none&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&type=tcp&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&security=none&encryption=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@92.255.76.96:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@212.41.28.109:4443?encryption=none&type=tcp&security=none#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?type=tcp&security=none&encryption=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://cbf10015-d51a-4a7c-b13a-3c6091135d93@79.174.90.199:5443?security=reality&sni=max.ru&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@5.188.156.138:4443?type=tcp&encryption=none#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru8.frostmotiveseed.net:4443?encryption=none&security=none&type=tcp#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@45.9.88.114:4100?encryption=none&type=ws&security=none&path=%2Fv1#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b3842624-4dd9-4fb0-8df2-31e7f766c58c@152.53.144.255:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?type=ws&path=/v1&host=live.ok.ru&security=none#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@94.241.141.11:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://0788041a-3233-4ea1-8e83-9b10c2eb32ef@91.219.227.253:80?encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@89.223.120.216:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru3.frostmotiveseed.net:4443?type=tcp&encryption=none#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a17a5c64-e01f-435b-ad5b-c5bc3713910a@159.195.68.26:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://7a57b52f-19ed-4082-827d-2493936a56be@158.160.159.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b3842624-4dd9-4fb0-8df2-31e7f766c58c@152.53.244.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@5.42.116.247:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@188.225.81.60:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
