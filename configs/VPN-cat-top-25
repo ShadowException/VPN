@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.48:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.229.90.52:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.9.244:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@72.56.38.52:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://722c8ffc-b525-4d9c-a565-5ec17575c5d7@217.168.240.172:2443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@193.188.23.65:2443?encryption=none&security=reality&type=tcp&sni=yandex.ru&fp=chrome&pbk=NGXEKZXsnI0yWLAG4Qj6XKSVkDpqN_UaKsW5yJPMBUc&sid=b8960f8a008648c1#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://602834ad-5c8d-4962-8771-8d6753ef888a@217.168.240.172:2443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&extra=null&fp=chrome&sni=max.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://2cbd01de-4c6b-4b7a-89b2-2da483c9d314@ru2.frostmotiveseed.net:4443?type=tcp&encryption=#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f6b71e78-e065-4cf8-9fbb-b9e25ff67eff@5.188.224.137:2083?type=tcp&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?type=ws&path=%2Fv1&host=live.ok.ru&sni=tn.xbs54as9c6.ru#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.63:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b5d2a245-4c51-4130-95ef-fa8b023eda49@51.250.37.141:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-6-5.legendary.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?type=ws&path=%2Fv1&host=live.ok.ru&sni=tn.xbs54as9c6.ru#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@83.222.10.107:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:4100?type=ws&path=%2Fv1&host=live.ok.ru&sni=tn.xbs54as9c6.ru#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.42:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@185.247.16.5:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
