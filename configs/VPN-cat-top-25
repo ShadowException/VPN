@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:45389#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#2.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@72.56.246.128:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@111.88.96.41:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#5.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ@185.22.154.51:9012#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:50123#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@155.212.215.114:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.240:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#9.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#10.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#11.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@45.152.113.195:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#13.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@37.48.253.85:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#14.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#15.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@85.239.40.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@212.233.77.213:8388#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@111.88.96.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#18.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@111.88.96.70:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#19.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@159.194.223.34:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=web.catpatrol.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://4e8d48bb-3c03-4e02-b15f-a76737cca9e7@178.250.243.178:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=lwAdXwnwQs9L0FOGVbTbk373EgGE3J5AqTr2J3rNbh0&sid=345678#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@176.32.39.99:40120#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@5.42.117.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#25.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@212.233.77.213:8388#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@212.233.77.213:8388#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@185.22.154.51:9012#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@111.88.96.70:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.trahodrom.fun&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#5.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ@185.22.154.51:9012#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.9:40901#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5570943f-6cc3-4a8a-bee3-d15a2b2f53a0@217.26.29.65:2053?encryption=none&type=tcp&security=reality&fp=chrome&sni=web.didado.ru&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@155.212.215.114:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#11.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoazFTZHlSV2JZaTNJZ3hlb3c5SmRO@142.93.73.182:45389#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@155.212.215.114:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#14.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ@195.58.49.9:40901#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@111.88.96.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@95.182.110.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@85.239.56.189:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#18.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ==@46.17.42.114:40129#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@176.32.39.99:40120#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:50123#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@72.56.246.128:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#22.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://bafc879b-eeef-00fa-ac47-8ec6c23335e9@109.248.33.240:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sni=cdn.trahodrom.fun#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:50123#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA==@176.32.39.99:40120#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
