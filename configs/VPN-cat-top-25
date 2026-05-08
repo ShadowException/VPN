@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.152.23:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.67.207.57:80?security=none&type=ws&host=vip.yaml7.ggff.net&path=/#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#10.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#11.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.21.61.73:80?security=none&type=ws&host=vip.yaml7.ggff.net&path=/#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@creativecommons.org:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.80.1:80?security=none&type=ws&host=vip.yaml7.ggff.net&path=/#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@188.114.98.0:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.79.211:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.35.211.144:2096?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vmess://eyJhZGQiOiIxMDQuMTY4LjEuMTAyIiwiaWQiOiIxYzlkNmNmZS1kZjljLTQwYmMtYmNiOS04YmE3ZGMzMWFhZTMiLCJwb3J0IjoiODIyMiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiMTguIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIn0
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&insecure=0&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.68:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@8.39.125.54:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://49c9e424-c47f-482f-982a-e5503f354700@104.18.140.67:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cld1.hesam.online&fp=chrome&type=ws&allowInsecure=0&sni=cld1.hesam.online#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vmess://eyJ2IjoiMiIsInBzIjoiMjMuIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIiwiYWRkIjoiMTA0LjE2OC4xLjEwMiIsInBvcnQiOiI4MjIyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiNjRiYmU5LTM0N2QtNGNiZS04M2U2LTBjOTI1YTk1ODNkOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@st.xbs54as9c6.ru:7000?type=ws&path=%2Fstream&host=market.yandex.ru&sni=st.xbs54as9c6.ru#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://58a7bb8c-ab16-4a2e-9b84-1dcedd3dc550@213.171.26.10:3443?encryption=none&type=xhttp&security=reality&path=%2F&mode=stream-one&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%220%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%22500000%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=firefox&sni=kinopoisk.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?type=xhttp&security=reality&fp=firefox&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&sid=df&sni=vk.com&host=vk.com&mode=auto&spx=/#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?type=xhttp&security=reality&fp=firefox&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&sid=df&sni=vk.com&host=vk.com&mode=auto&spx=/#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?fp=firefox&host=vk.com&mode=auto&path=/&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&security=reality&sid=df&sni=vk.com&spx=/&type=xhttp#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?type=xhttp&security=reality&fp=firefox&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&sid=df&sni=vk.com&host=vk.com&mode=auto&spx=/#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?fp=firefox&host=vk.com&mode=auto&path=%2F&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&security=reality&sid=87&sni=vk.com&spx=/&type=xhttp#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://a060f842-52f4-412a-8565-7063d8282722@cp.cloudconsole.ru:443?type=xhttp&security=reality&fp=firefox&pbk=S9o_vUf10wLpfM0vMEbx2wO3RdT85lZWdj0-WBPOukQ&sid=df&sni=vk.com&host=vk.com&mode=auto&spx=/#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#7.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&allowInsecure=0&fp=chrome#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#9.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?encryption=none&type=tcp&flow=xtls-rprx-vision-udp443&security=tls&sni=cluster-russia-1.firstvideocdn.ru&allowInsecure=0&fp=chrome#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://23616470-4782-4da9-8576-affbbcf6ae7b@lk.cloudconsole.ru:443?mode=auto&security=reality&encryption=none&pbk=nCxYuad0GYaNJwUpLjyKZyK7NyjTssz0a1Agq5wZcwI&host=vk.com&fp=firefox&spx=/&type=xhttp&sni=vk.com&sid=87#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#14.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru&headerType=none":#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=cluster-russia-1.firstvideocdn.ru&type=tcp#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI@108.181.57.93:8388#19.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-russia-1.firstvideocdn.ru&flow=xtls-rprx-vision-udp443&insecure=0#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru&provider_id=igareck_vless_reality_rus_mobile&source_name=igareck_vless_reality_rus_mobile#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.156.229:80?encryption=none&type=ws&security=none&path=%2F&host=vip.yaml7.ggff.net#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-1.firstvideocdn.ru&insecure=0&allowInsecure=0&type=tcp&headerType=none#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=cluster-russia-1.firstvideocdn.ru#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
