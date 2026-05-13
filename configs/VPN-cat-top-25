@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@46.149.71.230:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&path=%2Fapi%2Fv3%2Ff29479507adb&host=ads.x5.ru#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su&alpn=http/1.1,h2,h3#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:60129#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg==@195.58.49.26:60129#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&allowInsecure=0&fp=chrome#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su&alpn=http%2F1.1%2Ch2%2Ch3#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://13ebfdbb-8548-4468-905a-2d2265ae7cae@104.20.6.134:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http%2F1.1&host=thisisverytemp.bananalegends.com&fp=chrome&type=ws&sni=thisisverytemp.bananalegends.com#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a478129-3e7e-Fade-99d7-95e1da14fbdc@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.70:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://b818576e-951a-4a9c-879a-d32611b977ad@172.67.65.101:2096?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@s28233.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#17.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:9443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto&extra=null#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://b818576e-951a-4a9c-879a-d32611b977ad@172.67.73.135:2096?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@104.18.13.229:8880?encryption=none&host=square-frost-8d11.9660004.workers.dev&path=%2F&security=none&type=ws#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://b818576e-951a-4a9c-879a-d32611b977ad@172.67.73.135:2096?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://b818576e-951a-4a9c-879a-d32611b977ad@104.26.9.125:8443?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.40.47:443?sni=pagescm.freen7.cc.cd&type=ws&host=pagescm.freen7.cc.cd&path=/knowledgefp=chrome&security=tls#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@35.156.76.43:2053?allow_insecure=0&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#1.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#2.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?path=/222.167.202.31:7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#3.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.26.8.97:2083?sni=mybloh.ccwu.cc&type=ws&host=mybloh.ccwu.cc&path=/proxyip=223.165.4.57,167.253.153.147,114.33.57.170flow=-udp443fp=chrome&security=tls#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&allow_insecure=0#5.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su&alpn=http%2F1.1%2Ch2%2Ch3#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5d1e9449-c5da-48d9-a307-df280251a835@5.129.204.161:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=altrunet-probe.tw1.su#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#9.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@35.156.76.43:8443?allow_insecure=0&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.70:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision#12.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.173.103:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://b818576e-951a-4a9c-879a-d32611b977ad@162.159.153.235:2053?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1&packetEncoding=none#15.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://74e76ee2-1a19-47ce-ae64-ad9183613df5@84.201.132.59:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&sid=9db07670a7b491cb&type=tcp&headerType=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b818576e-951a-4a9c-879a-d32611b977ad@162.159.153.235:2053?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#18.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1#19.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://74e76ee2-1a19-47ce-ae64-ad9183613df5@84.201.133.30:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=vgECJ1J0IOIrxpnh7Pu7nhy2wJ_RJWq5wp_5sxp-3Bk&sid=9db07670a7b491cb&type=tcp&headerType=none#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.52:52006?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=cluster-russia-3.firstvideocdn.ru&allowInsecure=0&fp=chrome#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#22.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#23.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://b818576e-951a-4a9c-879a-d32611b977ad@8.39.125.251:2096?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
