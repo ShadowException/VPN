@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.19.238.22:80?type=ws&host=sfsl.ardomains1.dpdns.org&path=/?ed=2048#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&fp=chrome&alpn=http%25252525252F1.1&headerType=none#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://73ea81a4-6cd5-fade-b3e6-bf4dd74256fc@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@212.193.147.245:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fefc6f47-40d5-Fade-b86a-63971f980828@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#5.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&fp=chrome&alpn=http%252F1.1&headerType=none#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://23df6bf6-f217-4a87-a108-b21ba8e2f293@158.160.189.226:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rwk2V0UCUx0kJ5DPWpUn3z0rspHMF8SXHma1O2WccGM&sid=416f876d77286bf6&sni=yandex.ru#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:80?type=ws&host=cvsoidswg.k3ckfz151a.workers.dev#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c8e292bf-37c6-4f4e-b0cc-69508d10cd4f@192.144.12.5:443?flow=xtls-rprx-vision&fp=randomized&pbk=KC8Z8Q-ioEjsH6okqp798zw8am3b4oWoor01aQaRoCo&security=reality&sid=0482743c967a4454&sni=ru1.node.velum-vpn.ru&type=tcp#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c8e292bf-37c6-4f4e-b0cc-69508d10cd4f@192.144.12.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ru1.node.velum-vpn.ru&pbk=KC8Z8Q-ioEjsH6okqp798zw8am3b4oWoor01aQaRoCo&sid=0482743c967a4454#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@212.193.147.245:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://d0510c6d-0322-fade-b0f2-53eb6895d86b@195.209.88.216:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c8e292bf-37c6-4f4e-b0cc-69508d10cd4f@192.144.12.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=ru1.node.velum-vpn.ru&pbk=KC8Z8Q-ioEjsH6okqp798zw8am3b4oWoor01aQaRoCo&sid=0482743c967a4454#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://162534@62.182.193.126:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.37.104:80?type=ws&host=sfsl.ardomains1.dpdns.org&path=/?ed=2048#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:80?type=ws&host=cvsoidswg.k3ckfz151a.workers.dev#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?type=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev#19.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@ru3.skysafe.online:443?fp=chrome&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&security=reality&sid=fb38c1c83009e1&sni=ru3.skysafe.online&spx=%2F&type=grpc#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://25f89043-1768-4500-ad79-fb68e8a00989@51.250.114.26:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-6-2.nodes.ac&pbk=HHmhCp_qS_hIgIniZwaNwqI5CFH2_QmES4dFO41BRWo&sid=64038de1ca7aad86#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&seq=5546&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=tcp#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#23.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://25f89043-1768-4500-ad79-fb68e8a00989@158.160.210.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-2.nodes.ac&pbk=uk92pbvDM3dRNZqaTHUE-x06fZxubSyUA997NkB5tyk&sid=5a517ed4bfcd4a54#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=bold-term-4edd.mbigspot.workers.dev&path=/?ed=2048#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://73ea81a4-6cd5-fade-b3e6-bf4dd74256fc@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.90.178:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=chrome&sni=s28233.cdn.ngenix.net#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?type=ws&host=sfsl.ardomains1.dpdns.org#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://bpb-trojan@104.21.26.36:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=/tr?ed=2560#6.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.19.238.22:80?type=ws&host=sfsl.ardomains1.dpdns.org&path=/?ed=2048#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fefc6f47-40d5-Fade-b86a-63971f980828@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.16.239.205:80?type=ws&host=sfsl.ardomains1.dpdns.org#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?type=ws&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev#10.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://e387b1c6-c344-Fade-b068-094f5b92aa23@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&sni=s28233.cdn.ngenix.net#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.37.104:80?type=ws&host=sfsl.ardomains1.dpdns.org&path=/?ed=2048#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.17.25.173:80?type=ws&host=aa.beijng.dpdns.org&path=%2F%3Fed%3D2048#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@172.67.74.136:443?sni=pagescm.freen17.cc.cd&type=ws&host=pagescm.freen17.cc.cd&path=/directoryfp=chrome&security=tls#14.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://20d3fe0d-bbe1-4a74-9a85-9b9ba548f7f0@104.18.5.105:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=long-sky-3151.sue100.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=long-sky-3151.sue100.workers.dev#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?path=ws&security=tls&encryption=none&insecure=0&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev#16.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://b818576e-951a-4a9c-879a-d32611b977ad@172.67.65.101:2096?sni=cocobaby.pages.dev&type=ws&host=cocobaby.pages.dev&path=/fp=chrome&security=tls#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.26.1.83:443?sni=pagescm.freen10.cc.cd&type=ws&host=pagescm.freen10.cc.cd&path=/shop/programs/picturefp=chrome&security=tls#19.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@de.skysafe.online:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de.skysafe.online&fp=random&pbk=nMZty6MwsYsHk180yJ5PiKaHdY40bpdD9yUIycZYmCc&sid=ea9158334ab2&type=tcp&headerType=none#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://fefc6f47-40d5-Fade-b86a-63971f980828@195.209.82.149:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#21.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:80?encryption=none&type=ws&security=none&host=cvsoidswg.k3ckfz151a.workers.dev#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://31df9217-b7d0-Fade-946c-ac50d556aeff@195.209.82.149:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2,http/1.1#23.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+trojan://162534@193.168.172.162:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://811c0d4a-246d-47a8-be1e-e9b033412d01@84.201.163.241:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-5-3.nodes.ac&pbk=XRFML-IWeLV3f6NDAYx2XRsfwgRctaCPSYkY3EHAGyA&sid=cf9a5f248d845846#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
