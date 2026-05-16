@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@s28233.cdn.ngenix.net:443?type=ws&security=tls&fp=qq&sni=s28233.cdn.ngenix.net&host=s28233.cdn.ngenix.net&alpn=h2,http/1.1#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?fragment=100-200%2C10-20%2Ctlshello%2C100-200&fp=chrome&type=tcp&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&sid=1a1e145c&headerType=none&spx=%2F&security=reality&flow=xtls-rprx-vision&sni=max.ru&r=4f79f1#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@80.90.188.250:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#6.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://5a478129-3e7e-Fade-99d7-95e1da14fbdc@195.209.88.180:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2,http/1.1#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#9.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&security=tls&sni=daluan.eu.org&insecure=0&allowInsecure=0&type=ws&host=daluan.eu.org&path=%2F#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@www.visasoutheasteurope.com:2096?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:80?type=ws&host=cvsoidswg.k3ckfz151a.workers.dev&path=%2F#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?type=ws&headerType=none&security=tls&encryption=none&sni=cdn.tracker.yandex.net&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&insecure=0#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?path=%2Fazadnet-1ml.pages.dev%2F&security=tls&encryption=none&host=azadnet-1ml.pages.dev&type=ws&sni=azadnet-1ml.pages.dev#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@109.176.229.55:8388#1.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@ru3.skysafe.online:443?fp=chrome&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&security=reality&sid=fb38c1c83009e1&sni=ru3.skysafe.online&spx=%2F&type=grpc#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2075f8d7-0f7a-Fade-9de5-e77632611a13@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://73ea81a4-6cd5-fade-b3e6-bf4dd74256fc@195.209.82.149:443?encryption=none&type=ws&security=tls&path=%2F&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=bold-term-4edd.mbigspot.workers.dev&path=/?ed=2048#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.88:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://3e4694ad-c0f8-4ddc-ba03-6222cbe5f988@fast.safepass.click:443?type=xhttp&security=reality&encryption=none&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&fp=chrome&sni=www.samsung.com&path=%2F&mode=auto#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.204:9443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&allow_insecure=0#16.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:9443?fp=chrome&mode=auto&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&security=reality&sid=965af8960474c29c&sni=stats.vk-portal.net&type=xhttp#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&host=cdn.lovecrafty.link&path=%2Fstream%2Fupdates%2Fb66b78d7%2F019dfd7f-0777-6283-7287-911777c3720f4&security=tls&fp=chrome&sni=cdn.tracker.yandex.net#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://6784aee2-0dfe-474f-8446-480259ff9918@212.41.9.238:9443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://e62d084a-b9de-4486-a776-a54d200f89c1@square-sea-36d2.sendconfig.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=square-sea-36d2.sendconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=square-sea-36d2.sendconfig.workers.dev#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment#25.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&type=ws&security=tls&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&host=cdn.lovecrafty.link&fp=chrome&sni=cdn.tracker.yandex.net#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru113.mechvpn.online:443?flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&type=tcp&security=tls&__rand=4577ea1f#24.%20%F0%9F%87%A7%F0%9F%87%BE%20Belarus
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@myanmar.visa.com:8443?encryption=none&security=tls&sni=daluan.eu.org&fp=randomized&type=ws&host=daluan.eu.org&path=%2F%3Fed%3D2560#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
