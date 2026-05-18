@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@77.105.169.188:8388#1.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVVNicjJlTENYbWJjNjR4T0hoZ0V0@167.172.249.115:41195#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://ee7ad4a2-8735-4c64-9207-07153603cadc@178.154.204.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-4-5.nodes.ac&pbk=ymfAk3W8rkjPYqsb5LTZePsR7GazEk4tBGTrAn-44Ro&sid=3f7738018d03aebe#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://ee7ad4a2-8735-4c64-9207-07153603cadc@178.154.204.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-4-4.nodes.ac&pbk=FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0&sid=bfb16f73e35be2da#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://b1e4bfe2-2b12-11f1-92cb-12ba70109d32@95.163.183.11:2087?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=OMQ1V_lJL1tgssEepG7BkCjBdt6sleZivAHiBPALlGc&sid=ce59797defddc5e7#6.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://9ae07a59-f216-40b8-8250-9ffc26d95b55@176.124.211.23:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#7.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-vless://3b521e44-e948-47a8-b1ef-31c5c847e0cc@176.124.211.23:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision#9.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&allow_insecure=0#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#11.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@s6eba9cb4.fastvps-server.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com#12.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&alpn=h3,h2,http/1.1#15.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.26:2083?type=ws&security=tls&encryption=none&sni=daluan.eu.org&host=daluan.eu.org#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&fp=randomized&type=ws&sni=daluan.eu.org#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1&packetEncoding=none#22.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://5a98ca8a-52ae-11f1-bc2f-b65d770049c8@95.163.183.11:2087?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=OMQ1V_lJL1tgssEepG7BkCjBdt6sleZivAHiBPALlGc&sid=aa840dfbe6f200dc#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@109.176.229.55:8388#1.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.88:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=daluan.eu.org&fp=chrome&type=ws&sni=daluan.eu.org#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1#4.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h3,h2,http/1.1#5.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.80.199:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=/azadnet-1ml.pages.dev/?ed=2560&PROT_TYPE=vless&fp=chrome#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?type=ws&security=tls&encryption=none&fp=randomized&sni=daluan.eu.org&host=daluan.eu.org#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl194.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#11.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@109.176.229.55:8388#12.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d471e982-4237-Fade-94df-c0d11029282a@195.209.90.178:443?encryption=none&type=ws&security=tls&host=s28233.cdn.ngenix.net&fp=qq&sni=s28233.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=pl74.mechvpn.online&alpn=h3,h2,http/1.1&packetEncoding=none#14.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&allow_insecure=1#15.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://9ae07a59-f216-40b8-8250-9ffc26d95b55@176.124.211.23:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#16.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@109.176.229.55:8388#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://3b521e44-e948-47a8-b1ef-31c5c847e0cc@176.124.211.23:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#18.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://3b521e44-e948-47a8-b1ef-31c5c847e0cc@176.124.211.23:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://9ae07a59-f216-40b8-8250-9ffc26d95b55@176.124.211.23:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@pl74.mechvpn.online:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&alpn=h3%2Ch2%2Chttp/1.1#21.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@s6eba9cb4.fastvps-server.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa&sni=s6eba9cb4.fastvps-server.com#22.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=%2Ftr%3Fed%3D2560#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
