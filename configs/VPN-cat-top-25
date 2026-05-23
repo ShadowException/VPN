@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZ2I4WUdZbHhZTjdqdkRHeEExNEs5@109.107.182.229:51544#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM=@89.185.84.34:31348#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://0a5ab719-2407-4398-b507-8437ef365023@172.66.44.211:8880?encryption=none&host=underthegun.cfd&path=/FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&type=ws#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=floral-term-d21f.wafajax493.workers.dev#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?encryption=none&security=none&type=ws&host=germany.vipserver14.workers.dev&path=%2F%3Fed%3D2048#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://9f460fdc-2dfd-4757-b91a-a68cfcb9e123@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg==@45.140.168.54:50129#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.108:8443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@amirvpn.amirhm00100.workers.dev:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.19.61.94:443?allow_insecure=0&fp=chrome&host=pagescm.freen6.de5.net&path=%2Fhelp%2Fjumping&security=tls&sni=pagescm.freen6.de5.net&type=ws#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://f2564bb4-9960-4ccb-8017-bc02802f768a@white-snowflake-e65e.queenmahsan1.workers.dev:443?encryption=none&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&type=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&ed=4096#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru113.mechvpn.online:443?flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&type=tcp&security=tls&__rand=4577ea1f#13.%20%F0%9F%87%A7%F0%9F%87%BE%20Belarus
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.18.40.17:2053?allow_insecure=0&fp=chrome&host=pagescm.freen2.de5.net&path=%2Ftools&security=tls&sni=pagescm.freen2.de5.net&type=ws#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.14.201:2096?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://40afa553-1745-4f62-a380-4163c7bb4870@restless-dew-894b.amirhost4.workers.dev:443?encryption=none&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&host=restless-dew-894b.amirhost4.workers.dev&path=/@freenettir#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?encryption=none&security=tls&sni=daluan.eu.org&insecure=0&allowInsecure=0&type=ws&host=daluan.eu.org&path=%2F#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&sni=spring-tooth-7fa3.ahmadrj.workers.dev&fp=random&allowInsecure=0&type=ws&path=/?ed%3D2560#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.38.183:2083?allow_insecure=0&fp=chrome&host=pagescm.freen12.cc.cd&path=%2Fedu%2Fstore&security=tls&sni=pagescm.freen12.cc.cd&type=ws#21.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.2.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.3:443?encryption=none&type=ws&security=tls&host=restless-dew-894b.amirhost4.workers.dev&fp=chrome&sni=restless-dew-894b.amirhost4.workers.dev#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:2053?type=ws&security=tls&sni=&host=Ciallo-eGB.PageS.dev&path=%2F%25252F#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?type=ws&security=none&encryption=none&path=%F0%9F%94%92&host=floral-term-d21f.wafajax493.workers.dev#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://ea35c030-5628-11f1-9df5-54db13ea7d40@172.86.93.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.akamai.com&fp=randomized&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&sid=#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.3.150:443?path=%2F&security=tls&encryption=none&host=daluan.eu.org&type=ws&sni=daluan.eu.org#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?encryption=none&security=none&type=ws&host=germany.vipserver14.workers.dev&path=%2F%3Fed%3D2048#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.151.182.34:443?type=tcp&security=reality&pbk=WMy1KN-awWYkz-3jct8VM4qvCeK3ICvJj3wzam6pAyE&fp=chrome&sni=pimg.mycdn.me&sid=b8f9f01b#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fd2a664f-057e-454b-83b4-f02133c8017c@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://humanity@www.calmlunch.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru113.mechvpn.online:443?flow=xtls-rprx-vision&alpn=h3,h2,http/1.1&type=tcp&security=tls&__rand=4577ea1f#9.%20%F0%9F%87%A7%F0%9F%87%BE%20Belarus
+ss://YWVzLTI1Ni1nY206MzJjMGVhNmU4MjMzNDFhMg==@45.140.168.54:50129#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?security=tls&type=ws&path=/#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://a918f3b6-9bb1-458f-9845-281081e48ea0@51.250.4.2:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@amirvpn.amirhm00100.workers.dev:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206eENRbGhSeTdveFMzRkhZSDhxdFVqcFNHdDJYUHd4RURpUnJYWS9YT2J2az0=@31.220.61.82:17040#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.96.3:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://humanity@sourceforge.net:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://a918f3b6-9bb1-458f-9845-281081e48ea0@158.160.255.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0b3e7958-e5c4-498f-ab21-b49686f95d2d@188.114.97.1:2053?encryption=none&security=tls&sni=bold-term-4edd.mbigspot.workers.dev&alpn=h2,http/1.1&fp=chrome&insecure=1&type=ws&host=bold-term-4edd.mbigspot.workers.dev&path=/?ed=2048#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime17.workers.dev#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=restless-dew-894b.amirhost4.workers.dev#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.151.182.34:443?type=tcp&security=reality&pbk=WMy1KN-awWYkz-3jct8VM4qvCeK3ICvJj3wzam6pAyE&fp=chrome&sni=pimg.mycdn.me&sid=b8f9f01b#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://0a5ab719-2407-4398-b507-8437ef365023@172.66.44.211:8880?encryption=none&host=underthegun.cfd&path=/FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&type=ws#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@square-sea-36d2.sendconfig.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=square-sea-36d2.sendconfig.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=square-sea-36d2.sendconfig.workers.dev#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
