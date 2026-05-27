@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&type=tcp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&type=xhttp&host=ads.x5.ru&path=%2Fapi%2Fv3%2Ff29479507adb&mode=auto#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?type=tcp#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?security=none&encryption=none&headerType=none&type=tcp#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?security=none&type=tcp#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&amp;security=none&amp;type=tcp#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&type=xhttp&host=ads.x5.ru&path=%2Fapi%2Fv3%2Ff29479507adb&mode=auto#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://d9c1a649-1cbe-42c7-a619-af38c944fa72@5.175.178.155:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=ss02uq_fJvSOaFODaNs9xywXPhxRBXZdBUiazqhY1wM&sid=e5758e5f&sni=vk.com#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?type=tcp#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?type=tcp#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&encryption=none&headerType=none&type=tcp#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&encryption=none&headerType=none&type=tcp#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?security=none&type=tcp#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp&headerType=none&security=none&encryption=none#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://1ccfd13a-a5fa-4371-b14f-f52aa1e0e070@95.163.211.240:8444?encryption=none&type=tcp&security=reality&fp=randomized&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#8.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&security=none&type=tcp#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?security=none&encryption=none&headerType=none&type=tcp#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?type=tcp&headerType=none&security=none&encryption=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?encryption=none&type=tcp&security=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&security=none&type=tcp#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@ru7.alexanderoff.ru:4443?type=tcp#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://1ccfd13a-a5fa-4371-b14f-f52aa1e0e070@91.219.227.203:8444?encryption=none&type=tcp&security=reality&fp=randomized&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#21.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@87.228.124.196:4443?type=tcp#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://de87620b-6bff-4077-99cc-ce65e06b64ed@5.188.156.138:4443?encryption=none&type=tcp&security=none#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
