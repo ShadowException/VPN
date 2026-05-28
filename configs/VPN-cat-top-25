@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://bbf07169-8c80-485b-83d5-93b87a882219@45.139.78.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?flow=xtls-rprx-vision&insecure=0&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@84.201.148.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=5d8e1a9c4f72b3#6.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@5.178.85.202:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@5.188.114.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@158.160.186.6:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=7e2a9d4c5f18b0#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c15ce7df-673d-42cb-a229-4bff14eb59f3@176.109.101.215:8444?encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@5.188.114.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=a9c4f17e3b62d8#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://c15ce7df-673d-42cb-a229-4bff14eb59f3@176.109.101.215:8083?encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM@89.185.84.34:31348#15.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@5.188.115.116:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://t-me-kinsta_service@91.107.179.224:47411/?type=tcp&encryption=none&flow=#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://91ff2ef2-ff0f-4f83-b85a-9fd50ea2a7ce@158.160.57.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5f6ae03c-a16d-41b1-9e62-7a45d8ea2eb3@84.201.148.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?alpn=http/1.1&flow=xtls-rprx-vision&fp=qq&insecure=0&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://571816f4-e9f8-4aab-a868-3ec3eca2fcfc@158.160.240.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-4.nodes.ac&pbk=fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M&sid=479898e66f5e7beb#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?encryption=none&fp=chrome&host=de.lezzatzone.ir&mode=stream-one&path=/de&security=tls&sni=de.lezzatzone.ir&type=xhttp#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://23752996-3600-4ab8-a4d3-a7f4efc1f349@145.239.173.214:2053?security=none&encryption=none&headerType=none&type=tcp#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=raw&headerType=none&security=none#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04ae1b04-86a0-4bbf-bfb7-2132d10a6b8e@downlod.musicribvar.com:2010?mode=gun&security=none&type=grpc#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://e85e5523-402e-4eb0-ad27-2bcdbd4ea0f4@212.47.244.85:16595?headertype=none&security=none&type=tcp#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&type=xhttp&host=ads.x5.ru&path=/api/v3/f29479507adb#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUUdBQU1RTFpveE1UNEVVeE5QdUZ3S0ltc0F2aVpUSFRFTW1IRmxSckRLSnBNblM=@89.185.84.34:31348#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak0yTg@138.124.125.249:1443#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d9377513-7e6b-48f1-89e4-a21f855b1969@sets.starservice.site:13764?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://505114b9-e689-5d23-9ba0-f95d74e92a67@net.kakakakaka.dpdns.org:47411?encryption=none&security=none&type=tcp#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://505114b9-e689-5d23-9ba0-f95d74e92a67@net.kakakakaka.dpdns.org:47411?encryption=none&security=none&type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@37.49.225.189:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http%2F1.1&flow=xtls-rprx-vision&insecure=0#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://04ae1b04-86a0-4bbf-bfb7-2132d10a6b8e@downlod.musicribvar.com:2010?mode=gun&security=none&encryption=none&type=grpc#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://58867710-6dd3-42b6-a7be-1fdf1c5efd19@v2configlab.v2configlab9.workers.dev:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=v2configlab.v2configlab9.workers.dev&type=ws#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv5.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://20c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.147.22:80?encryption=none&type=ws&security=none&host=cvsoidswg.k3ckfz151a.workers.dev#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?security=&encryption=none&headerType=none&type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&headertype=none&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#20.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://4a9176ed-231e-459d-a1d7-463e0fd6c0f2@176.122.25.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=d706ec7c33efc7&spx=%2F#21.%20%F0%9F%87%A7%F0%9F%87%AA%20Belgium
+vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.217.179.4:443?mode=auto&path=/api/v3/f29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521b2#22.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?headertype=none&security=none&type=tcp#24.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
