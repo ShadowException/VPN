@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotLVU2aXRPLUNYUTZ3amQ4Sk1RZm9n@45.93.201.73:8388#1.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://dc0470c2-50c2-445c-bfdf-1d1fe38d69da@65.109.221.68:8443?encryption=none&type=raw&headerType=http&host=varzesh3.com&path=%2F&security=none#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotLVU2aXRPLUNYUTZ3amQ4Sk1RZm9n@45.93.201.73:8388#4.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://e839678d-0b2a-432a-a2e6-3da43f6033bc@158.160.165.84:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w5zu8kLKRRX_UQTto3FX1knEjGZJbyY2NzcgiOfzIws&sid=def012&spx=%2FgxoaKWnQIwrasdfUvi#7.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#10.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=raw&headerType=none&security=none#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e839678d-0b2a-432a-a2e6-3da43f6033bc@158.160.165.84:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w5zu8kLKRRX_UQTto3FX1knEjGZJbyY2NzcgiOfzIws&sid=def012&spx=%2FgxoaKWnQIwrasdfUvi#13.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
-vless://04ae1b04-86a0-4bbf-bfb7-2132d10a6b8e@downlod.musicribvar.com:2010?mode=gun&security=none&type=grpc#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&security=none&type=tcp&headerType=none#16.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=tcp&headerType=none#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://40def0e2-6ec4-47c7-83eb-154fff130c60@5.188.114.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=a9c4f17e3b62d8#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://04ae1b04-86a0-4bbf-bfb7-2132d10a6b8e@downlod.musicribvar.com:2010?encryption=none&type=grpc&security=none#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://505114b9-e689-5d23-9ba0-f95d74e92a67@91.107.179.224:47411?security=none&type=tcp#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://ba71b482-f990-4f0a-9496-1ebd58102f96@84.201.136.5:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://40def0e2-6ec4-47c7-83eb-154fff130c60@84.201.148.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=5d8e1a9c4f72b3#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://098472a5-cbab-4d50-849c-1f8157385666@185.242.19.252:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&sni=top2209809841.mwscdn.ru#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&sid=dc93f297474b860f#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&sid=dc93f297474b860f#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotLVU2aXRPLUNYUTZ3amQ4Sk1RZm9n@45.93.201.73:8388#6.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotLVU2aXRPLUNYUTZ3amQ4Sk1RZm9n@45.93.201.73:8388#7.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=raw&headerType=none&security=none#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&sid=dc93f297474b860f#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6cd9872f-d1ac-46f7-91c4-bd4704b47fa2@176.109.101.215:8444?encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#11.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&amp%3Bencryption=none&amp%3BheaderType=none&amp%3Btype=tcp#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://dc0470c2-50c2-445c-bfdf-1d1fe38d69da@65.109.221.68:8443?encryption=none&type=raw&headerType=http&host=varzesh3.com&path=%2F&security=none#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://ae9ceaa0-b978-48fe-85e4-293702e6e6cd@158.160.165.84:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w5zu8kLKRRX_UQTto3FX1knEjGZJbyY2NzcgiOfzIws&sid=def012&spx=%2FgxoaKWnQIwrasdfUvi#15.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
+vless://505114b9-e689-5d23-9ba0-f95d74e92a67@91.107.179.224:47411?security=none&type=tcp#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?headertype=none&security=none&type=tcp#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://07e326bb-801c-49fc-9005-d2a3e9673e89@84.200.33.81:2056/?type=tcp&amp;encryption=none&amp;flow=#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://t-me-kinsta_service@91.107.179.224:47411/?type=tcp&encryption=none&flow=#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?encryption=none&type=tcp&headerType=none#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://81bc17b1-f73d-419c-a50b-9e2a4d255dfb@5.188.114.12:8443?type=grpc&security=reality&encryption=none&pbk=kYBv0pzwgjZYoymSlSGPFxgoLgs92uXYUGZfZ2wwnnI&fp=chrome&sni=5post-gate.x5.ru&sid=dc93f297474b860f#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
