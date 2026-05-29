@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://@IR_NETLIFY@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&type=tcp&headerType=&path=&host=#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=none&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&encryption=none&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&fp=chrome&sni=5post-gate.x5.ru&sid=1fad87#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&type=raw&headerType=none&security=none#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TldSYkx2K05JejUrenNzdTdueGsrZkN3N3dESFlMRmJXeTRtM0V5N09vMD06TUllZHB3TFE4NCtDR0VUVzB0ZkMwVFI4SFZBc3c1QTFzSStMaiswaUV5az0=@91.107.247.25:8083#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?security=none&type=tcp&headerType=&path=&host=#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#12.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://Mitivpn@216.24.57.251:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dash.hitgram.ir&sni=dash.hitgram.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052?encryption=none&type=raw&headerType=none&security=none#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#16.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#18.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#19.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://Mitivpn@216.24.57.7:443?path=/?ed=2048&security=tls&alpn=http/1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#21.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://659510a7-945e-45e2-8d62-6a032a21f0c1@85.198.85.193:46852?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#22.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://7c2bb307-ecab-456b-b6e5-db8f26492910@2.26.98.185:4443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=2.26.98.185&type=tcp#23.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://freedom-runet-11@de-fal.colorbox.space:8080?type=ws#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://49882640-5877-4f73-a49e-86e209d080a9@d28224e6de4fbedf.fly.iranray.online:80?mode=auto&path=%2Fassets&security=none&encryption=none&host=seminar-emcee-sighing-hazily-machine-antirust.global.ssl.fastly.net&type=xhttp#25.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&security=none&fp=chrome#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@azmononline.konkuriran.sbs:2052#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?type=grpc&security=reality&fp=chrome&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87&sni=5post-gate.x5.ru#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e3c68e9e-5bf3-4e4b-abac-806053baa43a@77.110.124.100:80?security=none&type=tcp#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://b43c896e-d9b8-4606-b902-b1bf6d10d2f9@85.198.85.193:40470?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=5post-gate.x5.ru&pbk=kn16KgkUCMVfqSIwKI9fd0yDy6VcavlTt56LqE_7JWI&sid=1fad87#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#15.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://b94194df-c343-4d77-96be-ab530f1b06ec@179.237.72.235:56391?security=none&allowInsecure=0&encryption=none&type=tcp&host=my.mci.ir&path=/&headerType=http#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://f6314e1e-8c40-4972-b1e2-de25d37611a7@www.speedtest.net:8080?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=ai.heroitweb.ir&type=xhttp#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@84.201.146.8:443?encryption=none&type=xhttp&security=reality&extra=null&fp=chrome&sni=max.ru&pbk=KR2tU5Ozrtgk4qxx_h3Pt9LgPsQ5rjLzraod0PJFSTI&spx=%2F#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=%2F&type=ws#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://freedom-runet-42@de-fal.colorbox.space:8080?type=ws#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://monacoVPN@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#21.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://freedom-runet-40@de-fal.colorbox.space:8080?type=ws#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://InternetAzadRobot@fastly.com:80?mode=auto&path=/tofan&security=none&encryption=none&host=sv6tignal.global.ssl.fastly.net&type=xhttp#24.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://freedom-runet-9@de-fal.colorbox.space:8080?type=ws#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
