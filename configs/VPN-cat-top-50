@@ -2,57 +2,57 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?amp%3Bencryption=none&amp%3Btype=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?headertype=none&security=none&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?type=tcp&encryption=none&security=none&__rand=dee9f40f#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?encryption=none&type=raw&headerType=none&security=none#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?%3Btype=tcp&amp%3Bencryption=none#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=none&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?headertype=&security=&type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3d7b9be9-d378-4f76-90f8-032859eea47b@91.107.177.36:28470?headertype=&security=&type=tcp#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?encryption=none&type=raw&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none#19.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp&headerType=none&security=none&encryption=none#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=&type=tcp#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&type=tcp#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#26.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#27.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?allowInsecure=0#28.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#29.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#30.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#31.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=&encryption=none&headerType=&type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=&type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&type=tcp#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?encryption=none&type=ws&security=tls&path=%2Fsequre%2Fws%3Fed%3D2560&host=cloudflare.tyr-agentstvo.tech&fp=firefox&sni=cloudflare.tyr-agentstvo.tech&alpn=http%2F1.1#26.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#27.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad#28.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#29.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#30.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#31.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#32.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#33.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#34.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://6446c7c5-531f-4846-9692-c32902e30b43@51.250.47.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#35.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#36.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp#37.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?allowInsecure=0#38.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp#33.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&type=tcp#34.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#35.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#36.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#37.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#38.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#39.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#40.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&type=tcp#41.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#42.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#43.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#44.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#45.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#46.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#47.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#40.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#41.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#42.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp#43.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#44.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#45.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#46.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%8347&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad#47.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#48.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&#49.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#50.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?allowInsecure=0#49.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp#50.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
