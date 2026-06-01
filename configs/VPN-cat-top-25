@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+Z669V03BrHgxZWRh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?encryption=none&type=raw&headerType=none&security=none#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&amp;security=none&amp;type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.1.164:80?security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal#4.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://InternetAzadRobot@151.101.65.57:80?encryption=none&type=xhttp&mode=auto&host=shangulin.global.ssl.fastly.net&path=/login&security=none#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#7.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.65.164:80?security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.193.164:80?security=none&type=xhttp&host=tignaltofansv8.global.ssl.fastly.net&path=%2FTignal#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxJZXdaek5Vc0lycU9EcjIyRlZj@195.133.2.2:34898#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=shangulin.global.ssl.fastly.net&mode=auto&path=/login&security=none&type=xhttp#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp&freeinternet=kizyak_vpn1780244491113#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=&encryption=none&headerType=none&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://40147b10-a825-4a61-ac35-170d0f293400@185.229.9.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=PtVVwDjgg1QGVPG6Frbwn96PyzrPin7izn8OKcclAmw&sid=27e53bbcab7593d7&spx=%2F#16.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?host=nobody.fastspeed.ir&path=%2Fws&sni=nobody.fastspeed.ir&type=ws#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&amp;security=none&amp;type=tcp#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#23.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#24.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?headertype=none&type=tcp#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?host=nobody.fastspeed.ir&path=%2Fws&sni=nobody.fastspeed.ir&type=ws#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?encryption=none&type=raw&headerType=none&security=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://d16bbe17-4cde-4dfd-8719-5d034f1eba7b@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#5.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://2ce1a345-89ee-4cbb-9e14-5675a6a2ddfa@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=eh.vk.com&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://8aa77901-2540-4430-97d4-b6f9779196f2@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=eh.vk.com&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&spx=%2F#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862?type=tcp&security=none#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://2ce1a345-89ee-4cbb-9e14-5675a6a2ddfa@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rambler.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?headertype=none&type=tcp#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://cd26af96-638b-4d53-a264-8e0d584be772@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e1926185-0efa-4ffa-a043-223cb3a44182@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=io.ozone.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&spx=%2F#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#16.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://da9f6ce2-aaba-47dd-be50-5afd17331fd9@212.100.171.194:48862#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://d16bbe17-4cde-4dfd-8719-5d034f1eba7b@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sun6-22.userapi.com&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://2ce1a345-89ee-4cbb-9e14-5675a6a2ddfa@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=io.ozone.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ff384a33-34cd-46f1-9505-242bd983eabf@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?type=tcp&encryption=none&security=none#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp&headerType=none#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
