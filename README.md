@@ -1,7 +1,7 @@
 # VPN cat configs
 VPN cat configs - автоматически обновляющаяся коллекция конфигов VPN, протестированных на территории России.
 
-[Наш Telegram канал](https://t.me/+jZZ9Ze1lVVQxNmFh)
+[Наш Telegram канал](https://t.me/+n1658FX-B0NlMTNh)
 
 ## Ссылки для вставки в VPN-клиенты
 Все сервера:
