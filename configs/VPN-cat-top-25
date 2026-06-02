@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckxkalduNzlPdjhRS0lYa21XeUxH@5.253.59.156:32140#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&sni=nobody.fastspeed.ir&type=ws#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://42191252-2937-404a-a982-04519c71e26a@84.201.174.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&packetEncoding=xudp#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?encryption=none&type=ws&security=tls&path=%2Fsequre%2Fws%3Fed%3D2560&host=cloudflare.tyr-agentstvo.tech&fp=firefox&sni=cloudflare.tyr-agentstvo.tech&alpn=http%2F1.1#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.214.183:443?encryption=none&type=ws&security=tls&path=/sequre/ws?ed=2560&host=cloudflare.tyr-agentstvo.tech&fp=qq&sni=cloudflare.tyr-agentstvo.tech&alpn=http/1.1#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?encryption=none&type=ws&security=tls&path=/sequre/ws?ed=2560&host=cloudflare.tyr-agentstvo.tech&fp=firefox&sni=cloudflare.tyr-agentstvo.tech&alpn=http/1.1#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?security=none&type=grpc#20.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://%40a_amr79@141.193.213.11:443?security=tls&type=ws&path=%2Fmy-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&fp=chrome&encryption=none#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.214.183:443?encryption=none&type=ws&security=tls&path=/sequre/ws?ed=2560&host=cloudflare.tyr-agentstvo.tech&fp=qq&sni=cloudflare.tyr-agentstvo.tech&alpn=http/1.1#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#23.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#24.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?encryption=none&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=graph.instagram.com.cyylr.eu.cc#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?encryption=none&type=ws&security=tls&path=%2Fsequre%2Fws%3Fed%3D2560&host=cloudflare.tyr-agentstvo.tech&fp=firefox&sni=cloudflare.tyr-agentstvo.tech&alpn=http%2F1.1#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#20.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls&sni=64.176.65.85&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#21.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://%40a_amr79@141.193.213.11:443?security=tls&type=ws&path=%2Fmy-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&fp=chrome&encryption=none#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://28f79470-c550-40b0-9e46-834a46ac8da8@cyylr.eu.cc:443?encryption=none&security=tls&sni=help.viu.com.cyylr.eu.cc&type=ws&host=help.viu.com.cyylr.eu.cc&path=%2Fid-pusat#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&type=tcp&packetEncoding=none#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
