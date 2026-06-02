@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&amp;security=none&amp;type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=none&encryption=none&headerType=none&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?host=nobody.fastspeed.ir&path=%2Fws&sni=nobody.fastspeed.ir&type=ws#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp&headerType=none#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#10.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?headertype=none&security=&type=tcp#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?host=nobody.fastspeed.ir&path=%2Fws&sni=nobody.fastspeed.ir&type=ws#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#15.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&sni=yastatic.net&type=tcp&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?type=tcp&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&fp=&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206ZDFhNDQ1ZDgtZDI4MC00NDY1LTg5M2ItMDg3Yjk3MmEzYWEx@192.142.18.127:443#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://33612cbf-0639-4285-81da-f88eba1d4f85@bankir.ksnodes.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bankir.ksnodes.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&descriptions=СвободуИнтернету47#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?headertype=&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&encryption=none&headerType=none&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://545a440f-daf8-4873-b231-54e384a17a4c@ru.c2horizon.app:443?security=none&encryption=none&headerType=none&type=tcp#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f5518b09-4fd2-47cc-9fbf-b2608592dece@84.201.156.73:1337?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=bc841.stardevs.top#12.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&amp;security=none&amp;type=tcp#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&encryption=none&headerType=none&type=tcp#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?security=&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
