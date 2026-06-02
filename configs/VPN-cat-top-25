@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://@IR_NETLIFY@194.59.183.234:666?security=none&type=tcp&encryption=none#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://f099abc1-eb01-4171-a94f-566563f6b3b1@87.120.196.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ya.ru&fp=chrome&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&type=tcp&headerType=none#2.%20%F0%9F%87%B1%F0%9F%87%B0%20Sri%20Lanka
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://6126d7b3-81a4-4ee1-b75d-b2e86ece2ffe@178.105.252.0:56094?encryption=none&type=raw&headerType=none&security=none#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#6.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&type=tcp&packetEncoding=none#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?type=tcp&security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&sni=yastatic.net#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?type=tcp&security=none&fp=chrome#9.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:802#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?security=none&type=tcp&packetEncoding=none#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&path=%2Fws#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&sni=nobody.fastspeed.ir&type=ws#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=%2Fws&security=none&type=ws#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443?encryption=none&security=none&type=tcp&headerType=none#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&sni=yastatic.net#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?encryption=none&security=none&type=tcp&headerType=none#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0d0329b6-8161-41db-9206-cdae7b946730@178.154.204.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-4-4.nodes.ac&pbk=FVceIo73-WJfacwis9bRlQ7wEYbQuN4N25oWQlmdwl0&sid=bfb16f73e35be2da#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.103.206:443?security=tls&type=ws&path=/sequre/ws?ed=2560&host=cloudflare.tyr-agentstvo.tech&alpn=http/1.1&sni=cloudflare.tyr-agentstvo.tech&fp=firefox&encryption=none#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e2350ba4-16aa-455e-ae8b-f65102227cf4@158.160.252.176:443?encryption=none&type=ws&security=tls&path=%2Fsequre%2Fws%3Fed%3D2560&host=cloudflare.vhub.pro&fp=firefox&sni=cloudflare.vhub.pro&alpn=http%2F1.1#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#20.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://0d0329b6-8161-41db-9206-cdae7b946730@158.160.210.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-2.nodes.ac&pbk=uk92pbvDM3dRNZqaTHUE-x06fZxubSyUA997NkB5tyk&sid=5a517ed4bfcd4a54#21.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4879333e-879f-45f7-9cb9-ef12e271ee4c@158.160.22.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=api-maps.yandex.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=dc9998c3#23.%20%F0%9F%87%A8%F0%9F%87%BF%20Czechia
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://5a20b5d0-3a98-4792-9559-95f4e24277ec@155.117.127.137:443#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjowLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiMTMuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBVbml0ZWQgS2luZ2RvbSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&security=&encryption=none&host=nobody.fastspeed.ir&type=ws#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?type=ws&host=nobody.fastspeed.ir&path=/ws#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.ir&path=/ws&security=none&type=ws#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?path=%2Fws&sni=nobody.fastspeed.ir&type=ws#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=%2Fws&security=none&type=ws#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&sni=yastatic.net#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?encryption=none&host=nobody.fastspeed.io&path=/ws&security=none&type=ws#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp&headerType=none#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
