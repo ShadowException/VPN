@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEFNL20zMWFHMVBZTT0=@46.225.30.16:49534#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp&headerType=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:41435?security=&encryption=none&headerType=&type=tcp#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?brand=%40Arvand_soul&headertype=none&security=none&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?amp%3Bencryption=none&amp%3Bheadertype=none&amp%3Btype=tcp&security=none#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&type=tcp&headerType=none#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:41435?security=&encryption=none&headerType=&type=tcp&seq=you_are_beautiful1858#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:25793?security=&encryption=none&headerType=&type=tcp#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.32.69:80?encryption=none&security=none&type=ws&host=bhy7.ae1autumn.dpdns.org&path=/XR8So0uqFVa3vY9ZbxgW4#12.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=non&amp;encryption=none&amp;headerType=none&amp;type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?%3Bencryption=none&%3Bheadertype=none&%3Btype=tcp&security=none#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&security=none&type=tcp#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&type=tcp&encryption=none#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?amp%3Bencryption=none&amp%3Bheadertype=none&amp%3Btype=tcp&security=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?brand=%40Arvand_soul&headertype=none&security=none&type=tcp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?%3Bencryption=none&%3Bheadertype=none&%3Btype=tcp&security=none#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=non&amp;encryption=none&amp;headerType=none&amp;type=tcp#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:41435?security=&encryption=none&headerType=&type=tcp#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@45.76.38.179:41435?security=&encryption=none&headerType=&type=tcp&seq=you_are_beautiful1858#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEFNL20zMWFHMVBZTT0=@46.225.30.16:49534#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&type=tcp&encryption=none#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&type=tcp&headerType=none#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:25793?security=&encryption=none&headerType=&type=tcp#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://b6x5rtywjxnbl1ir@45.76.38.179:36389?security=none&headerType=&type=tcp#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#19.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://13a400f3-e4d6-4cc6-840e-8cc9c52e9c25@95.179.187.188:54819?encryption=none&type=ws&path=/ws&security=none#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#21.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://caf5249b-7f90-45bc-9cb8-c8b41b443290@188.245.48.29:33538?security=none&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp%40freenettir%F0%9F%87%B9%F0%9F%87%B7#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=&type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://2215657e-2af4-405f-b770-4e61b298d5b8@172.67.212.59:443?encryption=none&security=tls&sni=y.890601.pp.ua&type=ws&host=y.890601.pp.ua&path=/N4XLnUcJW0HJfbCLo#20.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?packetencoding=none&security=none&type=tcp#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=&encryption=none&headerType=none&type=tcp%40freenettir%F0%9F%87%B9%F0%9F%87%B7#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vmess://eyJhZGQiOiI5NS4xNzkuMTg3LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxM2E0MDBmMy1lNGQ2LTRjYzYtODQwZS04Y2M5YzUyZTljMjUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU3MjIwIiwicHMiOiIyMy4gXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#24.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
