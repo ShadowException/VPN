@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY=@69.164.240.83:10878#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?security=none&encryption=none&headerType=none&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?type=grpc&headerType=none&security=none&encryption=none#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?security=none&type=grpc#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#7.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://8e35b0af-e0f0-4a0b-b832-932a95e9e602@185.242.19.249:443?encryption=none&type=xhttp&security=tls&host=cdnmws-4.fastcon.cc&path=%2Fstorage%2Fblob%2Fv2%2F&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22headers%22%3A%7B%7D%2C%22xPaddingBytes%22%3A%220%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A30%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=chrome&sni=cdnmws-4.fastcon.cc#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?type=grpc&headerType=none&security=none&encryption=none#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083#10.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&amp;security=none&amp;type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://@IR_NETLIFY@194.59.183.234:666?security=none&type=tcp&encryption=none#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?security=none&type=grpc#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://@IR_NETLIFY@194.59.183.234:666?security=none&type=tcp&encryption=none#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?security=none&type=grpc#16.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#17.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=none&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?security=none&type=grpc#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?security=none&encryption=none&headerType=none&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?type=grpc&headerType=none&security=none&encryption=none#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?type=grpc&headerType=none&security=none&encryption=none#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp&headerType=none#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?authority=&mode=gun&security=none&servicename=&type=grpc#10.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083#12.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#13.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://@IR_NETLIFY@194.59.183.234:666?security=none&type=tcp&encryption=none#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://bbcfe26b-32a3-49b1-a357-d4b9d28ac919@cyylr.eu.cc:80?encryption=none&security=none&type=ws&host=ads.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc&headerType=none&security=none&encryption=none#16.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@login.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=front.xwhiteness.site&fp=firefox&pbk=HSxmRrAGkb_RPkm7rLyqr9tVCGzd9thesrdcgENYShA&flow=xtls-rprx-vision#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#18.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEFNL20zMWFHMVBZTT0=@46.225.30.16:49534#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#22.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-de-wc.ray-balance.space:4443?type=grpc#24.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEFNL20zMWFHMVBZTT0=@46.225.30.16:49534#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.223:4443?security=none&type=grpc#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://56aaf8cd-d2fb-5211-bc9b-c242ee37d429@194.59.183.234:666?encryption=none&amp;security=none&amp;type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@213.165.57.224:4443?type=grpc&headerType=none&security=none&encryption=none#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
