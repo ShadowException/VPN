@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#2.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.233:8880?security=none&type=grpc#4.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&type=grpc#5.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=backend.xwhiteness.site&fp=firefox&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&flow=xtls-rprx-vision#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?encryption=none&security=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?type=grpc&security=none#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&insecure=0#9.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#10.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@edu.ruangguru.com.cyylr.eu.cc:443?type=ws&headerType=none&security=tls&encryption=none&sni=edu.ruangguru.com.cyylr.eu.cc&fp=chrome&path=%2Fid-tksi&insecure=0#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&sid=19ffa83bd83eb32d&sni=ads.x5.ru#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?type=grpc&headerType=none&security=none&encryption=none#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#16.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?flow=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=grpc#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://f2564bb4-9960-4ccb-8017-bc02802f768a@188.114.96.3:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?path=/?ed=2048&security=none&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#21.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.98:4443?headertype=none&security=none&type=grpc#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?type=grpc&headerType=none&security=none&encryption=none#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/assignment#25.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://49e9da45-aecc-463b-abe7-abfed1d2086b@188.114.97.6:80?type=ws&host=web.whatsapp.com.cyylr.eu.cc&path=/sg-orcl#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://aa0e6991-6eaa-4bbb-9497-abc04d54de2f@188.114.97.6:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cdn.opensignal.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=cdn.opensignal.com.cyylr.eu.cc#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#4.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp&headerType=none#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca18.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#8.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#10.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=backend.xwhiteness.site&fp=firefox&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&flow=xtls-rprx-vision#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?security=none&type=grpc#12.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vmess://eyJ2IjpudWxsLCJwcyI6IjE0LiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVW5pdGVkIFN0YXRlcyIsImFkZCI6ImhndHJvamFuLnphYmMubmV0IiwicG9ydCI6MjA4MywiaWQiOiJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii9lNjM5NWMyMCIsInRscyI6InRscyIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMTEwIn0
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&mode=gun#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?encryption=none&security=none&type=grpc#16.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=backend.xwhiteness.site&fp=firefox&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&flow=xtls-rprx-vision#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=&encryption=none&type=grpc#18.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#19.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?path=/?ed=2048&security=none&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&type=ws#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#21.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&type=tcp&encryption=none#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca27.myfymain.com:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&type=grpc#23.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&path=/&security=none&type=ws#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&security=none&type=tcp&headerType=none#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
