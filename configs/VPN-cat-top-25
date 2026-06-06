@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://7b0c633f-6785-4664-ba0a-cfbd04a29f75@52.28.135.34:3355?security=none&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#2.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#3.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://70885453-2627-426d-9c5b-b9e4c5142857@51.250.4.238:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#5.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@94.183.219.239:443?type=grpc&headerType=none&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#6.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://putin-zelencky-42@me.colorbox.space:80?type=ws&sni=me.colorbox.space#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&type=grpc#8.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://putin-zelencky-65@me.colorbox.space:80?type=ws&sni=me.colorbox.space#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://70885453-2627-426d-9c5b-b9e4c5142857@51.250.47.193:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://7b0c633f-6785-4664-ba0a-cfbd04a29f75@52.28.135.34:3355?security=none&encryption=none&headerType=none&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-5@me.colorbox.space:80?type=ws&sni=me.colorbox.space#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@94.183.219.239:443?type=grpc&headerType=none&security=reality&encryption=none&sni=google.com&fp=chrome&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#13.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=none&encryption=none&type=grpc#14.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?security=&encryption=none&type=grpc#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://ec6b9cd8-0b2c-000a-996f-df26fee230f7@nl01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&sni=files.nimhogoa.com&sid=77778028b56c8704#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?security=&encryption=none&type=grpc#17.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=%2Flivestreamcontent%2F&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#18.%20%F0%9F%87%B2%F0%9F%87%A9%20Moldova
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&type=grpc#19.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru-lv.illusion-vpn.ru&fp=firefox&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=%2F&flow=xtls-rprx-vision#20.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.107:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#21.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-vless://8ed27b15-30a6-42a2-af38-e4dc675ee17e@144.31.237.74:603?mode=gun&security=reality&encryption=none&pbk=lWJaKBaMPs0NYHGCbfsrmn64R4juEQEvfmHNnL741Ek&fp=edge&type=grpc&sni=www.amd.com#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#23.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?security=&type=grpc#24.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://putin-zelencky-56@me.colorbox.space:80?type=ws&sni=me.colorbox.space#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#1.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://f2564bb4-9960-4ccb-8017-bc02802f768a@white-snowflake-e65e.queenmahsan1.workers.dev:443?encryption=none&security=tls&sni=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&type=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&path=ws&ed=4096#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://putin-zelencky-35@me.colorbox.space:80?type=ws&sni=me.colorbox.space#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&type=grpc#4.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?path=%2Ffree%2F1.226.227.169%3A50001&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&type=ws&allowInsecure=0&sni=nuclear.us.kg#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#6.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://347a56c2-a453-4b32-86cd-7522943df88c@45.83.182.102:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#7.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://169221de-6408-4143-9e66-6f77de385e94@172.67.204.84:443?flow=&fp=chrome&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&path=%2F&security=tls&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Telegram-Config0plus@66.81.247.155:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#11.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&type=grpc#12.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@85.193.87.63:2040?type=tcp&security=reality&encryption=none&fp=chrome&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44&sni=tradingview.com#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://cde2502a-5138-4511-9fe9-9e9df5619aba@185.18.250.252:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@85.193.87.63:2040?encryption=none&type=tcp&security=reality&fp=chrome&sni=tradingview.com&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&sid=53197c66aef53c44#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://humanity@216.24.57.7:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.96.3:443?path=ws&security=tls&encryption=none&insecure=0&host=gardconfig12.bnam38637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gardconfig12.bnam38637.workers.dev#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#19.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=493c3d4e37c23c28#20.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://347a56c2-a453-4b32-86cd-7522943df88c@104.165.244.183:50095?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn.jsdelivr.net&fp=qq&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&sid=f2e1861359398ff2&flow=xtls-rprx-vision#21.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.97.3:443?path=ws&security=tls&encryption=none&insecure=0&host=gardconfig12.bnam38637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gardconfig12.bnam38637.workers.dev#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://putin-zelencky-3@me.colorbox.space:80?type=ws&sni=me.colorbox.space#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l12.l-itx.info:2053?type=ws&headerType=none&security=tls&encryption=none&sni=554dad6ab34f7baf.itx-server.digital&fp=firefox&path=%2Fws&host=itx-server.digital&insecure=0#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=172.237.145.189&brand=@Arvand_soul#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
