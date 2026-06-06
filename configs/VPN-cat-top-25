@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&type=tcp#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOWF3TEJLZ3ZzSFU2R3N4VlVLNlBZ@195.133.2.2:34898#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.138:807#3.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#5.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://6c6bb37a-3315-45bc-88d6-0fbba043c07f@cockroachservice.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.cockroachservice.ru&fp=random&pbk=EZ9ZUwrabGCJfowEvD4fI0ANMsxYh7hchEAbsnOTl0s&sid=803367e3aceaa5e1&spx=%2FfPFepC78nvVF69L#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@43.175.169.174:443?path=%2F16838%2Fc89d26b724fe%2F&security=tls&encryption=none&insecure=0&host=smtp.mmadcoffee.info&fp=random&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security…#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?security=&encryption=none&type=grpc#13.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.166:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#17.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.157.230:8443?type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com&fp=chrome#18.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.38.47:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://5481bfe3-bf42-425c-b561-cb9d64bff7ff@130.49.160.209:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&sid=6ba85179e30d4fc2&sni=ads.x5.ru#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.60:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca24.myfymain.com:8880?security=&encryption=none&type=grpc#22.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.143:8443?security=tls&encryption=none&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=cdn7-09.vk-cdnvideo.com#23.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.76:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0#24.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
-vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443?encryption=none&security=tls&sni=m.udemy.com.r3xxe.eu.cc&type=ws&host=m.udemy.com.r3xxe.eu.cc&path=%2Fnl-tw#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security…#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFQwbWk1OVY0YTlTZTlFaHlvbnl1cHRWZkllM29KcElyekQvZmE4VzE3VT06U0NmNmN1cVBuZWFOd0NPS3pZa09uRVRmaWgxUkNVYzZrUmlvMmhQeURuZz0=@91.107.191.12:54471#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&type=tcp#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://putin-zelencky-45@me.colorbox.space:80?type=ws&sni=me.colorbox.space#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@it5.taskflowhub.org:2083#6.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://putin-zelencky-63@me.colorbox.space:80?type=ws&sni=me.colorbox.space#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-32@me.colorbox.space:80?type=ws&sni=me.colorbox.space#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-68@me.colorbox.space:80?type=ws&sni=me.colorbox.space#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?sni=172.236.220.10#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://putin-zelencky-60@me.colorbox.space:80?type=ws&sni=me.colorbox.space#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-86@me.colorbox.space:80?type=ws&sni=me.colorbox.space#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-91@me.colorbox.space:80?type=ws&sni=me.colorbox.space#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-19@me.colorbox.space:80?type=ws&sni=me.colorbox.space#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-21@me.colorbox.space:80?type=ws&sni=me.colorbox.space#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=poland.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&spx=%2F#17.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://putin-zelencky-50@me.colorbox.space:80?type=ws&sni=me.colorbox.space#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-88@me.colorbox.space:80?type=ws&sni=me.colorbox.space#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#20.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://putin-zelencky-71@me.colorbox.space:80?type=ws&sni=me.colorbox.space#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=poland.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&spx=%2F#22.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://putin-zelencky-14@me.colorbox.space:80?type=ws&sni=me.colorbox.space#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-100@me.colorbox.space:80?encryption=none&type=ws&path=%2F&security=none#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://putin-zelencky-2@me.colorbox.space:80?type=ws&sni=me.colorbox.space#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
