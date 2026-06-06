@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?encryption=none&type=tcp&headerType=none#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&headerType=none&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-35@me.colorbox.space:80?type=ws&sni=me.colorbox.space#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://91427003-38cb-473e-95f2-a4b500c91f7b@poland.milas.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=poland.milas.click&fp=random&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&spx=%2F#4.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
-vless://putin-zelencky-54@me.colorbox.space:80?type=ws&sni=me.colorbox.space#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-19@me.colorbox.space:80?type=ws&sni=me.colorbox.space#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-45@me.colorbox.space:80?type=ws&sni=me.colorbox.space#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-42@me.colorbox.space:80?type=ws&sni=me.colorbox.space#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#10.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://c0f4ccf9-f6e8-458a-aa50-6e1773bdb1b6@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#11.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://putin-zelencky-93@me.colorbox.space:80?type=ws&sni=me.colorbox.space#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-55@me.colorbox.space:80?type=ws&sni=me.colorbox.space#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://18c93e62-bf19-4bcd-a317-e93b08d18747@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#14.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp&brand=@Arvand_soul#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://putin-zelencky-79@me.colorbox.space:80?type=ws&sni=me.colorbox.space#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?type=grpc#17.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://c0f4ccf9-f6e8-458a-aa50-6e1773bdb1b6@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#18.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://putin-zelencky-56@me.colorbox.space:80?type=ws&sni=me.colorbox.space#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?authority=&mode=gun&security=none&servicename=&type=grpc#20.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://putin-zelencky-15@me.colorbox.space:80?type=ws&sni=me.colorbox.space#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc&brand=@Arvand_soul#22.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://putin-zelencky-3@me.colorbox.space:80?type=ws&sni=me.colorbox.space#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?authority=&mode=gun&security=none&servicename=&type=grpc#24.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&path=%2F&security=none&type=ws#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7b0c633f-6785-4664-ba0a-cfbd04a29f75@52.28.135.34:3355?security=none&encryption=none&headerType=none&type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#2.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.36:8880?security=none&type=grpc#3.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&type=grpc#4.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@5.42.126.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://e284098e-7ffd-4fce-a9d3-ea6bc98ce629@162.159.19.202:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=empty-sea-3392.amir-1385-poo.workers.dev&path=%2F&security=none&type=ws#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?type=ws&host=main.boobie.eu.cc&path=%2F#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.myfymain.com:8880?authority=&mode=gun&security=none&servicename=&type=grpc#9.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://18c93e62-bf19-4bcd-a317-e93b08d18747@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#10.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#11.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#12.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?type=grpc#13.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@57.131.28.246:2083#14.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.60:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?mode=gun&security=none&type=grpc#17.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://18c93e62-bf19-4bcd-a317-e93b08d18747@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#18.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f1b7982e-64b8-48d3-b088-1b33d8b2f16d@185.242.19.249:443?encryption=none&type=ws&security=tls&path=%2Flivestreamcontent&fp=firefox&sni=ws-in4.volnalink.uk&alpn=h3%2Ch2%2Chttp%2F1.1#20.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@172.67.211.74:80?type=ws&host=main.boobie.eu.cc&path=%2F#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://f1b7982e-64b8-48d3-b088-1b33d8b2f16d@185.242.19.249:443?encryption=none&type=ws&security=tls&path=%2Flivestreamcontent&fp=firefox&sni=ws-in3.volnalink.uk&alpn=h3%2Ch2%2Chttp%2F1.1#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca19.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#23.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?encryption=none&type=grpc&mode=gun#24.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:443?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headertype=none&host=fgnix832fx.fx6hsv0.ccwu.cc#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
