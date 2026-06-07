@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@82.202.169.174:443?encryption=none&type=xhttp&security=tls&path=%2Fvk&mode=packet-up&extra=null&fp=chrome&sni=ru-vk-3.1001notes.ru#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?flow=&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?burmalda=7760e779&headertype=none&security=&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&type=tcp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?brand=%40Arvand_soul&headertype=none&security=&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?headertype=none&type=tcp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?headertype=none&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?brand=%40Arvand_soul&headertype=none&security=&type=tcp#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?brand=%40Arvand_soul&headertype=none&security=&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&security=&type=tcp#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#11.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?type=tcp#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?headertype=none&type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?headertype=none&security=none&type=tcp#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?flow=&type=tcp#18.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security%E2%80%A6=#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?encryption=none&type=tcp&headerType=none#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?encryption=none&headerType=none&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&type=tcp#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?headertype=none&security=&type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&type=tcp#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#7.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?flow=&type=tcp#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fdb83d1&headertype=none&security=&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?encryption=none&security=none&type=tcp#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFQwbWk1OVY0YTlTZTlFaHlvbnl1cHRWZkllM29KcElyekQvZmE4VzE3VT06U0NmNmN1cVBuZWFOd0NPS3pZa09uRVRmaWgxUkNVYzZrUmlvMmhQeURuZz0=@91.107.191.12:54471#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?brand=%40Arvand_soul&headertype=none&security=&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://805aec0a-32db-4eaa-8b5e-10a6651471d1@18.195.94.102:443?headertype=none&security=&type=tcp#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&type=tcp#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security…#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&security=&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?headertype=none&security=&type=tcp#19.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?headertype=none&security=&type=tcp#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dEVZMVc5dENZQjZSNVkyMjM3OGRKOXloNEg0UEFabEFNL20zMWFHMVBZTT0=@46.225.30.16:49534#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://791ebf40-c495-4ade-8c7b-ce7596025a38@18.153.94.54:443?flow=&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?security%E2%80%A6=#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?headertype=none&security=&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
