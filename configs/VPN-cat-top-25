@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.218:8443?fp=chrome&host=linek.perry.us.kg&path=%2Fseller%2Fnovel&security=tls&sni=linek.perry.us.kg&type=ws#1.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#2.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.120:8443?host=linek.perry.us.kg&path=%2Fhome&security=tls&sni=linek.perry.us.kg&type=ws#3.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#4.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@95.139.91.132:443?fp=chrome&host=linek.perry.us.kg&path=%2Fcourse%2Fanime%2Fevent&security=tls&sni=linek.perry.us.kg&type=ws#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.246.230.125:443?host=linek.perry.us.kg&path=%2Fp%2Furl&security=tls&sni=linek.perry.us.kg&type=ws#6.%20%F0%9F%87%AE%F0%9F%87%B8%20Iceland
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@38.79.154.92:443?fp=chrome&host=linek.perry.us.kg&path=%2Fdownloads&security=tls&sni=linek.perry.us.kg&type=ws#7.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.210.47.233:8443?fp=chrome&host=linek.perry.us.kg&path=%2Fgames%2Fgo.php&security=tls&sni=linek.perry.us.kg&type=ws#8.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:43160?alpn=h2,http/1.1&encryption=none&fp=chrome&host=telewebion.com&path=/&security=tls&sni=del.hfgtek.ir&type=ws#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@94.131.19.19:2053?host=linek.perry.us.kg&path=%2Fajax%2Fcp&security=tls&sni=linek.perry.us.kg&type=ws#10.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http/1.1#11.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=del.hfgtek.ir&type=tcp#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?fp=chrome&host=linek.perry.us.kg&path=%2Furls&security=tls&sni=linek.perry.us.kg&type=ws#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://4b616b6f-6f6c-4e65-7773-b8e2c9f3d541@20.103.221.187:443?encryption=none&security=tls&sni=organic-halibut-qv5j44vjgpgc9jpv-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2F#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.244:8443?host=linek.perry.us.kg&path=%2Fzh-cn&security=tls&sni=linek.perry.us.kg&type=ws#15.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2096?fp=chrome&host=linek.perry.us.kg&path=%2Fm%2Farticles&security=tls&sni=linek.perry.us.kg&type=ws#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?security=reality&type=tcp&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&sni=vk.ru&encryption=none&flow=xtls-rprx-vision#17.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.147.109.212:443?host=linek.perry.us.kg&path=%2Ftrade&security=tls&sni=linek.perry.us.kg&type=ws#18.%20%F0%9F%87%AE%F0%9F%87%B8%20Iceland
-vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?security=reality&encryption=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#19.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@46.183.185.142:443?fp=chrome&host=linek.perry.us.kg&path=%2Fpage&security=tls&sni=linek.perry.us.kg&type=ws#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:8443?host=linek.perry.us.kg&path=%2Fgames%2Fm%2Fmag&security=tls&sni=linek.perry.us.kg&type=ws#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.210:8443?host=linek.perry.us.kg&path=%2Fapp%2Fcity&security=tls&sni=linek.perry.us.kg&type=ws#22.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.76.185.254:8443?host=linek.perry.us.kg&path=%2Fitem%2Fcode%2Fdh&security=tls&sni=linek.perry.us.kg&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?type=tcp&headerType=none&security=tls&encryption=none&insecure=0#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.245.229.66:8443?host=linek.perry.us.kg&path=%2Fact&security=tls&sni=linek.perry.us.kg&type=ws#25.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#1.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#2.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.244:8443?host=linek.perry.us.kg&path=%2Fzh-cn&security=tls&sni=linek.perry.us.kg&type=ws#3.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?fp=chrome&host=linek.perry.us.kg&path=%2Fplaylist%2Fabout%2Fjump.php&security=tls&sni=linek.perry.us.kg&type=ws#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://10484bee-8516-400a-9b1e-efb5144ad324@31.77.201.3:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=icloud.com&fp=random&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&flow=xtls-rprx-vision#5.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.247.226.138:443?host=linek.perry.us.kg&path=%2Fjp&security=tls&sni=linek.perry.us.kg&type=ws#6.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://087ebc31-5965-4ba9-8992-e13343e4cf99@del.hfgtek.ir:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=del.hfgtek.ir&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@94.156.35.128:2053?host=linek.perry.us.kg&path=%2Fclip%2Flibrary%2Ffavorite&security=tls&sni=linek.perry.us.kg&type=ws#9.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@46.229.215.189:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@38.79.154.92:443?host=linek.perry.us.kg&path=%2Fdownloads&security=tls&sni=linek.perry.us.kg&type=ws#11.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?host=linek.perry.us.kg&path=%2Furls&security=tls&sni=linek.perry.us.kg&type=ws#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@139.84.236.69:443?host=linek.perry.us.kg&path=%2Fvip&security=tls&sni=linek.perry.us.kg&type=ws#13.%20%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa
+vless://236b557f-90db-4a63-87bf-ae3c944c4764@91.223.236.155:13149?encryption=none&security=none&type=tcp#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:443?fp=chrome&host=linek.perry.us.kg&path=%2Furls&security=tls&sni=linek.perry.us.kg&type=ws#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.245.229.66:8443?host=linek.perry.us.kg&path=%2Fact&security=tls&sni=linek.perry.us.kg&type=ws#16.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.82.218.224:443?host=linek.perry.us.kg&path=%2Ftemp%2Fjump.html&security=tls&sni=linek.perry.us.kg&type=ws#17.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@94.131.19.19:2053?fp=chrome&host=linek.perry.us.kg&path=%2Fajax%2Fcp&security=tls&sni=linek.perry.us.kg&type=ws#18.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@38.79.154.92:443?fp=chrome&host=linek.perry.us.kg&path=%2Fdownloads&security=tls&sni=linek.perry.us.kg&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@185.47.172.172:8443?host=linek.perry.us.kg&path=%2Foutbound%2Fcategories%2Fdoc&security=tls&sni=linek.perry.us.kg&type=ws#20.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#21.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@216.238.110.198:8443?host=linek.perry.us.kg&path=%2Ftemp%2Fstudy%2Fstreaming&security=tls&sni=linek.perry.us.kg&type=ws#22.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@132.243.203.210:8443?fp=chrome&host=linek.perry.us.kg&path=%2Fapp%2Fcity&security=tls&sni=linek.perry.us.kg&type=ws#23.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@195.133.198.249:19443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rutube.ru&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#24.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2096?host=linek.perry.us.kg&path=%2Fm%2Farticles&security=tls&sni=linek.perry.us.kg&type=ws#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
