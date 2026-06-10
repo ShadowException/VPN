@@ -2,20 +2,16 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://9f5ce1f6-d223-4f80-b848-72b7d662f189@217.149.25.195:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=rf1.helper-internet.com&type=tcp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c135158e-5869-4397-8116-6695ca18cd48@www.nestle.com:443?host=cf.hulume.ccwu.cc&path=%2F&security=tls&sni=cf.hulume.ccwu.cc&type=ws#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@217.12.207.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=8KqR58G5z0RkDn4P979JfYzCOwTYIvOS8ordh8o8ZjA&security=reality&sid=380f31d0a74bd96a&sni=pl.aiage.work&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c135158e-5869-4397-8116-6695ca18cd48@www.sage.com:443?host=cf.hulume.ccwu.cc&path=%2F&security=tls&sni=cf.hulume.ccwu.cc&type=ws#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.252:8443?flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=40ce08cf20c67003&sni=storage.yandex.net&type=tcp#5.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
-vless://c135158e-5869-4397-8116-6695ca18cd48@anadoluefes.com:443?host=cf.hulume.ccwu.cc&path=%2F&security=tls&sni=cf.hulume.ccwu.cc&type=ws#6.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://a6349c3f-5234-4821-80b4-d99b33f0924d@fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#7.%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@217.12.207.15:443?flow=xtls-rprx-vision&fp=firefox&pbk=8KqR58G5z0RkDn4P979JfYzCOwTYIvOS8ordh8o8ZjA&security=reality&sid=380f31d0a74bd96a&sni=pl.aiage.work&type=tcp#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://9f5ce1f6-d223-4f80-b848-72b7d662f189@51.250.108.107:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=web.max.ru&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7&spx=%2F#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@45.198.105.196:8443?flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=500aec9e9e5e2212&sni=storage.yandex.net&type=tcp#10.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://9f5ce1f6-d223-4f80-b848-72b7d662f189@217.149.25.195:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rf1.helper-internet.com&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://a6bd2cf2-cb83-4ac3-82a3-350cc9d0d469@beamgedrive.topupaxme.icu:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sni=max.ru#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4e8aca58-3f3c-4571-a76a-57322b26d250@72.56.52.43:443?flow=xtls-rprx-vision&fp=firefox&pbk=AuvcUY2m3QUpS83fkTGBvIfP9_MLCY-cRlyNbfDRt3E&security=reality&sid=2fe645f6&sni=lv2.foxnezia.dev&type=tcp#13.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
+vless://bbd67e54-1b4b-488b-a5df-708ef896ecaa@104.16.7.70:443?path=/api/v2/sync/data-stream&security=tls&alpn=http/1.1&encryption=none&type=ws&sni=wf1.cerosmakom.com#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://129400e5-7d1b-4720-bf3e-f877c3e5021e@185.151.241.186:2443?flow=xtls-rprx-vision&fp=firefox&pbk=wa00o0wO4pEn9ki565dMNkzt0SBcuJ4aRyz6tpTYmQw&security=reality&sid=9d35004ad989e412&sni=www.microsoft.com&type=tcp#2.%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania
+vless://6ae724c0-565a-4140-972b-2cf6b42e1264@51.250.103.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://aa93df74-4ba7-4655-b976-675aac72eecb@46.253.132.106:443?flow=xtls-rprx-vision&fp=firefox&pbk=_zIz8051mTVSyiMlG5IJ6vOB2ihpx0R5OJLKS3FocTw&security=reality&sid=a1b2c3d4&sni=tradingview.com&type=tcp#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://03ca43d3-80f5-49d6-bd75-ada1824df647@51.250.30.151:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#5.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://6ae724c0-565a-4140-972b-2cf6b42e1264@51.250.104.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#6.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://9e5201b2-5061-413b-b310-36cc6ec590c6@31.56.188.85:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc&type=tcp&headerType=none#7.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+vless://03ca43d3-80f5-49d6-bd75-ada1824df647@51.250.26.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://03ca43d3-80f5-49d6-bd75-ada1824df647@51.250.100.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
