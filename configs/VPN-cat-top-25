@@ -2,16 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.240.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#1.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#2.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM@16.146.46.236:80#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://aa3be851-9f8b-4aec-973b-879247847656@169.40.32.242:8080?path=%2FPath&security=&encryption=none&host=169.40.32.242&type=ws#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#5.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#6.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#7.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.47.38:2095?security=reality&sni=www.speedtest.net&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@3.27.212.11:80#9.%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#2.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@46.225.239.50:2095?security=reality&sni=www.speedtest.net&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://4c872cd3-7aa2-43ad-8f75-a71fb0d3c2c1@89.169.176.125:8442?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=S2HUSMt4MXbZTF7pBc2vBdIFat7kNlvq0QiTqEDrLUA#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&allowInsecure=0&sni=fgnix832fx.fx6hsv0.ccwu.cc#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@94.143.231.167:443?flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=ads.x5.ru&type=tcp#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.149.209:2087?encryption=none&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=fgnix832fx.fx6hsv0.ccwu.cc&path=#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.16.121.147:2096?path=/ws?ed=2560&security=tls&encryption=none&host=com.hozheen.ir&type=ws&sni=9b94d317f693703f.hozheen.ir#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://99a5e0ca-99b7-4b83-88f7-7d0f0943ae09@ca-dp-01.com:8443?security=reality&encryption=none&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=500aec9e9e5e2212#9.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://13bbbb75-2ec5-4262-9784-fe8b6e94510b@yt6.safepass.click:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=timeweb.cloud&echfq=none#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.47.38:2095?security=reality&sni=www.speedtest.net&type=tcp&fp=random&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&sid=bc348c28dbc7b9f5#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@85.239.40.249:443?fp=firefox&mode=auto&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&security=reality&sid=3b591a1227f69e03&sni=ru.locklance.lol&spx=%2F&type=xhttp#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/&security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2875ac75-a139-47a0-a3c2-67b8222476e9@51.250.97.18:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?encryption=none&type=ws&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=none#15.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#16.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#17.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://af1bc54d-4764-4b66-a824-dd80645eeafe@89.169.176.125:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=BBmixcZDs_ETN7JQfMblZfRFscTbwRbOL9J3KtRlPRc#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@85.239.40.249:443?fp=firefox&mode=auto&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&security=reality&sid=4fccf1f98f04c7bb&sni=ru.locklance.lol&spx=%2F&type=xhttp#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5646e216-dad8-48b2-a697-f61e63ea1da3@62.152.58.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&sid=27e53bbcab7593d7&spx=%2F#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://509dec94-cc08-4351-9ce8-811e76e092c3@193.233.75.216:443?flow=xtls-rprx-vision&fp=firefox&pbk=DbpNCOTF5G7L5lGDBUtoiUNsZ_eoKwUgZX__Xhu4nEc&security=reality&sid=add6bfff300435ac&sni=console.cloud.yandex.ru&type=tcp#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@167.233.99.71:2095?security=reality&encryption=none&pbk=9nvQaypTgq2UZ_9wSUctYxStDRWNJqe3o9evmKc5UBE&headerType=none&fp=random&spx=/&type=tcp&sni=www.speedtest.net&sid=bc348c28dbc7b9f5#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&sni=storage.yandex.net#23.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@85.239.40.249:443?fp=firefox&mode=auto&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&security=reality&sid=4fccf1f98f04c7bb&sni=ru.locklance.lol&spx=%2F&type=xhttp#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&sni=storage.yandex.net#25.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
