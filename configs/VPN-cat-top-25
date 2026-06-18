@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&nonce=Mn94MMzf#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781718417638#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&__rand=758482aa#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#7.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&__rand=2b692165#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?type=tcp&security=none&encryption=none#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?security=none&encryption=none&headerType=none&type=tcp#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vk.ru&fp=chrome&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111&flow=xtls-rprx-vision#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vmess://eyJhZGQiOiI2NS4xMDkuMjIxLjI0NSIsImlkIjoiMmVlN2ViMjYtODExOC00ZDBhLWEzMDAtOGQwZWRjZmRlNmU1IiwicG9ydCI6IjMzMzY2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiIxMy4gXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEZpbmxhbmQifQ
-vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&descriptions=люби_себя8e7ee8#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&fp=firefox&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&security=reality&sid=79ed76c157977111&sni=vk.ru&type=tcp#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.92.177.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.bvps.cloud&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&sid=9e0ba98da61cb818#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&descriptions=СвободуИнтернету382#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@8.6.112.199:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@46.62.129.198:443?security=reality&sni=sberbank.ru&type=tcp&fp=chrome&pbk=7sRyn95DXAxnGKRapwfydC6nRmj1IgH-QQQ3ctwC5k8&sid=5e841fab#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.195:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcjZFQ0ZyQ0dCR0M3dWdPS2FVNVpB@5.253.59.156:32140#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.1:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&burmalda=a8b93e06#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781718417638#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781718417320#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?security=none&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&descriptions=СвободуИнтернету382#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&__rand=2b692165#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?type=tcp&security=none&encryption=none#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?type=raw#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&descriptions=Ğ¡Ğ²Ğ¾Ğ±Ğ¾Ğ´ÑƒĞ˜Ğ½Ñ‚ĞµÑ€Ğ½ĞµÑ‚Ñƒ382#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&__rand=758482aa#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&seq=you_are_beautiful3742#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#16.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://04af2fcb-8aca-4494-aa52-0b5077942cc5@95.217.240.196:22334?type=tcp&security=none&encryption=none&__rand=84ef269b#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@8.6.112.199:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#19.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?flow=xtls-rprx-vision&fp=firefox&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&security=reality&sid=4d3ff920673f7534&sni=max.ru&type=tcp&descriptions=СвободуИнтернету975#21.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#22.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi1.vitok.cc:443?security=reality&sni=sberbank.ru&fp=chrome&pbk=7sRyn95DXAxnGKRapwfydC6nRmj1IgH-QQQ3ctwC5k8&sid=5e841fab&type=tcp&packetEncoding=xudp&encryption=none#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#24.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:80?type=ws&host=pon.antalmani.mm.am&path=%2F%3Fed%3D3000#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
