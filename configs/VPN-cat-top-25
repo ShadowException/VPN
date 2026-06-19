@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@80.93.187.36:443?encryption=none&type=tcp&security=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@80.93.187.36:443?encryption=none&type=tcp&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@80.93.187.36:443?encryption=none&type=tcp&security=none#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2f5534e6-929c-4050-8f08-0789cb1f43fb@89.223.121.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru-manage.nodexphere.net&pbk=lDbTuU4-pEAkxizbdrurcjz3eXq0AgECd0hEh0sL0zM#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?encryption=none&security=none&fp=chrome&type=tcp#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?type=tcp&security=none&encryption=none#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?encryption=none&security=none&fp=chrome&type=tcp#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://47cfbfdf-c8c1-402f-9fcc-712d66b17b7e@46.4.162.63:443?encryption=none&type=raw&headerType=none&security=none#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?type=http&security=reality&path=%2FdF6yXt9bRj3Lh2qVp7Nw&sni=www.kinopoisk.ru&fp=chrome&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?security=none&type=tcp#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fe4c1e7e-9e81-4c49-96d6-de5331b51d0f@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c6952bc4-073b-48e2-bba9-8e81182594a0@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fe4c1e7e-9e81-4c49-96d6-de5331b51d0f@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://dea0e19a-4987-44a9-836f-63ceaa8f1746@ru.c2horizon.app:443?type=tcp&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://dea0e19a-4987-44a9-836f-63ceaa8f1746@80.93.187.36:443?encryption=none&type=tcp&security=none#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?encryption=none&security=none&fp=chrome&type=tcp#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fe4c1e7e-9e81-4c49-96d6-de5331b51d0f@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#23.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
 vless://c1db9e72-4de3-4c0b-bbb9-65ffc29371c2@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d46884d6-d78d-48a6-bd57-c1bbc6d1507c@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fe4c1e7e-9e81-4c49-96d6-de5331b51d0f@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
