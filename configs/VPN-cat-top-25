@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTEyOC1nY206ZDJma2d6c2R1NXN0dXJqczhmMTk@205.209.109.194:17277#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206aDBpRmZQd3lwRzFXQlRmc0RwbzE1Y1A5Y29WcG5IaEc@67.217.56.101:14231#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206N2wzaTZlbDZoeXgweHE1ajFjOGI@68.168.209.194:17276#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&encryption=none&security=none#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&descriptions=люби_себяce3ebc#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#9.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206M3B4MHdteDBlODExNDVnNTY4Z2E@69.164.240.86:10880#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#12.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781946636634#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?type=tcp&security=none&encryption=none#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTEyOC1nY206c2hpc0NmZlZyVmVlWW5lTGI2aGNHNFFodTJjWEpYNkY@205.209.104.91:17895#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206bGlveGo2cXg1d2o3aHo0bTlwb20@174.138.187.118:10875#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dmxkc05NYlE4QjRjS0RLMHNST3dq@142.93.183.235:20683#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?encryption=none&type=tcp&headerType=none#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjA@173.225.106.117:12484#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#22.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0=@it5.taskflowhub.org:2083#23.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&burmalda=acbf411f#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&seq=you_are_beautiful3519#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTEyOC1nY206dDZkMjZpZDBwanpkbzN4NXd0bGY@69.164.240.83:10878#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTEyOC1nY206bGlveGo2cXg1d2o3aHo0bTlwb20@174.138.187.118:10875#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTEyOC1nY206aDBpRmZQd3lwRzFXQlRmc0RwbzE1Y1A5Y29WcG5IaEc@67.217.56.101:14231#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjA@173.225.106.117:12484#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#5.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dmxkc05NYlE4QjRjS0RLMHNST3dq@142.93.183.235:20683#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTEyOC1nY206c2hpc0NmZlZyVmVlWW5lTGI2aGNHNFFodTJjWEpYNkY@205.209.104.91:17895#7.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#8.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
+ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw@161.129.71.148:17913#9.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://c0624e66-dfce-4a23-9fef-b0c061de7a0b@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?encryption=none&type=ws&security=tls&path=%2Fws&host=alphacdn.alphashops.shop&sni=alphacdn.alphashops.shop&fp=chrome&allowInsecure=0#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTEyOC1nY206ZDJma2d6c2R1NXN0dXJqczhmMTk@205.209.109.194:17277#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#14.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.106:443?type=tcp&headerType=none&security=reality&encryption=none&sni=auto.malina24.xyz&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&flow=xtls-rprx-vision#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc@146.70.90.196:17454#16.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://403c1990-0922-43e9-9027-03ef38c92c87@account.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=deepl.com&fp=qq&pbk=Y15uAAl8fpWhma1FIWyZujgRKdwxYaaF4zIyWyu9vSo&sid=5cc0&spx=%2F#17.%20%F0%9F%87%B8%F0%9F%87%A8%20Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#18.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.106:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#20.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#21.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#22.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://c447f5ef-30e5-45bf-899a-1b26be28af64@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=BjG7XoEMR2uxHbBk_rtkR7P_S_luG2VcvQlvZ4YHzH8&sid=27e53bbcab7593d7&spx=%2F#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=auto.malina24.xyz&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.17:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
