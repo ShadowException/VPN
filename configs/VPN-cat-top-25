@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTEyOC1nY206N2wzaTZlbDZoeXgweHE1ajFjOGI@68.168.209.194:17276#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&freeinternet=kizyak_vpn1781946636634#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://be36abcb-7ddc-4e1a-9777-db3a7fc8790a@5.78.62.9:52011?type=tcp&security=none&encryption=none&seq=you_are_beautiful2782#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@ryanserver.ir:47347?security=none&encryption=none&headerType=none&type=tcp#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://be36abcb-7ddc-4e1a-9777-db3a7fc8790a@5.78.62.9:52011?type=tcp&security=none&encryption=none&descriptions=Ğ¡Ğ²Ğ¾Ğ±Ğ¾Ğ´ÑƒĞ˜Ğ½Ñ‚ĞµÑ€Ğ½ĞµÑ‚Ñƒ379#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?type=tcp&security=none&encryption=none&nonce=ETlxCSdA#7.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
-vless://7573908b-d981-4153-92aa-33ee2d22144c@178.250.242.39:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.kinopoisk.ru&pbk=VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U&sid=086007#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://be36abcb-7ddc-4e1a-9777-db3a7fc8790a@5.78.62.9:52011?type=tcp&security=none&encryption=none#9.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&descriptions=Ä�Â»Ã‘ï¿½Ä�Â±Ä�Â¸_Ã‘ï¿½Ä�ÂµÄ�Â±Ã‘ï¿½5128bf#10.%20%F0%9F%87%A6%F0%9F%87%B2%20Armenia
-vless://be36abcb-7ddc-4e1a-9777-db3a7fc8790a@5.78.62.9:52011?encryption=none&security=none&type=tcp&headerType=none#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://546d7622-cdf6-4d39-af34-9060c5720f57@89.125.20.104:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&sni=auto.malina24.xyz#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&security=none&encryption=none&_t=85ddae66#13.%20%F0%9F%87%A6%F0%9F%87%B2%20Armenia
-vless://94d7eefa-5c27-4c82-b159-6048c351fb9a@144.31.230.169:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=GhRS0DArxmmgxh0WYlA1vLu1HrS_1oiFmWRr0dZlPnk&sid=0f4f5970da2af8d7&sni=www.twitch.tv#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://6f3461d4-fed4-43c0-a2b5-31f4c25f0bc7@62.60.228.87:34634?encryption=none&type=ws&host=play.google.com&path=%2F&security=none#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://dd49c7c5-d8f3-4171-9d55-2368cc283eb8@ryanserver.ir:47347?type=tcp&security=none&encryption=none#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://be36abcb-7ddc-4e1a-9777-db3a7fc8790a@5.78.62.9:52011?type=tcp&security=none&encryption=none&descriptions=СвободуИнтернету379#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?type=tcp&headerType=none&security=reality&encryption=none&sni=enterprisekitten.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#19.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://b1a13975-386f-4a8f-96e8-d251ddb45c65@super-brook-9f82.amirmmdiddashzadeh.workers.dev:8080?path=%2FeyJqdW5rIjoiS3Y0b2daS09yIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODkuMTY5LjM0Ljk5Il19%3Fed%3D2560&security=none&encryption=none&host=super-brook-9f82.amirmmdiddashzadeh.workers.dev&type=ws#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#22.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
-ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#23.%20%F0%9F%87%A8%F0%9F%87%B3%20China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHbnVHRU9lNEZzTnlHc3FMYzJKaTBG@109.107.182.229:51544#24.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@se1.vitok.cc:443?fp=chrome&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o&security=reality&sid=5e841fab&sni=yastatic.net&type=tcp#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#1.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?type=ws&security=tls&path=/odiyfws&sni=octopusss.net&fp=chrome#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?sni=130.94.114.217&peer=130.94.114.217&security=tls#3.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RXlGb2N0Zlh5SVFWejA4bVBTc1B2Zm9sbmF1RDN3VE5qSk5ocEVFbTVSaz06WVRVbnFlejRhUUdGbS9OTWdpaW5kTzh1bk43QS9iQzFYSm5uS1B1TTlKOD0@130.51.23.246:443#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#5.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://1f034338-33a3-40f7-8e82-e4042e8410af@188.114.97.3:443?path=ws&security=tls&encryption=none&insecure=0&host=gardconfig12.bnam38637.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gardconfig12.bnam38637.workers.dev#6.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?headerType=none&encryption=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://fdba43e2-9dc3-4c3e-a890-08ab21e60081@152.233.54.86:443?flow=xtls-rprx-vision&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=abcd&sni=auto.malina24.xyz&type=tcp#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.12:8443?type=tcp&headerType=none&security=tls&encryption=none&sni=ams1.fromblancwithlove.com&insecure=0#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&type=ws&host=server3.pegibol940.workers.dev&path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%253D&security=tls#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.163:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.171:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.170:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://20cefac1-4d7f-4618-97f3-1ffece7135ee@darkwiki20.darkwiki200.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=darkwiki20.darkwiki200.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=darkwiki20.darkwiki200.workers.dev#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.173:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&insecure=0&allowInsecure=0#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://5a7243e3-bbaa-49ff-be1a-fd63a7e1fa35@138.201.173.163:59874?type=tcp&security=none&encryption=none&descriptions=люби_себяce3ebc#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#18.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@t-panel.wasmer.app:443?type=ws&security=tls&sni=&host=t-panel.wasmer.app&path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d#19.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://b1a13975-386f-4a8f-96e8-d251ddb45c65@super-brook-9f82.amirmmdiddashzadeh.workers.dev:8080?path=%2FeyJqdW5rIjoiS3Y0b2daS09yIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiODkuMTY5LjM0Ljk5Il19%3Fed%3D2560&security=none&encryption=none&host=super-brook-9f82.amirmmdiddashzadeh.workers.dev&type=ws#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#21.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dmxkc05NYlE4QjRjS0RLMHNST3dq@142.93.183.235:20683#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?sni=130.94.78.17&peer=130.94.78.17&security=tls#24.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.162:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
