@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://51d6e77c-c3cd-4a58-98ad-6d60a372400a@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://d0fa08fb-4222-4236-bc4e-5b59b1ed927b@hentai-cdn.apruxdomain.xyz:80?fp=firefox&security=none&type=ws#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://7fc295ae-7b73-48ff-a413-bf7cbaf94819@hentai-cdn.apruxdomain.xyz:80?type=ws#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8dddaa4c-4d49-41bb-9fb4-05ae35bc50ec@hentai-cdn.apruxdomain.xyz:80?type=ws#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d0f6d88b-589b-4147-9c72-fa76b3fea3b1@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8afa4ec4-0cf4-4444-9ef9-e879436bcc09@hentai-cdn.apruxdomain.xyz:80?type=ws#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://3693ece7-c0d1-4c5c-900c-11866029d183@hentai-cdn.apruxdomain.xyz:80?type=ws#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.152.140:80?host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.176.26.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://05012964-6d5e-4d6b-b1f0-d8ad91f293b8@hentai-cdn.apruxdomain.xyz:80?type=ws#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f101fe5a-0b4f-4aaf-9c17-3b0767740259@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@hentai-cdn.apruxdomain.xyz:80?type=ws#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://998243dc-d5dc-4463-b1f8-99ec764f6117@hentai-cdn.apruxdomain.xyz:80?type=ws#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://71293808-6909-417f-93b2-93972f6c6a89@hentai-cdn.apruxdomain.xyz:80?type=ws#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@hentai-cdn.apruxdomain.xyz:80?type=ws#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://a78fc785-220f-4a90-8970-1a4fd3550e78@hentai-cdn.apruxdomain.xyz:80?type=ws#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://81213138-332a-4958-8ee6-58338581fc84@hentai-cdn.apruxdomain.xyz:80?type=ws#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c3506ca8-0224-4711-99b0-276db410af95@hentai-cdn.apruxdomain.xyz:80?type=ws#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://d0fa08fb-4222-4236-bc4e-5b59b1ed927b@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://48849476-d86c-40a7-889e-231a0396553b@hentai-cdn.apruxdomain.xyz:80?type=ws#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c4654e27-5b17-4374-a7c4-407ca3d6396b@fr.janusgate.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.janusgate.org&fp=chrome&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&sid=04e65b7e170a5a4d&spx=%2F&type=tcp&headerType=none#4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://2e081194-30ab-4df5-b434-173ebfbc7302@hentai-cdn.apruxdomain.xyz:80?type=ws#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d681f196-3f5e-4c1d-b5f9-9c6edcd69f2a@norsthf.nodeserv.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=norsthf.nodeserv.xyz&fp=firefox&pbk=9rzGBkU8AXG11H9rYnk7iPkaDSpbKGfHcy0d0XKMPhk&sid=60c0851ec0782955&type=tcp&headerType=none#8.%20%F0%9F%87%B3%F0%9F%87%B4%20Norway
+vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?type=ws#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@205.233.181.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad27d2d9-dd49-4a90-94e9-af7d2202b511@hentai-cdn.apruxdomain.xyz:80?type=ws#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://0c986712-ccb1-4c8f-8e25-6a209db3c466@31.76.119.146:443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6&spx=%2F&type=xhttp&path=%2Fxhttp-proxy&mode=auto#13.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.229:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://615b457e-fb2a-4bb7-854b-99c0e2c16b2a@104.17.194.112:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=zedu.abcxyz.dns.army&fp=chrome&sni=zedu.abcxyz.dns.army&path=%2Fdownload%3Fed%3D2560&fragment=3%2C1%2Ctlshello&encryption=none#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cdns.doon.eu.org:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?&security=tls&fp=chrome&sni=shegeftihaaa.net&type=ws&headerType=none&host=shegeftihaaa.net&path=%2Frsedgws#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=/&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.210.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.224.5:443?security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F&fp=chrome&allowInsecure=0#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@store.ubi.com:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=amooaliii.net&path=%2Fjdhfyws&security=tls&fp=chrome&sni=amooaliii.net#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
