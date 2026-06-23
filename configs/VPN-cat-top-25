@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://5a8b3e25-8df4-44de-8d1a-f18483fa73db@185.147.27.105:80?type=ws&security=none&encryption=none&headerType=none&allowInsecure=1#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://7cc2bdf0-5dfe-4a02-a1d6-10d09efc7c11@hentai-cdn.apruxdomain.xyz:80?type=ws#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@hentai-cdn.apruxdomain.xyz:80?type=ws#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://2e3e24de-b2fe-43ea-a7f0-4ab3379255e3@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://20fc97f0-819c-4186-9004-33e93333f821@hentai-cdn.apruxdomain.xyz:80?type=ws#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://5533a4f4-36f8-45df-b121-faa9e791a6e7@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://915ee84b-e331-440d-a5ee-3f755a92c4e8@hentai-cdn.apruxdomain.xyz:80?type=ws#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://2e081194-30ab-4df5-b434-173ebfbc7302@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://1bb9e882-3000-4c40-b4a0-c2dd0d9794e0@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e9fce5e2-c7e1-43e2-bffa-31a2d183db9a@hentai-cdn.apruxdomain.xyz:80?type=ws#10.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://9f446ac6-593a-41e1-9b69-1fda436fbadb@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80?type=ws&security=none&fp=firefox&path=/#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://16f7d3ac-8c63-4b23-8924-dbc3207d2310@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://964b1eb8-b411-4302-89f9-32d64f9c33ef@hentai-cdn.apruxdomain.xyz:80?type=ws#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://2e081194-30ab-4df5-b434-173ebfbc7302@hentai-cdn.apruxdomain.xyz:80?type=ws&sni=hentai-cdn.apruxdomain.xyz&fp=firefox#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@hentai-cdn.apruxdomain.xyz:80?fp=firefox&security=none&type=ws#16.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://9f550e31-aa60-49b9-bd5e-33bad8c09b88@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=%2F#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://5d02362c-cda0-4c20-bc76-91f9bcf49fd7@185.147.27.105:80?type=ws&security=none&fp=firefox#18.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://50aa9087-ed98-43a7-b859-01863f616f08@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://b2fa120e-03d6-4aec-857a-a45013cceb01@hentai-cdn.apruxdomain.xyz:80?type=ws#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://6aa17b49-5f3c-47e6-9990-305a8b9f705e@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&fp=firefox&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@185.147.27.105:80?fp=firefox&path=%2F&security=none&type=ws#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://d60c5a6c-ddb8-4b87-bf90-9f1c204aa745@hentai-cdn.apruxdomain.xyz:80?type=ws#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://7cc2bdf0-5dfe-4a02-a1d6-10d09efc7c11@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://1eda6177-0201-4492-944e-d9231d14a9b0@185.147.27.105:80?type=ws&security=none&fp=firefox#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://606beac5-b286-4f39-80b6-8a664e59884b@185.147.27.105:80?encryption=none&type=ws&security=none#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://fe33f63d-a57d-463a-962c-65592e614000@185.147.27.105:80?type=ws#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://fe33f63d-a57d-463a-962c-65592e614000@hentai-cdn.apruxdomain.xyz:80?encryption=none&security=none&type=ws&path=%2F#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://e9fce5e2-c7e1-43e2-bffa-31a2d183db9a@hentai-cdn.apruxdomain.xyz:80?type=ws#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://5a8b3e25-8df4-44de-8d1a-f18483fa73db@185.147.27.105:80?type=ws&security=none&encryption=none&headerType=none&allowInsecure=1#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://d60c5a6c-ddb8-4b87-bf90-9f1c204aa745@hentai-cdn.apruxdomain.xyz:80?type=ws#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@94.141.162.190:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@hentai-cdn.apruxdomain.xyz:80?type=ws#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://3f3edf3e-20ba-456e-87e4-4389ca317c05@84.201.177.246:3000?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fconfig%2Fsync&mode=auto&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22stream-one%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%2220-40%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=safari&sni=eda.yandex.ru&pbk=XQR4nMq5aBnJ4h1RTCRRJdkdtO0Mtitt1cDtY0whkBI&sid=9fea04bb0545cac5#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&fp=firefox&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.172.67:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.148.58:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.148.58:2777?security=reality&encryption=none&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=0f4dacf08722a29f&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.159.110:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.159.110:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.148.58:2777?flow=xtls-rprx-vision&fp=firefox&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5d349e00-453c-49c6-9f60-324e5d4d2482@185.147.27.105:80?encryption=none&security=none&type=ws&path=%2F#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.181.179:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f&source_name=igareck_vless_reality_rus_mobile&provider_id=igareck_vless_reality_rus_mobile#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.172.67:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.146.213:2777?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&sid=0f4dacf08722a29f#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
