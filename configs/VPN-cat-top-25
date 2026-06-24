@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.176.26.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.154.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@14.102.228.140:80?path=%2FTelegram%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@94.140.0.140:80?type=ws&security=none&fp=firefox&path=/Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&host=s5.868001.xyz#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@170.114.45.140:80?path=/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr?ed=2048&security=none&encryption=none&host=s5.868001.xyz&type=ws#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.23.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@199.34.230.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram+@WangCai2#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.144.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.197.64.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?path=/Telegram🇨🇳+@WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?type=ws&security=tls&fp=firefox&sni=shegeftihaaa.net&path=/rsedgws&host=shegeftihaaa.net#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&host=s5.868001.xyz#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.190.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?fp=firefox&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@89.116.46.140:80?flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@198.71.232.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=s5.868001.xyz#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://be0c9e54-2fe1-4130-a280-2607c32f9d57@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#22.%20%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.190.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@213.241.198.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1b8e04c90af97d47&spx=%2F#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMkdOUDZ4enNzMHhRNWtmN0JOY0pJ@46.224.2.35:47199#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.23.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.23.140:80?path=/Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&fp=chrome&type=ws#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://aa5b231c-4e18-4ae6-b83c-a293f51c0dfa@de-dp-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.176.26.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6c4002a9-005f-4721-9464-d162b63fa677@158.160.249.252:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?type=tcp&security=reality&encryption=none&sni=rbc.ru&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.154.140:80?encryption=none&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.247.140:80?encryption=none&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@212.183.88.140:80?flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&type=ws#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@14.102.229.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=firefox&type=ws#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.245.140:80?path=Telegram+@WangCai2&security=&encryption=none&host=s5.868001.xyz&fp=chrome&type=ws#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@184.174.80.140:80?type=ws&security=none&fp=firefox&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.162.231.140:80?encryption=none&host=s5.868001.xyz&path=%2FTelegram%2B%40WangCai2&security=none&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.81.141.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@89.116.46.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=s5.868001.xyz#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?type=ws&security=none&fp=firefox&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram+@WangCai2#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.28.140:80?encryption=none&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.176.26.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram🇨🇳#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
