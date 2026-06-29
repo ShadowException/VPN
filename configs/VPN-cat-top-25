@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://ad7b9e6d-88b0-4992-88e2-754e0450a0ba@65.109.186.44:45026?encryption=none&security=none&type=tcp#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bFJ3ekpCZTFJNlZ0alVJMTlMMWU2V1N6OWZBRzJOaVV1cVM2ODhKaWt0WT06VUJPenBnKzhoNDBSN2kxOFpLQXVUQXVtbEFrRVk2UFlNaUxPbTRiYk1hVT0@65.109.186.44:8888#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@150.251.152.224:443?flow=xtls-rprx-vision&fp=firefox&pbk=CLrIAaBAhG8PLjA2hPTQuv0VvVkt2w4OBTdqfEgESUw&security=reality&sid=31d365a10d66e826&sni=ign.com&type=tcp#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&sid=495739b968708ab7&flow=xtls-rprx-vision#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1aUE4eUMzbjBkSnhPS0R5MHdMaGRz@5.253.59.156:32140#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?flow=xtls-rprx-vision&fp=firefox&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&security=reality&sid=495739b968708ab7&sni=max.ru&type=tcp#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://Mitivpn@198.54.216.253:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://Mitivpn@198.54.216.216:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://Mitivpn@198.54.216.189:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.70:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://Mitivpn@198.54.216.232:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?&security=tls&sni=dat1.afterdomain.shop&type=grpc&serviceName=&mode=gun#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443?type=grpc&security=tls&sni=dat1.afterdomain.shop#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://Mitivpn@198.54.216.161:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://Mitivpn@198.54.216.114:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://33e9f342-d9c0-0006-bdd3-4b1ffe37042d@178.248.238.85:17443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#3.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WG51NkprUkxCcVZRMGI3V0gtbE93@83.143.112.143:999#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1aUE4eUMzbjBkSnhPS0R5MHdMaGRz@5.253.59.156:32140#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://ad7b9e6d-88b0-4992-88e2-754e0450a0ba@65.109.186.44:45026?encryption=none&security=none&type=tcp#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://Mitivpn@198.54.216.226:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://Mitivpn@198.54.216.230:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://Mitivpn@198.54.216.161:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.123:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.70:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.88:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.76:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443?type=grpc&security=tls&sni=dat1.afterdomain.shop#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206YzFmZDBiMjktNmMxOC00MDQyLTg3YTItZjViZDc4NzhkYzBh@192.142.18.127:443#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://Mitivpn@198.54.216.178:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.75:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://Mitivpn@198.54.216.67:80?ed=2560&eh=Sec-WebSocket-Protocol&host=3-mitivpn.global.ssl.fastly.net&path=https://t.me/WangCai2&security=none&type=ws#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&sni=ads.x5.ru#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
