@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+rhQNaaDu1yxlM2Yx
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками.“ | t.me/vpn_cat
+#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных.“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?host=space.byu.id.yxls.eu.cc&path=%2Fau-do&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://eb295947-24de-0001-9b8f-85431e5fe493@192.142.8.200:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=md-editor.xyz&fp=qq&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&allowinsecure=0&type=tcp&headerType=none#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fsea&host=deicl.redstone-vex.sbs&sni=deicl.redstone-vex.sbs&fp=chrome&insecure=0&allowInsecure=0 #4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://86dc5fb4-f279-45b7-a2c6-0d1e84b85c18@162.159.156.214:8880?&security=false&fp=chrome&type=ws&headerType=none&host=lingering-dawn-5d4a.163-3f1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMkdOUDZ4enNzMHhRNWtmN0JOY0pJ@46.224.2.35:47199#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MkZsaWdMblNZZDByTlE0V0UxeTd4@109.107.182.229:51544#9.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f7ebef03-3c34-4769-bfe4-66e3c92ed665@log.bpminecraft.com:8880?&security=none&type=ws&headerType=&host=lively-dream-d892.262.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&sni=storage.yandex.net#14.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
-trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443/?type=tcp&security=tls#15.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#16.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.19.134.235:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@45.139.27.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.ya.ru&pbk=QQPE-T_FwO6DmpBmEfyaSB6H8QQCtTbmMj-6rlXEQhA&sid=8a#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#19.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?host=space.byu.id.yxls.eu.cc&path=%2Fau-do&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=/sea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#22.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@154.90.32.5:5601#23.%20%F0%9F%87%B5%F0%9F%87%AD%20Philippines
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=dat1.afterdomain.shop&type=grpc&host=dat1.afterdomain.shop&alpn=h2#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@jp3-r.vortexio.cc:8443?flow=xtls-rprx-vision&fp=chrome&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&security=reality&sid=b2c3d4e5&sni=www.cloudflare.com#25.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@195.208.65.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://6910194f-85d5-42b6-a148-6c643e797d52@37.9.4.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@195.208.65.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#5.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmloud.com&path=%2Fassignment#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=deicl.redstone-vex.sbs&fp=chrome&type=ws&allowInsecure=0&sni=deicl.redstone-vex.sbs#7.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.212:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://eb267151-0e9b-47d5-b791-db61dc3f53f2@185.229.9.229:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=zMyJW8uYeZwurz4xCcnnPjYlCVP0nI5BDHp_0ZrxPjk&flow=xtls-rprx-vision#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#11.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?encryption=none&type=ws&host=refighehosein.salamdadash123.workers.dev&path=%2F&security=tls&fp=chrome&sni=refighehosein.salamdadash123.workers.dev#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://eb295947-24de-0001-9b8f-85431e5fe493@192.142.8.200:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=md-editor.xyz&fp=qq&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&allowinsecure=0&type=tcp&headerType=none#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#15.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://PI36027154@pro-tortoise.rooster465.autos:443?security=tls#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.245.43:25567?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?type=ws&security=tls&fp=firefox&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net#19.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://Greggg0-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com#21.%20%F0%9F%87%AD%F0%9F%87%BA%20Hungary
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#22.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=amooaliii.net&fp=chrome&type=ws&host=amooaliii.net&path=/jdhfyws&packetEncoding=xudp#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://5aa708a4-0134-4f24-ba6f-d775651bd21e@tr.iranfastspeed.com.tr:59492?fp=chrome&pbk=jPWzhxlyYrRZTKbUO-Wb_OjWgD_7RrG3CFkttX7mKVY&security=reality&sid=0b1eccc239d0&sni=www.google.com%3A443#24.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?path=%2Fbr-orcl&security=tls&type=ws#25.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
