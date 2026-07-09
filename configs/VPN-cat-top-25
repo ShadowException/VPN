@@ -2,17 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://63e75781-d343-4ca7-9a37-74881ea92e32@194.55.239.245:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=raw#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://1b39f4f3-75c0-4156-b478-2cd4699f56d1@188.121.104.79:18703?security=&encryption=none&headerType=none&type=tcp#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://63e75781-d343-4ca7-9a37-74881ea92e32@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://967b2fad-bb2a-46d1-8efb-3bfda81f7f92@188.68.218.101:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=cloud.mail.ru&pbk=A41b2Th15KC7t1hSRTvkA3-CzZfv1DD1XOV2L5ICuA0&spx=%2F#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&security=none&fp=firefox#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@104.168.132.149:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/#7.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg4.auragg.org:443?encryption=none&type=grpc&security=tls&sni=argg4.auragg.org&fp=firefox&alpn=h2%2Chttp%2F1.1&path=media.session.poll&serviceName=media.session.poll&host=media.session.poll&authority=media.session.poll&mode=gun&multiMode=false#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://ba9d9079-e759-0001-ad22-e359813a56d9@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&security=none&fp=firefox#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?encryption=none&host=&path=%2Fvless&security=none&type=ws#1.%20%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://467f4f5e-adb3-4724-ad0d-245bbc296789@149.33.0.214:14302?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c#2.%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
+vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@switzen.topupaxme.icu:9443?encryption=none&fp=chrome&path=/ws&security=tls&sni=switzen.topupaxme.icu&type=ws#3.%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland
+vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AnxTrBjoS2NYl9efpns6l_e4JrN7jws-KnXcu6DCDCc&sid=42f27f4d688d79d4&sni=www.twitch.tv#4.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
