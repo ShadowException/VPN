@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Цензура помогает против обычных людей, но бессильна против высоко мотивированных“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#2.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTU5GRmpRcWRGTlg0b0RvMWIyTFZP@5.253.59.156:32140#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@45.81.252.5:443?flow=xtls-rprx-vision&fp=firefox&pbk=2ZWcdpHd22-QLpBunsr2h2QPBrC2YHWNZGLVAITCHSw&security=reality&sid=b2dc62ab84fbcc8c&sni=lt.serv.com.de&type=tcp#4.%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&security=reality&sni=yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#5.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#7.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#8.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Ob3RpZl9DaGF0IiwicG9ydCI6NTUxODUsInBzIjoiOS4gXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJuYW1lIjoiPj5AZmx5djJyYXk6OkhLOjpISzo6SEs6OkhLOjpISzo6SEs6OkhLIn0
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@13.140.17.231:443?flow=xtls-rprx-vision&fp=firefox&pbk=z9Si9H-n-nfaj3YcQvS747eGfHR2FecIXRoNfZBFtRI&security=reality&sid=f45d8b21fa4f1c78&sni=lv.serv.com.de&type=tcp#10.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
-vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@158.160.197.97:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ads.x5.ru&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#12.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&descriptions=люби_себяaf86d2#13.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@82.148.28.204:443?flow=xtls-rprx-vision&fp=firefox&pbk=t3aPqNnhn6qJzQRR1z0Bx-Swy1NJxdj90tvpwpX-tD4&security=reality&sid=6749a1ab0b0a8f66&sni=de1site.serv.com.de&type=tcp#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#15.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@82.148.28.204:443?flow=xtls-rprx-vision&fp=firefox&pbk=HuvS2L9JUwxe34jX_mwsSrZlDGoD-rQ_6WjxipVAyg4&security=reality&sid=8a1816caf29bc704&sni=lv.serv.com.de&type=tcp#16.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@45.12.28.144:443?flow=xtls-rprx-vision&fp=firefox&pbk=Q3ea26cj2dcg8dXn3ihZnqoW0YxN6BdIQ4zQNCplFk8&security=reality&sid=f903f64ad903987e&sni=ee.serv.com.de&type=tcp#17.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#18.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?type=ws&headerType=none&security=tls&encryption=none&sni=app.zynuro.ir&fp=360&alpn=h2%2Chttp%2F1.1&path=%2Fa8Kp92LmQx&host=app.zynuro.ir&insecure=0#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@82.148.28.204:443?flow=xtls-rprx-vision&fp=firefox&pbk=q51_kjRx9e14b7CphMHH6OiVwoRvZTvZtPDBDn9YHFQ&security=reality&sid=1a56882228ae2b16&sni=nl1site.serv.com.de&type=tcp#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vmess://eyJhZGQiOiIxNTUuMTAzLjcxLjE2MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMmZjYzc3NS0xNTc5LTRiNGItOWZlOC1mOGRkZTc3MWM4NjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjYiLCJwcyI6IjIxLiBcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVHVya2V5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@94.183.157.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=7naINgyna0nJ73fMHGStdajWwIrsBk7pxgTKG7QerwY&security=reality&sid=c8d3e5f1a9b2&sni=pl.spectrum.vu&type=tcp#22.%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
-vless://5e2c86b8-ad50-419f-9bbb-95784c558b9f@212.67.14.143:443?flow=xtls-rprx-vision&fp=firefox&pbk=MnShdgCOCm1Ztbp0D-JOe-HELX0Ciaxx_ISFJamqdSM&security=reality&sid=c1c7ae61d6a66d50&sni=spb1site.serv.com.de&type=tcp#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?type=ws&headerType=none&security=tls&encryption=none&sni=amooaliii.net&path=%2Fjdhfyws&host=amooaliii.net&insecure=0#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#25.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&fp=firefox#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#5.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&fp=firefox#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw&security=none&fp=firefox#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?type=raw#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fe604665-7c82-44cf-a067-869fe9b2abae@81.90.21.104:9443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sni=se.realitynetwork.eu#11.%20%F0%9F%87%AE%F0%9F%87%B6%20Iraq
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#12.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?flow=xtls-rprx-vision&fp=firefox&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&security=reality&sid=70e24f75fa26f6c7&sni=www.twitch.tv&type=tcp#13.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXTU5GRmpRcWRGTlg0b0RvMWIyTFZP@5.253.59.156:32140#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?security=reality&encryption=none&pbk=AnxTrBjoS2NYl9efpns6l_e4JrN7jws-KnXcu6DCDCc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.twitch.tv&sid=42f27f4d688d79d4#15.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#17.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
+vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@158.160.197.97:443?flow=xtls-rprx-vision&fp=firefox&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ&security=reality&sni=ads.x5.ru&type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#19.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@158.160.197.97:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ads.x5.ru&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&security=reality&sni=yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c#21.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.151:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=IDX70F6aZLh_PruvqfOVRp3bzxzSkCer9ePN-0ZgWAc&sid=e08909dd3362afd1&flow=xtls-rprx-vision#22.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&security=reality&sid=70e24f75fa26f6c7&sni=www.twitch.tv&type=tcp#23.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://521314@104.16.99.215:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=Telegram🇨🇳#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
