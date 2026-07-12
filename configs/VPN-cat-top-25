@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=qq#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=safari#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=qq#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://4392b776-41a2-4300-b545-a3d2724b605b@155.212.168.164:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=4vIA_XIMBEZcJyLkxdi7v6FVVhc3gGru3eE5mciDyF8&sni=msk-cloud.landcode.online&sid=26fd24aa623cadc0#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=qq#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?security=&encryption=none&headerType=none&type=tcp#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=chrome#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@138.16.186.81:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=www.ya.ru&pbk=JdgBWRW9oVqhmaKIZlEPo2FftgUf0QiuWoMAFWxlRTU&sid=a85b2f0272d396a0#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=chrome#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&headerType=none&type=tcp#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?security=&encryption=none&headerType=none&type=tcp #3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none #5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=firefox#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=chrome#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=firefox#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=chrome#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=safari#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=fast_s89.screw.page#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=firefox#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=firefox#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=safari#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?security=&encryption=none&headerType=none&type=tcp#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?security=&encryption=none&headerType=none&type=tcp#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@185.221.154.175:3443?mode=packet-up&path=%2Fapi%2Fv1%2Ffeed%2F7a3b9c2d&security=reality&encryption=none&extra=%7BscMaxEachPostBytes%3D524288-1048576%2C+scMinPostsIntervalMs%3D30-100%2C+xPaddingBytes%3D100-1000%2C+xmux%3D%7BcMaxReuseTimes%3D400-800%2C+hMaxRequestTimes%3D300-600%2C+hMaxReusableSecs%3D1800-3600%2C+maxConcurrency%3D16-32%7D%7D&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&fp=safari&spx=%2F&type=xhttp&sni=www.twitch.tv&sid=7a3f9e2b1c8d4f6a#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://1b0a13f9-c7f9-4e02-9c5e-87b774e0dbb1@188.68.218.110:443?encryption=none&type=xhttp&security=tls&host=api.madapp.cc&path=%2Fapi%2Fv2%2F&mode=packet-up&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22packet-up%22%2C%22headers%22%3Anull%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionPlacement%22%3A%22%22%2C%22sessionKey%22%3A%22%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A0%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%220%22%2C%22scMinPostsIntervalMs%22%3A%220%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2296-192%22%2C%22hMaxRequestTimes%22%3A%22400-600%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3Anull%2C%22extra%22%3Anull%7D&fp=edge&sni=api.madapp.cc&alpn=h2%2Chttp%2F1.1#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?type=tcp&security=none&fp=qq#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://96bca96c-adbc-49e3-bd9f-dad664d34412@194.55.239.186:67?pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=nl-t3.vinnypuxtomoon.today&type=raw&fp=qq&encryption=none&flow=xtls-rprx-vision&security=reality&_t=9661a12a#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://96bca96c-adbc-49e3-bd9f-dad664d34412@194.55.239.155:68?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=de-t2.vinnypuxtomoon.today&type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?type=raw&security=tls&encryption=none&sni=fast_s89.screw.page&fp=firefox&flow=xtls-rprx-vision&headerType=none#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://96bca96c-adbc-49e3-bd9f-dad664d34412@194.55.239.186:67?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=nl-t3.vinnypuxtomoon.today&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@109.237.98.122:443?encryption=none&type=raw&security=none#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://96bca96c-adbc-49e3-bd9f-dad664d34412@194.55.239.210:67?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ee-t3.vinnypuxtomoon.today&type=tcp#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://137136bb-2da0-4838-bfa4-15b2fb6e0963@185.221.154.175:3443?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv1%2Ffeed%2F7a3b9c2d&mode=packet-up&extra=null&fp=qq&sni=www.twitch.tv&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&sid=7a3f9e2b1c8d4f6a&spx=%2F#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://96bca96c-adbc-49e3-bd9f-dad664d34412@194.55.239.186:67?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=nl-t3.vinnypuxtomoon.today&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
