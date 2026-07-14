@@ -2,30 +2,57 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://2e9d5b66-4ac7-440a-9780-1a9a5f5e926c@176.124.222.137:443?encryption=none&fp=ios&mode=auto&path=%2Fapi%2Fv2%2Fstream%2Fevents&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&security=reality&sid=6bf03e9d7a1c8524&sni=www.kaspersky.ru&type=xhttp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@70.34.244.250:53062?security=tls&type=ws&host=qeztrg7u.akscasx.workers.dev&fp=chrome&sni=qeztrg7u.akscasx.workers.dev&path=%2F%3Fed%3D2560&encryption=none#2.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://89c5493f-9485-85e5-c43f-df0600000000@nameless-moon-7c4d.shafmrhjlos23.workers.dev:443?type=ws&security=tls&encryption=none&path=%2Fvasl&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev&fp=chrome&headerType=none#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@chatgpt.com:443?encryption=none&security=tls&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&fp=chrome&type=ws&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&path=%2FeyJqdW5rIjoibzdwc3BmenB6NDNpeDR6ZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D4053#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fb997c53-75ba-4856-93c0-bad0bcfe7100@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:2096?path=%2F&security=tls&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#6.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://2efeba50-78fe-4729-9821-1fb9819ed9e8@172.66.132.196:8880?path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=dark-dew-c3ed.48-97c.workers.dev&type=ws#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://PI36027154@stirred-buck.rooster465.autos:443?security=tls&sni=stirred-buck.rooster465.autos&type=tcp&headerType=none#8.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?path=/volexprosy&security=tls&encryption=none&insecure=0&host=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=volexproxy.karjadidd.workers.dev#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://4392b776-41a2-4300-b545-a3d2724b605b@185.43.5.51:443?fp=qq&path=%2Fstatic%2Fjs%2Fmain.js&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&security=reality&sid=0d74c324&sni=cdn.tracker.yandex.net&type=xhttp#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#11.%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=random&type=ws&sni=www.creationlong.org&path=/assignment#12.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-vless://9952b71a-6c86-4522-888f-ff9ea9b93536@104.25.220.68:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=1.hshs8227shhshs.workers.dev#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://521314@131.186.27.112:2096?host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws#14.%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=%2FTelegram+%40WangCai2&fp=qq#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@cfip.1323123.xyz:443?type=ws&security=tls&host=ez-5b038e.ezaccess1c7f862.workers.dev&path=/sync&fp=chrome&sni=ez-5b038e.ezaccess1c7f862.workers.dev&alpn=h2,http/1.1#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://MiTiVPN@170.114.45.6:443?type=ws&host=n-la-nbvjad.MaQror.IR&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DNL-55&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=nlandif-o-nhdl.MaQror.IR#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=/sea&host=fosae.starriverway-milo.sbs&packetEncoding=xudp&sni=fosae.starriverway-milo.sbs&fp=chrome#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?security=tls&sni=sca31.afterdomain.shop&type=grpc&alpn=h2%2Chttp%2F1.1#19.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://111d8ca1-4d08-43af-b4d6-2ac65477c20d@shazira.app:443?type=ws&headerType=none&security=tls&encryption=none&sni=shazira.app&path=%2FNovan-ID11&insecure=0#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=%2FTelegram+%40WangCai2&fp=ios#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#22.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-vless://fb1ded22-6a97-43c5-a1af-c748b434a104@104.64.205.75:55089?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=randomized#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#2.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@104.18.13.51:2087?encryption=none&fp=firefox&host=bbc.zjxc.de5.net&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?encryption=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-1.workers.dev&fp=chrome#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#7.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@167.82.77.173:443?security=tls&sni=ssl.fastly.com&type=ws&host=pan21.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&allowInsecure=0#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vmess://eyJhZGQiOiI5NC4xMDMuMTY3LjExNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMWIwYzEwMy1hN2ZmLTRiZDYtODg3ZC1hNzNkNmViZjFmNTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiI5LiBcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgVGhlIE5ldGhlcmxhbmRzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://75323b6f-184f-4d00-839d-323b8fc70221@www.baipiao.eu.org:8880?&security=none&type=ws&headerType=&host=dry-sunset-f3c4.282.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://2e9d5b66-4ac7-440a-9780-1a9a5f5e926c@176.124.222.137:443?encryption=none&type=xhttp&security=reality&path=%2Fapi%2Fv2%2Fstream%2Fevents&mode=auto&extra=null&fp=qq&sni=www.kaspersky.ru&pbk=nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I&sid=6bf03e9d7a1c8524#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://77a89d8d-9de3-cf40-bafb-e68f00000019@www.speedtest.net:443?type=ws&security=tls&host=ez-5b038e.ezaccess1c7f862.workers.dev&path=/sync&fp=chrome&sni=ez-5b038e.ezaccess1c7f862.workers.dev&alpn=h2,http/1.1#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#14.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#15.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@162.159.36.53:443?encryption=none&fp=firefox&host=bbc.zjxc.de5.net&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://79328a64-a74f-48a0-9030-b5c7b96d43cc@doomvex1.doomvexx.workers.dev:443?type=ws&security=tls&encryption=none&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&sni=doomvex1.doomvexx.workers.dev&fp=chrome&headerType=none#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://20cefac1-4d7f-4618-97f3-1ffece7135ee@172.67.195.121:443?encryption=none&type=ws&host=darkwiki20.darkwiki200.workers.dev&path=%2F&security=tls&fp=chrome&sni=darkwiki20.darkwiki200.workers.dev#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?encryption=none&security=tls&sni=sca12.afterdomain.shop&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc#19.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080?type=tcp&headerType=none#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?type=ws&security=tls&host=app-q0zc4t.user-4gfyh5.workers.dev&path=/cmh&fp=chrome&sni=app-q0zc4t.user-4gfyh5.workers.dev&alpn=h2,http/1.1#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?encryption=none&fp=firefox&host=app.zynuro.ir&path=/a8Kp92LmQx&security=tls&sni=app.zynuro.ir&type=ws#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#25.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=edge&type=tcp&sni=de1.linkto.sbs#26.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=%2FTelegram+%40WangCai2&fp=qq#27.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.gov.ua:8880?encryption=none&security=none&type=ws&host=morning-cell-6297.66-b87.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#28.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#29.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&headerType=none&type=tcp#30.%20%F0%9F%87%B5%F0%9F%87%B0%20Pakistan
+trojan://521314@104.248.161.136:443?type=ws&host=tjplay.lxdxo.kdns.fr&path=%2F&security=tls&sni=tjplay.lxdxo.kdns.fr#31.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@skk.moe:8880?encryption=none&security=none&type=ws&host=purple-disk-f68d.14-360.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#32.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#33.%20%F0%9F%87%A6%F0%9F%87%BA%20Australia
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?type=ws&headerType=none&security=tls&encryption=none&sni=app.zynuro.ir&fp=360&alpn=h2%2Chttp%2F1.1&path=%2Fa8Kp92LmQx&host=app.zynuro.ir&insecure=0#34.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://1c2a8143-a974-441d-a8be-7133d6f657a6@51.250.100.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vb-UuFZPZauhD07Vh4-7DOYN-pjpqPhjN4U1I8h2aSg&security=reality&sid=937495ff48a2a850&sni=ads.x5.ru&type=tcp#35.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=sca12.afterdomain.shop&insecure=0&allowInsecure=0&type=grpc#36.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls#37.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
+trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#38.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=sca35.afterdomain.shop&fp=random&type=grpc#39.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#40.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://dabe4e44-39e1-4464-9491-521993f207d8@de1.linkto.sbs:443?fp=edge&security=tls&sni=de1.linkto.sbs#41.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#42.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#43.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://c04e959d-3b7a-4d4f-881a-935762102704@www.zsu.gov.ua:8880?&type=ws&headerType=none&host=super-darkness-5bfb.298-142.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#44.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#45.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vmess://eyJhZGQiOiI0NS4yMDcuMzUuMTAyIiwiYWlkIjowLCJpZCI6ImU5MmI4NTc0LWM3NmMtNDllMC1hYzMwLTFlZTM1ODE0NDI4ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyNjcxMSwicHMiOiI0Ni4gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IE1hY2FvIiwic2VjdXJpdHkiOiJhdXRvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiNDcuIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIiwiYWRkIjoiMTA3LjE2MS44Mi44OSIsInBvcnQiOiI1OTkxMiIsInR5cGUiOiJub25lIiwiaWQiOiJiZGE2MTliNi1jNWU3LTQ0NGEtYWVkNy00ZDg3MTYyMzdiZDciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kiLCJob3N0IjoiIiwidGxzIjoiIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#48.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#49.%20%F0%9F%87%B5%F0%9F%87%B0%20Pakistan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#50.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
