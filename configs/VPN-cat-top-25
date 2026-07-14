@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.108.90:22224?type=tcp&security=none&encryption=none#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=qq&sni=vpn.oplatasite.ru#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=edge&sni=vpn.oplatasite.ru#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&security=tls&sni=vpn.oplatasite.ru&fp=edge&packetEncoding=xudp #7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=firefox&sni=vpn.oplatasite.ru#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=firefox&sni=vpn.oplatasite.ru#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080?type=tcp&headerType=none#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&security=tls&sni=vpn.oplatasite.ru&fp=edge&packetEncoding=xudp#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=edge&sni=vpn.oplatasite.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e71f6d44-9a3b-4283-9d2c-12559ab4b71f@217.168.247.124:8443?type=grpc&security=reality&encryption=none&sni=ru.vpnforppl.top&fp=chrome&pbk=V79PDGag0UzOlSyK7Pa2t7YJeSRJhCN78P9vewwlznU&sid=1e943a831d22faf6&spx=%2F&headerType=none&mode=gun#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@138.16.186.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2Q1Bt3MUsrB8WTaySJVXRCHey1CymNn0PnG0FJtOJlU&security=reality&sid=e444559b3931e5f7&sni=5post-gate.x5.ru&type=tcp#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vmess://eyJhZGQiOiI5NC4xMDMuMTY3LjExNiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMWIwYzEwMy1hN2ZmLTRiZDYtODg3ZC1hNzNkNmViZjFmNTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiIyMS4gXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRoZSBOZXRoZXJsYW5kcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://af22dd57-fda0-422f-87b5-edb332450156@78.159.245.72:2027?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=ads.x5.ru&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d8b42cd5-a149-4356-9e61-111111111111@213.189.16.91:1446?security=none&encryption=none&headerType=none&type=tcp#23.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=edge&sni=vpn.oplatasite.ru#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b68ab9f0-60a2-43bb-befb-ea72cc9400b2@188.68.221.199:10443?path=%2FVideo-data&security=tls&encryption=none&fp=qq&type=ws&sni=selectel-spb.ydns.eu#25.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.155.71:22222?encryption=none&security=none&type=tcp#9.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080?type=tcp&headerType=none#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@171.22.74.160:443?security=reality&encryption=none&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=caa0a516476ad539#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.11:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@171.22.74.160:443?security=reality&encryption=none&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=caa0a516476ad539#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b68ab9f0-60a2-43bb-befb-ea72cc9400b2@95.174.95.70:10443?path=%2FVideo-data&security=tls&encryption=none&fp=qq&type=ws&sni=cloud-ru.ydns.eu#17.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?type=tcp#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#19.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://4392b776-41a2-4300-b545-a3d2724b605b@94.250.252.5:443?encryption=none&type=xhttp&security=reality&path=/static/js/main.js&extra=null&fp=firefox&sni=cdn.tracker.yandex.net&pbk=SRHaGdtnkRYMKRlJPAIlk3gXKNH9lEo_qCzF5BOBdB4&sid=cdb4e56c#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bb229808-c207-428c-a398-0b4bf30f29be@109.69.20.228:8443?encryption=none&type=raw&security=tls&fp=firefox&sni=vpn.oplatasite.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#23.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?type=tcp&headerType=none#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
