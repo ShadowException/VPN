@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@89.167.16.234:8526?encryption=none&fp=firefox&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&security=reality&sid=62ad184af31fc8cf&sni=www.yahoo.com&type=tcp#1.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.186:8443?type=ws&security=tls&fp=chrome&sni=vp11.cc.cd#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram+%40WangCai2fp%3Dchrome&security=tls&fp=firefox#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#6.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://YWVzLTI1Ni1nY206YjI0YTgwZTc5Y2VlMWQxZg@46.17.40.13:20111#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://KV63147582@evolving-baboon.rooster465.autos:443?sni=evolving-baboon.rooster465.autos&peer=evolving-baboon.rooster465.autos&security=tls#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.35.211.165:2083?type=ws&security=tls&fp=firefox&sni=vp7.cc.cd#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?encryption=&flow=&host=rzd.ru&path=%2Fv1&type=ws#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.171:2053?type=ws&security=tls&fp=firefox&sni=vp8.cc.cd#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin1.panel11.ru&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&spx=%2F&type=tcp&headerType=none#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://63a1d550-f8da-456e-813c-398dd819e405@104.17.21.32:8880?&security=none&type=ws&headerType=&host=noisy-cherry-b46b.206-866.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.213:2096?type=ws&security=tls&fp=firefox&sni=vp6.cc.cd#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@89.127.197.71:2200?type=ws&security=none&encryption=none&path=%2Fv1&host=rzd.ru&headerType=none#15.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.207:443?type=ws&headerType=none&security=tls&encryption=none&sni=main-2.ariyuz.org&fp=firefox&alpn=h2&path=%2F&insecure=0#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.141:8443?type=ws&security=tls&fp=firefox&sni=vp2.cc.cd#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://OD90375861@wired-tick.rooster465.autos:443?type=raw&headerType=none&security=tls#18.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@172.64.94.251:8880?&security=false&fp=chrome&type=ws&headerType=none&host=ancient-tooth-af89.500-ba0.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#20.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.172:2053?type=ws&security=tls&fp=firefox&sni=vp7.cc.cd#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#22.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.35.211.174:2083?type=ws&security=tls&fp=firefox&sni=vp8.cc.cd#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.35.211.132:8443?type=ws&security=tls&fp=firefox&sni=vp8.cc.cd#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@172.64.229.1:443?&security=tls&fp=random&sni=cf11.evan00.dpdns.org&type=ws&headerType=none&host=cf11.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://87955793-47ab-4de4-82f3-08265d913ac8@138.124.4.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=sW9xD8fMXoVfYAuskc58xhmD2UWY4TkBkGt542sfL0s&sid=4138ec0d0a1b8ac4&spx=%2F&type=tcp&headerType=none#1.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.14:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=10XujgSZQDT5X5lmH0BLh6R99YDSieb5xvGuNXZtXDk&sid=005755e0cf80d989&spx=%2F&type=tcp&headerType=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.14:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=10XujgSZQDT5X5lmH0BLh6R99YDSieb5xvGuNXZtXDk&sid=4d775f3a3580776d&spx=%2F&type=tcp&headerType=none#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin1.panel11.ru&fp=firefox&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb&spx=%2F&type=tcp&headerType=none#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=7yWWI7qugDPJPr0CKTD4Qve8xcoKJQAzw79Jq2oM2lo&sid=e031c6c42fac5266&spx=%2F&type=tcp&headerType=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@192.145.28.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=XxBezdTJhe-SVQwUQjtPEZQsj079qV1zM7ZShoP-W0E&sid=ed142c7cf440fe50&spx=%2F&type=tcp&headerType=none#6.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.14:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=10XujgSZQDT5X5lmH0BLh6R99YDSieb5xvGuNXZtXDk&sid=005755e0cf80d989&spx=%2F&type=tcp&headerType=none#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f9d39bc8-7b8a-493d-bd7a-5f16f56beda8@82.148.29.20:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=gifs.ru&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff&spx=%2F#8.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=orpheous.ru&spx=/&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://87955793-47ab-4de4-82f3-08265d913ac8@41.216.182.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=yIFkr547PuGdDEohYCuVnk_FaPE7VxIf9mbrvbyR2wc&sid=7a9530d4aee9d955&spx=%2F&type=tcp&headerType=none#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://87955793-47ab-4de4-82f3-08265d913ac8@138.124.4.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=sW9xD8fMXoVfYAuskc58xhmD2UWY4TkBkGt542sfL0s&sid=fc882a2d00c030f3&spx=%2F&type=tcp&headerType=none#11.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=7yWWI7qugDPJPr0CKTD4Qve8xcoKJQAzw79Jq2oM2lo&sid=e031c6c42fac5266&spx=%2F&type=tcp&headerType=none#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.14:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=10XujgSZQDT5X5lmH0BLh6R99YDSieb5xvGuNXZtXDk&sid=4d775f3a3580776d&spx=%2F&type=tcp&headerType=none#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22224?encryption=none&security=none&type=tcp#14.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.3.17:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=GKWP3S4uPjKUH0ZjhYTjQL11NKI-Uyk7guRlvkGRo1g&sid=85e83576bed5d818&spx=%2F&type=tcp&headerType=none#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.213:2096?type=ws&security=tls&fp=firefox&sni=vp6.cc.cd#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&fp=firefox&sni=cf11.evan00.dpdns.org#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206NjUxMjAzMDk2MTQ3M2YyMQ@185.198.235.208:20129#18.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://87955793-47ab-4de4-82f3-08265d913ac8@138.124.4.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=sW9xD8fMXoVfYAuskc58xhmD2UWY4TkBkGt542sfL0s&sid=4138ec0d0a1b8ac4&spx=%2F&type=tcp&headerType=none#19.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22222?encryption=none&security=none&type=tcp#20.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://87955793-47ab-4de4-82f3-08265d913ac8@138.124.4.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=sW9xD8fMXoVfYAuskc58xhmD2UWY4TkBkGt542sfL0s&sid=fc882a2d00c030f3&spx=%2F&type=tcp&headerType=none#21.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@138.124.4.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=sW9xD8fMXoVfYAuskc58xhmD2UWY4TkBkGt542sfL0s&sid=fc882a2d00c030f3&spx=%2F&type=tcp&headerType=none#22.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=B28bSL-Y_0WdiBev6r1XJHe878yjG6zBTZtIFeU3WFg&sid=b441e61041c7d95c&spx=%2F&type=tcp&headerType=none#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=7yWWI7qugDPJPr0CKTD4Qve8xcoKJQAzw79Jq2oM2lo&sid=e031c6c42fac5266&spx=%2F&type=tcp&headerType=none#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87955793-47ab-4de4-82f3-08265d913ac8@213.108.1.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=firefox&pbk=7yWWI7qugDPJPr0CKTD4Qve8xcoKJQAzw79Jq2oM2lo&sid=805d6e76480a1052&spx=%2F&type=tcp&headerType=none#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
