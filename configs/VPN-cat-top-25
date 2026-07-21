@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=firefox#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&security=none&type=tcp#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?security=&encryption=none&headerType=&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&encryption=none&fp=chrome#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?encryption=none&type=raw&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?encryption=none&type=raw&security=none#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?security=&encryption=none&headerType=&type=tcp#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=safari#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?encryption=none&type=raw&security=none#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=firefox#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#13.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&fp=firefox#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&headerType=none&security=none&encryption=none#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=none&fp=edge#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&fp=chrome#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?encryption=none&type=raw&security=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?encryption=none&type=raw&security=none#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=android#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://NQ26071394@certain-prawn.rooster465.autos:443?security=tls&sni=certain-prawn.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?type=tcp&security=none&encryption=none&fp=safari#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=ios#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.111:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?security=none&sni=tn.tmn141246.ru&type=ws&path=/v1#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://31649657-6c78-4c2c-b25b-5cd574b082b5@nl03.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl03.tunnely.ru&sid=2e40144ddc07e8e1#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=wlCVdU8TCIBjIKRPWA6kpmptW0MV9rCP8WfWLSapsjU&sid=cc7dc5fb&sni=ads.x5.ru#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wlCVdU8TCIBjIKRPWA6kpmptW0MV9rCP8WfWLSapsjU&sid=cc7dc5fb&sni=ads.x5.ru#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://00a84cc6-073c-454b-9487-f0b7238e715f@89.106.86.58:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9sQq7VaSTZB6E4NAkNVg1diZYb8NC2Tj-Sbvt49UEjk&sid=b87b873f67c7f7f8&sni=download.amd.com#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@172.64.34.238:443?fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.18.33.231:2083?&security=tls&fp=chrome&sni=vp7.cc.cd&type=ws&headerType=none&host=vp7.cc.cd&path=%2F#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.44.36:2096?&security=tls&fp=chrome&sni=vp43.cc.cd&type=ws&headerType=none&host=vp43.cc.cd&path=%2F#9.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&security=tls&sni=xqexv.greenwolf-ili.sbs&fp=random&type=ws&host=xqexv.greenwolf-ili.sbs&path=%2Fsea#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.19.35.49:8443?&security=tls&fp=chrome&sni=vp7.cc.cd&type=ws&headerType=none&host=vp7.cc.cd&path=%2F#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.45.70:443?&security=tls&fp=chrome&sni=vp28.cc.cd&type=ws&headerType=none&host=vp28.cc.cd&path=%2F#12.%20%F0%9F%87%AA%F0%9F%87%AA%20Estonia
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.17.60.174:2096?&security=tls&fp=chrome&sni=vp7.cc.cd&type=ws&headerType=none&host=vp7.cc.cd&path=%2F#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://3290f561-d94d-426e-8e1b-52ab0d441786@173.245.58.162:2096?&security=tls&fp=chrome&sni=white-silence-30a2.ali101020.workers.dev&type=ws&headerType=none&host=white-silence-30a2.ali101020.workers.dev&path=%2F#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7b102311-43fd-4e8f-877e-8090623c101d@198.41.209.7:2096?&security=tls&fp=chrome&sni=vp33.cc.cd&type=ws&headerType=none&host=vp33.cc.cd&path=%2F#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://56b812e4-2d96-4ce5-b365-6c801663a37a@us-1.124515.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=us-1.124515.xyz&pbk=RBLUab6xZY89_lavlyhc6Wbh6bZCPB1D6UpmBn5UKFw&sid=a379aacd5815cb32&fp=qq#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@109.107.168.109:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU&security=reality&sid=eb0cca7312345678&sni=kinopoisk.ru&type=tcp#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://71f03365-49f2-4199-bf55-8b239ddb2e0f@104.26.9.6:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&host=ez-87978b.ezaccess101a6f2.workers.dev&fp=chrome&type=ws&sni=ez-87978b.ezaccess101a6f2.workers.dev#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.17.60.215:2083?&security=tls&fp=chrome&sni=vp7.cc.cd&type=ws&headerType=none&host=vp7.cc.cd&path=%2F#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&type=ws&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?type=ws&host=live.ok.ru&path=%2Fv1#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@dnew.cc:443?encryption=none&security=tls&sni=vp15.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp15.cc.cd&path=%2F#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://2fc6fbd0-e477-47c6-a6ef-489300000000@www.speedtest.net:443?encryption=none&security=tls&sni=netlivpn0919.vsh72727.workers.dev&fp=chrome&type=ws&host=netlivpn0919.vsh72727.workers.dev&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&allowInsecure=0#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?security=none&type=tcp&fp=chrome#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
