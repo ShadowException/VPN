@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду“ | t.me/vpn_cat
+#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://cf2feab8-7f5f-40f8-b2cc-23af2044426d@147.45.110.81:8443?type=xhttp&security=reality&fp=firefox&pbk=ujgxDZv4euWW-us20zlWu8d1PnD5p_i8E0SpARCP3xI&sid=23505cc9&sni=www.apple.com&path=/api/v1/data&mode=auto&extra={"xPaddingBytes":"100-1000","scMaxBufferedPosts":30,"scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":"10-50"}#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?type=tcp&security=none&fp=chrome#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=firefox#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.124.12:22222?encryption=none&security=none&type=tcp#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?security=&encryption=none&headerType=&type=tcp#3.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?encryption=none&type=raw&security=none#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?encryption=none&type=raw&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=none&fp=edge#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=safari#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?security=&encryption=none&headerType=&type=tcp#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?encryption=none&type=raw&headerType=none&security=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&fp=firefox#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=safari#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&encryption=none&fp=firefox#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?encryption=none&security=none&type=tcp #13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@82.148.20.72:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=safari#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?encryption=none&type=raw&security=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?security=&encryption=none&headerType=&type=tcp#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@82.148.20.72:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=none&fp=edge#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?security=&encryption=none&headerType=&type=tcp#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://cf2feab8-7f5f-40f8-b2cc-23af2044426d@147.45.110.81:8443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Fdata&host=www.apple.com&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A%2210-50%22%7D&security=reality&sni=www.apple.com&fp=chrome&pbk=ujgxDZv4euWW-us20zlWu8d1PnD5p_i8E0SpARCP3xI&sid=23505cc9#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?security=&encryption=none&headerType=&type=tcp #23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@82.148.20.72:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&encryption=none&fp=chrome#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?encryption=none&type=raw&security=none#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?encryption=none&type=raw&security=none#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?security=&encryption=none&headerType=&type=tcp#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=safari#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?encryption=none&type=raw&security=none#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=storage.yandexcloud.net&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=firefox#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#13.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&fp=firefox#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&headerType=none&security=none&encryption=none#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=none&fp=edge#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:56745?type=tcp&security=none&fp=chrome#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?encryption=none&type=raw&security=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?encryption=none&type=raw&security=none#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:57836?type=tcp&security=none&fp=ios#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&fp=android#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://NQ26071394@certain-prawn.rooster465.autos:443?security=tls&sni=certain-prawn.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?type=tcp&security=none&encryption=none&fp=safari#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@176.123.165.127:12672?type=tcp&security=none&fp=ios#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
