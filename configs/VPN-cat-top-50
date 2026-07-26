@@ -2,9 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://8624ba0f-d03e-48de-9df6-b7fcff482ea2@77.83.246.233:2053?type=ws&security=tls&encryption=none&path=%2F%3Fed%3D2560&host=x1htl81r.njcdoaw.workers.dev&sni=x1htl81r.njcdoaw.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#1.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#1.%20%F0%9F%87%AE%F0%9F%87%B3%20India
+trojan://521314@185.225.195.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://NQ26071394@13.38.35.46:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lucky-marmot.rooster465.autos&fp=chrome&insecure=0#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#4.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+trojan://521314@91.193.58.237:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@138.16.181.6:8444?type=tcp&security=reality&sni=storage.yandex.net&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&fp=firefox&encryption=none&flow=xtls-rprx-vision#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
