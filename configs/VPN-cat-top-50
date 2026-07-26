@@ -2,13 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
+#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.162:2083?encryption=none&type=ws&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&fp=chrome&sni=fhfhfhf.kathykroger.workers.dev#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://b1787456-cc54-4191-99e9-c609bf7c2853@dp-tr-01.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#3.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#4.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#5.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?&security=tls&fp=chrome&sni=ad-020.orbitqgr7v.info&type=ws&headerType=none&host=ad-020.orbitqgr7v.info&path=%2F#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
