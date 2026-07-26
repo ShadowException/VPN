@@ -2,9 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду“ | t.me/vpn_cat
+#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://521314@91.193.58.193:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://18bb7397-9f8c-4c26-a316-69b38515e8e6@186.246.10.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&security=reality&sid=b2ba734eff38baa9&sni=bzzru.hat.apruxdomain.space&type=tcp#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://18bb7397-9f8c-4c26-a316-69b38515e8e6@186.246.10.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&security=reality&sid=b2ba734eff38baa9&sni=bzzru.hat.apruxdomain.space&type=tcp#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://18bb7397-9f8c-4c26-a316-69b38515e8e6@186.246.10.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&security=reality&sid=b2ba734eff38baa9&sni=bzzru.hat.apruxdomain.space&type=tcp#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@125.224.227.94:50099#5.%20%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
+trojan://521314@45.131.6.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
