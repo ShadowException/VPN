@@ -2,13 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#1.%20%F0%9F%87%AE%F0%9F%87%B3%20India
-trojan://521314@185.225.195.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://NQ26071394@13.38.35.46:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lucky-marmot.rooster465.autos&fp=chrome&insecure=0#3.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#4.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-trojan://521314@91.193.58.237:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@138.16.181.6:8444?type=tcp&security=reality&sni=storage.yandex.net&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&fp=firefox&encryption=none&flow=xtls-rprx-vision#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.162:2083?encryption=none&type=ws&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&fp=chrome&sni=fhfhfhf.kathykroger.workers.dev#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://b1787456-cc54-4191-99e9-c609bf7c2853@dp-tr-01.live:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#3.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#4.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.51:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&sni=storage.yandex.net#5.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?&security=tls&fp=chrome&sni=ad-020.orbitqgr7v.info&type=ws&headerType=none&host=ad-020.orbitqgr7v.info&path=%2F#6.%20%F0%9F%87%AB%F0%9F%87%B7%20France
