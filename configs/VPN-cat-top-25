@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „Не все мысли проходят через мозг, некоторые — только через цензуру“ | t.me/vpn_cat
+#announce: „Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-trojan://521314@45.80.111.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.255.178.131:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=sca12.afterdomain.shop#3.%20%F0%9F%87%AE%F0%9F%87%B9%20Italy
-trojan://521314@89.116.250.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://138bfe7f-a2c4-443e-befe-6a9d13e1550b@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@91.193.58.101:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@198.71.233.27:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@81.85.78.78:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://521314@216.24.57.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d9e292f3-3c9e-4fea-9961-a0a8ae201eac@pro-ru-213.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq&sni=pro-ru-213.emrata.top&flow=xtls-rprx-vision#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@139.64.235.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@172.67.188.128:8443?encryption=none&host=ad-010.limaklhc6.info&path=%2F&security=tls&sni=ad-010.limaklhc6.info&type=ws#12.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-trojan://521314@194.36.55.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://138bfe7f-a2c4-443e-befe-6a9d13e1550b@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://138bfe7f-a2c4-443e-befe-6a9d13e1550b@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://737678dc-cc15-4643-85a4-ca9359df1aa4@104.25.3.165:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=patient-moon-c61f.ggfsa55.workers.dev#3.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@tn2.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://521314@8.6.112.27:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://6e2e03e2-4f66-479a-a186-a34d66ca8c91@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan11.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://521314@193.227.99.27:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=/sea&host=htelm.neowolfbox-ilo.sbs&packetEncoding=xudp&sni=htelm.neowolfbox-ilo.sbs&fp=chrome&encryption=none#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@31.172.67.215:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://a51d8a82-faec-44f4-8882-441a2e7f0ce4@172.66.200.130:8880?&type=ws&headerType=none&host=spring-math-5c8c.434.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://521314@213.182.199.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=%2F#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@31.172.67.215:2200?security=none&sni=tn.tmn141246.ru&type=ws&path=/v1#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://521314@156.225.72.27:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@104.21.66.61:8443?security=tls&type=ws&path=/api/voip/updates/static/x9i2&host=france.io-com-de-dev.org&alpn=http/1.1&sni=france.io-com-de-dev.org&fp=chrome&encryption=none#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://521314@154.194.12.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://c7e9c591-2764-423a-afca-efbd010fd396@188.226.187.215:443?path=%2F&security=tls&encryption=none&insecure=1&host=forfreeuse.sub-flow.online&type=ws&allowInsecure=1&sni=forfreeuse.sub-flow.online#19.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@81.85.78.78:2200?encryption=none&type=ws&security=none&path=%2Fv1#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@151.245.192.225:443?flow=xtls-rprx-vision&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=auto.malina24.xyz#21.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
-trojan://521314@108.165.216.27:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://521314@91.193.58.237:443?host=hhtj.hhllfly.kdns.fr&path=/pyip=Telegram-WangCai2&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d9e292f3-3c9e-4fea-9961-a0a8ae201eac@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://521314@188.42.88.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://521314@170.114.45.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://521314@91.193.58.153:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@217.177.74.111:2200?type=ws&path=%2Fv1&host=rzd.ru#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://521314@31.12.75.27:443?host=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=hhtj.hhllfly.kdns.fr&type=ws&fp=edge#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@113.30.149.20:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru#23.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+trojan://521314@8.34.70.27:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhtj.hhllfly.kdns.fr&path=%2Fpyip%3DTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=hhtj.hhllfly.kdns.fr&insecure=0#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://3e553ebf-db9d-4858-b608-03d6ff615a41@172.67.209.127:8880?security=none&type=ws&host=rapid-waterfall-7270.255-22b.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
