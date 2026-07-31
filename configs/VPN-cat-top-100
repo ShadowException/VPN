@@ -2,50 +2,30 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж“ | t.me/vpn_cat
+#announce: „«Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://5c7a171d-de8a-446d-accc-4d3cf7d473f4@www.zsu.gov.ua:8880?type=ws&host=purple-forest-b185.467.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&insecure=0&allowInsecure=0#3.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://c7e9c591-2764-423a-afca-efbd010fd396@54.36.98.76:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#4.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fcarbon&security=tls&alpn=h2&encryption=none&insecure=0&host=utmwb.freshlionnode-fla.sbs&type=ws&allowInsecure=0&sni=utmwb.freshlionnode-fla.sbs#5.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.88:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-1.ariyuz.org&type=ws&headerType=none&host=germany-1.ariyuz.org&path=%2F#6.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://52f0f840-5e5c-440c-92bc-992d9e59fcd5@openai.com:443?encryption=none&security=tls&sni=minify.hmdprv.qzz.io&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=minify.hmdprv.qzz.io&path=%2Fws4#7.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.47.47:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#8.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://f15a5586-23f6-453f-97f5-c301b949e699@deepl.com:8880?encryption=none&type=ws&host=mute-sunset-0849.40-aeb.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#9.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@vlso4.1d.mom:2053?&security=tls&fp=chrome&sni=vlso4.1d.mom&type=ws&headerType=none&host=vlso4.1d.mom&path=%2F#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=curly-surf-4401.75-08c.workers.dev&type=ws#11.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://50414e45-4c5f-5a45-5553-9b0ee99e36dd@172.67.198.109:2096?type=ws&security=tls&sni=ez-abcc2c.igunsjgjnfgn.workers.dev#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.54.70:22224?encryption=none&security=none&type=tcp#13.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.243.106:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://11e17410-7b67-495a-ad7d-e85e8a054e43@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=hikologoly.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=hikologoly.dearhossein-taktaz.ir#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://767c5a66-bd28-440a-90c8-7ae1101a0172@www.gov.ua:8880?&security=false&fp=chrome&type=ws&headerType=none&host=still-voice-1adc.135-275.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#16.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.182:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.117:443?security=reality&encryption=none&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#19.%20%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.44:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#20.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@dtac.exp.dog:80?allowInsecure=0&sni=duatoup3wk8q2.cloudfront.net&type=ws&host=duatoup3wk8q2.cloudfront.net&path=/fnet50#21.%20%F0%9F%87%B9%F0%9F%87%AD%20Thailand
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.209:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://c7e9c591-2764-423a-afca-efbd010fd396@82.117.245.166:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fall&security=tls&alpn=h2&encryption=none&insecure=0&host=ncrem.sunrocketbox-fla.sbs&type=ws&allowInsecure=0&sni=ncrem.sunrocketbox-fla.sbs#24.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#25.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#26.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=utmwb.freshlionnode-fla.sbs&type=ws&allowInsecure=0&sni=utmwb.freshlionnode-fla.sbs#27.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.238:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#28.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@curly-surf-4401.75-08c.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=qq#29.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.9:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sni=apple.com&serverName=apple.com#30.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:6357?security=tls&sni=www.nintendogames.net#31.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-vless://8a02c9f7-936a-4d78-a88f-c1e9229f4d5d@31.58.50.200:8443?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&flow=xtls-rprx-vision#32.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#33.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#34.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vmess://eyJhZGQiOiI4LjIxMC4xODkuMTU4IiwiYWlkIjoiMCIsImhvc3QiOiIyYjlod1k4b0N4N1E3NE5NLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IjM1LiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSG9uZyBLb25nIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.67.157.10:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-020.vector2llqn.info&path=%2F&insecure=0#36.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.47.78:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#37.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.139.250.35:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&sni=apple.com#38.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://70f8d74a-7938-4f21-9293-2c437a939247@198.23.238.35:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M4KRLRGcJGhJScjCv3JinHE0Da9s79Ku7GlVFSNsTVY&security=reality&sid=a61500e1&sni=www.cloudflare.com&type=tcp#39.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.77.140.9:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#40.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vmess://eyJ2IjoiMiIsImFkZCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2YWg0dXJkemwzamR4NXIyLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBzIjoiNDEuIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBIb25nIEtvbmcifQ
-vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?security=tls&type=ws&path=/ws-cdn&host=1.rmgyvpn.rest&packetEncoding=xudp&sni=1.rmgyvpn.rest&fp=chrome#42.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?security=none&type=ws&path=/dula&host=speed.dulacloud.store&sni=speed.dulacloud.store#43.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.111:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@www.visa.com.sg:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=withered-sea-c187.445-608.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#2.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.111:2200?encryption=none&type=ws&security=none&path=/v1#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40VPNine1&fp=qq#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#5.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#7.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?&security=none&type=ws&headerType=&host=crimson-mode-f8de.432-9e1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#8.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#9.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://c7e9c591-2764-423a-afca-efbd010fd396@188.226.187.215:443?path=%2F&security=tls&encryption=none&insecure=1&host=forfreeuse.sub-flow.online&type=ws&allowInsecure=1&sni=forfreeuse.sub-flow.online#12.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#14.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=curly-surf-4401.75-08c.workers.dev&type=ws#16.%20%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://c7e9c591-2764-423a-afca-efbd010fd396@151.242.69.72:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#17.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?alpn=h2&encryption=none&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#20.%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia
+vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#21.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&security=tls&type=ws#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw#23.%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore
