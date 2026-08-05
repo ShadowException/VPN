@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери“ | t.me/vpn_cat
+#announce: „«Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=qq#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=safari#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=chrome#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.111:2200?encryption=none&type=ws&security=none&path=/v1#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=monalisgame.com&type=raw#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.210:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=qq#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@217.177.74.111:2200?type=ws&security=none&encryption=none&path=%2Fv1%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&headerType=none#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=monalisgame.com&type=raw#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@217.177.74.111:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#10.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@217.177.74.111:2200?type=ws&path=%2Fv1&host=rzd.ru#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@176.98.177.192:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&fp=safari#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@217.177.74.111:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?&type=ws&headerType=none&path=%2Fv1#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=safari#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=monalisgame.com&type=raw#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=edge#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&security=reality&sni=monalisgame.com&type=raw#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#4.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=qq#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#6.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.205:2200?encryption=none&type=ws&security=none&path=/v1#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://chacha20-ietf-poly1305:k1dBOmOB4oqi7Ump37a1bQ@82.38.31.204:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=qq#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bdba330b-dfc6-000a-93e4-b10f906bf4fb@72.56.234.184:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=Mkxs9LT0tRg208EbLXmP-_dQYlsPOgaTwZ3acwgVVWs&flow=xtls-rprx-vision&fp=qq#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#13.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#17.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://87d2ab46-0575-42e7-8bf8-4d8b0cb484f0@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#18.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.159.76:8443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://95f50108-2bae-4634-948c-b22e01ae3133@pro-ru-bridge.emrata.top:443?type=tcp&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&flow=xtls-rprx-vision#22.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://bdba330b-dfc6-001f-93e4-b10f906bf4fb@176.98.177.192:443?type=tcp&headerType=none&security=reality&encryption=none&sni=monalisgame.com&pbk=0J8o7RTIGJzUV6gOjCtpPvgzCZz7Yowfla_I0a01GRY&fp=firefox#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
