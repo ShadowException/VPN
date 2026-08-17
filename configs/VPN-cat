@@ -2,15 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж“ | t.me/vpn_cat
+#announce: „«Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://e2fefcd7-a58e-4e10-a6bf-a2ebc40ea727@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#1.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://71f71240-5743-49a0-bd5f-56ae66624068@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#2.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://9eecb29d-fefa-49eb-a3bd-ae4a54f13a93@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#3.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://91f33cd0-0d2a-4c79-b468-1afa6827a1f2@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#4.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://ba82fcb1-b919-48d5-af8b-9089a9dbc6f5@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#5.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@217.19.122.94:2027?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea&sni=storage.yandex.net#6.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://be46f076-2a3c-465c-aa7e-7e373b86a443@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#7.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@217.19.122.94:2027?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&sni=storage.yandex.net#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&hiddify=1#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://ad074ab8-c55b-46d3-a0b2-fbd278414873@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#2.%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
