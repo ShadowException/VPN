@@ -6,28 +6,4 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.144.66:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560#1.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?encryption=none&security=none&sni=live.ok.ru&type=ws&path=%2Fv1#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?type=ws&headerType=none&security=tls&encryption=none&sni=de-new.ariyuz.org&path=%2F&insecure=0#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.240:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://2001e98b-e06e-4244-910f-7ff640746eda@104.171.132.102:2200?encryption=none&path=%2Fv1&security=none&type=ws#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://AE62539071@dominant-jaguar.rooster465.autos:443?security=tls#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.27:443?type=ws&security=tls&fp=chrome&sni=ro.ariyuz.org#13.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQjJDdjlWSWx1amo@23.150.248.20:8388#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.46:443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#17.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#18.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#19.%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
-trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#20.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-trojan://AE62539071@dear-hermit.rooster465.autos:443?security=tls#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://AE62539071@54.74.159.195:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kind-stork.rooster465.autos#22.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-trojan://AE62539071@rich-gelding.rooster465.autos:443?security=tls#23.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:4100?host=live.ok.ru&path=%2Fv1&type=ws#24.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&hiddify=1#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
