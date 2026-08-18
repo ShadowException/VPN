@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери“ | t.me/vpn_cat
+#announce: „«Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://fc07967d-925b-4246-a535-9527a8242a16@217.198.169.86:443?encryption=none&extra=null&fp=edge&path=%2Fwk7Lj2YbQfCoLCnY5dZ3&pbk=h5rOWssRWMnFJ0Ka0-PwBwwg3PMPifPShXutXEoj2QM&security=reality&sid=b8ac5fcfceca&sni=avatars.mds.yandex.net&type=xhttp#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://dfb24a48-bda5-4a33-9124-183917fde270@157.22.207.182:21098?type=tcp&security=none&encryption=none#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?encryption=none&fp=edge&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&security=reality&sid=f63894ed&sni=s3node1.tcpdoor.net&type=raw#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?type=raw&security=reality&fp=firefox&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&sni=s3node1.tcpdoor.net#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?encryption=none&fp=firefox&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&security=reality&sid=f63894ed&sni=s3node1.tcpdoor.net&type=raw#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:443#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080?type=tcp&headerType=none#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?encryption=none&fp=firefox&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&security=reality&sid=f63894ed&sni=s3node1.tcpdoor.net&spx=%2F&type=raw#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=edge&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=%2F#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?security=reality&type=tcp&fp=edge&sni=s3node1.tcpdoor.net&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&spx=%2F#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#2.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?path=%2Fv1&sni=rzd.ru&type=ws#4.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.17.181.19:8880?&security=none&type=ws&headerType=&host=royal-shape-3771.93-728.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?encryption=none&security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?encryption=none&fp=edge&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&security=reality&sid=f63894ed&sni=s3node1.tcpdoor.net&spx=%2F&type=raw#7.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://b92380e2-e03f-4861-856e-7c2373b04728@104.16.8.66:8880?security=none&type=ws&host=dry-thunder-7f57.57-1a3.workers.dev#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?type=tcp&headerType=none#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://87a5d3eb-afd4-4193-9787-c54ef7c26c8c@172.64.88.251:8880?type=ws&host=patient-cake-39c7.44-e7a.workers.dev&path=%2F#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@104.17.25.173:8880?encryption=none&security=none&type=ws&host=summer-bonus-aa63.52-c03.workers.dev&path=/pyip#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?encryption=none&type=ws&path=%2Fv1&security=none#14.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.99.215:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=steep-thunder-97fa.108-d10.workers.dev&packetEncoding=xudp#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@104.17.178.154:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=billowing-fire-a10b.301-d6c.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?encryption=none&type=ws&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.25.217.123:2086?encryption=none&type=ws&host=misty-bread-fd96.salehinezhadali.workers.dev&path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&security=none#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@141.101.114.219:80?encryption=none&security=none&type=ws&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@104.16.97.215:8880?encryption=none&host=billowing-fire-a10b.301-d6c.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?type=raw&security=reality&fp=firefox&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&sid=f63894ed&sni=s3node1.tcpdoor.net#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f8c5b018-f51a-4137-be8a-50a451630589@104.171.135.15:443?encryption=none&fp=firefox&pbk=BlwOc2kEuypbj92UxsBJ4VoG_zd2dfUIgvmUwQ-IjDA&security=reality&sid=f63894ed&sni=s3node1.tcpdoor.net&type=raw#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@194.87.151.237:443?encryption=none&extra=null&fp=firefox&mode=auto&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&security=reality&sid=15affa0af66dfc79&sni=deepl.com&type=xhttp#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
