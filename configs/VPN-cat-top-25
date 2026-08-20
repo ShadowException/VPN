@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж“ | t.me/vpn_cat
+#announce: „«Заявлять, что вам не нужна приватность, так как вам нечего скрывать, сродни заявлению о том, что вам не нужна свобода слова, так как вам нечего сказать» — Эдвард Сноуден“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#2.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@104.16.107.139:8880?&security=none&type=ws&headerType=&host=polished-firefly-3e2d.20-645.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@104.16.107.139:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=polished-firefly-3e2d.20-645.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@212.233.99.132:443?encryption=none&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&security=reality&sid=ab532d3308daa67b&sni=ru.chick-team.ru&type=tcp&fp=firefox#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=/&type=raw#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?security=reality&type=raw&sni=www.rumedia-cdn.com&fp=qq&flow=xtls-rprx-vision&sid=ed5a52acd4b78bde&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&encryption=none#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://fe0138b5-ca60-4a67-91aa-b5a49266eeb5@212.233.99.132:443?encryption=none&flow=xtls-rprx-vision&pbk=NBiCX_Tj3BeMAyG-GbLLKpGjW_qacm3A2Mz5mN8v3Xk&security=reality&sid=ab532d3308daa67b&sni=ru.chick-team.ru&type=tcp&fp=firefox#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?&type=ws&headerType=none&host=old-truth-de8a.110-187.workers.dev&path=%2Fpyip#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://d9c01a13-cb60-4c48-9fbc-ba1d3a8b5bfb@162.159.156.214:8880?&security=false&fp=chrome&type=ws&headerType=none&host=little-silence-1ee8.449.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=firefox#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.107.139:8880?security=none&type=ws&host=shy-mud-e936.15-bb9.workers.dev#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@104.16.98.215:8880?security=none&type=ws&host=divine-sound-9e93.22-be2.workers.dev#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#2.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&security=reality&sid=ed5a52acd4b78bde&sni=www.rumedia-cdn.com&spx=%2F&type=raw#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://74705348-bb9c-47c6-9e91-057c6407bb20@162.159.156.214:8880?encryption=none&type=ws&host=small-glitter-aa35.76-21d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f35fb51f-8d34-49ec-80cb-7d04ffc1a69b@162.159.140.78:8880?type=ws&host=damp-sky-9aaa.224-8b4.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:443#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=chrome#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&fp=qq&spx=%2F&encryption=none&flow=xtls-rprx-vision#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#16.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://12cebf33-2f96-48a3-af37-c2231e5cef75@162.159.156.214:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=throbbing-moon-a07c.90-ec4.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#17.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=edge#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?path=%2Fv1&security=none&type=ws#22.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://e653ba00-cea8-488f-957e-9fa24a260a68@109.196.99.30:8443?type=tcp&security=reality&sni=www.rumedia-cdn.com&pbk=0ZJDfr9ZghDx3u0pPFvEQ888ViXE_kHVoALrN8j8xnI&sid=ed5a52acd4b78bde&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@104.17.25.173:8880?host=summer-bonus-aa63.52-c03.workers.dev&path=%2Fpyip+&security=none&type=ws#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://1560c0b2-3cb8-45a3-988b-7103b031a815@104.16.8.66:8880?security=none&type=ws&host=delicate-wood-49a8.214-451.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
