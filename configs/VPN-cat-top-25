@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: „«Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж“ | t.me/vpn_cat
+#announce: „«Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж“ | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-trojan://FH72359861@34.245.159.68:443?type=raw&sni=summary-firefly.rooster465.autos#2.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rk5hc0RESVJWMUx3dTlGZExoZVdUNjlBcUhiZ1Z1aE1CYWNlbDdQUFlBcz0@130.61.47.53:59924#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&security=tls&fp=ios&sni=germany-2.ariyuz.org.#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos#6.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.74:2087?path=%2F&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.93:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&type=ws#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#10.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#12.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#13.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://AE62539071@54.170.38.205:443?type=raw&sni=unbiased-garfish.rooster465.autos#14.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.144.82:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#18.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9&sni=s1.test.anti-zapret.com#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://621089a2-c75a-4ea6-a328-b0739e1fc64a@146.75.119.82:80?security=none&type=ws&path=%2Fws%2F%3Fed%3D2048%2F%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%40AzadMarz%2F%3F2048&host=rb24.ir&encryption=none#3.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100?encryption=none&path=%2Fv1&security=none&type=ws#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#6.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://2f6caa9d-1e26-4c65-93ea-0ee26f1f1473@usa1.razkur.dev:443?security=reality&type=tcp&sni=usa1.razkur.dev&fp=chrome&flow=xtls-rprx-vision&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&encryption=none#7.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://b6b6866b-a9bf-46a1-ae34-16661be8b67f@95.129.236.252:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fapi%2Fv2%2Fvms%2Fstream%2Fgenka&security=tls&sni=benzin.benz.ink&type=ws#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#11.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+vless://1560c0b2-3cb8-45a3-988b-7103b031a815@104.16.8.66:8880?host=delicate-wood-49a8.214-451.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net+&security=none&type=ws#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://MITIVPN@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=8387463833-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&fp=chrome&type=ws&sni=39995895-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos#15.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#16.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+trojan://PQ05174892@kind-stork.rooster465.autos:443?type=tcp&security=tls&sni=kind-stork.rooster465.autos&fp=chrome#17.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFdCWGhKb3hySXlOckVOSklpcHQ5RlZuenFSQUJtdVhqU1cwSHRnTkdJMD0@129.148.44.181:59319#18.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?encryption=none&amp;security=none&amp;type=tcp#19.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&sni=sterling-vervet.rooster465.autos#20.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-trojan://AE62539071@easy-barnacle.rooster465.autos:443?security=tls#21.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#23.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.18.38.47:2087?path=%2F&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.99:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany-2.ariyuz.org#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://PQ05174892@mature-lamprey.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=mature-lamprey.rooster465.autos#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.76.231:2095?security=none&type=ws&path=/&host=fuckfangbinxing.pusytroller.gq&sni=fuckfangbinxing.pusytroller.gq#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NC80Tzh0VEdtdFZWc0QyZms3MGozOWFkb1I3SldnOHUxMTRLZnkxNUlBdz0@130.61.176.82:59924#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.89.120:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
