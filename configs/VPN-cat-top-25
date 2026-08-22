@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22224?encryption=none&security=none&type=tcp#2.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22223?encryption=none&security=none&type=tcp#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.85.201:22222?encryption=none&security=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OElwekdqKzREejEzR3lCN0c1aDFEdUcwa2x5S0o0S3U3M0NBWWk2Y3M1WT0@134.65.61.49:61312#9.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dmR5b21EcGp2QlkrMHhNclpvU09GeTNpNzZSbHk0NTJ0WEZBeml4UGNMND0@158.180.14.59:45819#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzFYNkh4ZnVHMjBUbkFtU0M4WllRWURKcW14Z2pPUDF2d3Zya1FjUE1kUT0@158.101.222.193:45819#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:20990#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RGkwbml1SktmYVgzeEUyWGJqWFZFM0xuRGFoaEh1UlkzT2VocGhRbitkdz0@134.98.133.97:45819#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.208.44:62145?security=none&type=tcp&encryption=none#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OElwekdqKzREejEzR3lCN0c1aDFEdUcwa2x5S0o0S3U3M0NBWWk2Y3M1WT0@134.65.61.49:61312#21.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6QlBMbHdFZjRRNXBCam5oOXlhT2JEYnozN0lqWWlqdnZyQ1NKTDVDTmFhWT0=@130.61.239.20:59924#22.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Mnc0L2VHYmFGYUs4R2xKTWEreUtaTzFFd2ZJZTFuT3BvalZNM3FQRktrVT0@158.178.159.220:45819#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TjMyTXZ5S1djdkIyZGZkOSs4dERHc2REUGtmWnRzbW1tNmVpazl5eFcvRT0@144.24.228.102:61312#25.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://9463dae0-cb92-4d8e-93ae-b690456c35fe@95.85.241.121:443?flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=bHTaVlwcH8VYTv6GKHp-If18gDxvHFoqMWhrtekOn1g&sid=84ba23f581ad7a15&fp=qq#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:443#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?security=&encryption=none&headerType=&type=tcp#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.209:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://eece4171-e025-40a3-9027-e395036ff99d@dp-es-01.live:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.195.228.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=de8d3223e7d85761&type=tcp&headerType=none#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#10.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://9463dae0-cb92-4d8e-93ae-b690456c35fe@87.120.84.5:443?flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=zhkzPCg_9uF4Q3HKnT4hGBjGDUdvviqY28XSvfqIbj0&sid=45ba24f124ad1f14&fp=qq#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=neth6.lckdwn.ru&type=tcp#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://ef18d810-719c-4bf1-83c6-615d01f217eb@89.169.55.33:8443?security=reality&type=tcp&sni=ger.cryptoofarm.com&fp=firefox&flow=xtls-rprx-vision&sid=93b301786cde&pbk=sKxLqehJuTcGpz7cxlcTiYve8ZpdS1L0diGAyyHrkDk&encryption=none#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@dex2.fixpr.top:443?sni=dex2.fixpr.top&alpn=h3%2Ch2%2Chttp/1.1&security=tls&fp=chrome#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+trojan://EQ30679154@gentle-raptor.rooster465.autos:443?security=tls#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@94.26.83.149:443?security=reality&encryption=none&pbk=DXTYisFKUru131HMeU2no0Z8OJs1c1xHAqVyNy6xvBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nrt.deurocket.org#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://838c827d-1ff2-4df9-afca-d121368a1ecf@download.arshia-nova.ir:2095?encryption=none&fp=chrome&pbk=ODHRr6cqYEtv3OMvjokQe-8EMd5sIQG8Ymx-FZLjWmM&security=reality&sid=a6&sni=www.m.amazon.com&spx=%2F9676c52c43620f1&type=tcp#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://b148ea58-3fc7-4f27-8d8b-2b8e007e59fc@72.56.74.74:443?security=reality&amp;encryption=none&amp;pbk=yP1V_oAX1Sehc_102nMHuQgTOYk7T9KbJQmTlK4maVE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sun6-22.userapi.com&amp;sid=d88b8adda0f82083#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780?type=tcp&security=reality&encryption=none&fp=firefox&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb&sni=amp-api-edge.apps.apple.com#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://efd400cd-98e1-4a9b-a98c-6f4a3b7cce7f@141.98.6.213:443?&security=reality&flow=xtls-rprx-vision&pbk=TC8D2edifNXaro0S31ZiC9izi8tAmXJyxdOHptwNUTw&sid=660c1badc77a422b&fp=firefox&sni=edge-nl.mystatic-cdn.ru&type=tcp&headerType=none&host=edge-nl.mystatic-cdn.ru&path=%2F#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#25.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
