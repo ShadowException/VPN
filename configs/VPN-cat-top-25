@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери | t.me/vpn_cat
+#announce: «Борьба с цензурой, какая бы она ни была и при какой бы власти она ни существовала — мой писательский долг» — Михаил Булгаков | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://246bf902-1b08-4bc4-b851-c4987d804bac@217.149.30.225:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CmkWD75j7txo_SEUQ7XzKI2b0_Odd0jc7cv_HqaTTAc&security=reality&sid=688c54e7b1ebddec&sni=www.rumedia-cdn.com&type=raw#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://a237ca49-48d5-466f-aee5-c44f728a99ab@217.149.30.225:8443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=%2F&type=raw #5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#8.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22223?encryption=none&security=none&type=tcp#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?fp=edge&path=%2Fv1&sni=live.ok.ru&type=ws#10.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22224?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#11.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.249:8080#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:443#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMkZpdnppU29vV01EekU2cDJrQng3cmk3b3dkTFp5UG51UUxQZURoblk4cVhLbTZ6WjRNMzlwb3Y0dzdNZnhSTjVGaldxQzFjQ0E4Z0dvTHBaUVZvdVB0OWNDQTlpZE4@166.1.129.245:42607#15.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://b3198f79-b4e6-4da0-9088-a9ec89e5f8d7@217.149.30.225:8448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WvMqlTcY5BY7WbrsGCwtA4VzhXGaP-FkjoOHn-yMsSI&security=reality&sid=a94eb0e19d010373&sni=www.rumedia-cdn.com&spx=%2F&type=raw#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#19.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#20.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=%2Fv1&security=none&type=ws#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#1.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#3.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://51afc65b-70f9-46f9-bbf5-6dab07fb94c6@217.149.30.225:2083?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UPNrOP5K4VMKioVmi1o15crjzHP3tkeMQr-ivgBNNQU&security=reality&sid=eb95c48c14152f51&sni=www.rumedia-cdn.com&type=raw#4.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://42a6ff62-1d4e-4065-8e44-bab910e19e3b@217.149.30.225:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=MFVPHZoccZWr4YZLcIaVedY07BhRfdT4y1XWpp2IWnA&security=reality&sid=97fbc6738543f9dc&sni=www.rumedia-cdn.com&spx=/&type=raw#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.188.101.151:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#9.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=chrome#10.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@217.149.30.225:8449?encryption=none&flow=xtls-rprx-vision&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&security=reality&sid=60ccd0e5ab46ac4f&sni=www.rumedia-cdn.com&type=tcp&fp=edge#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://a237ca49-48d5-466f-aee5-c44f728a99ab@217.149.30.225:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=/&type=raw#12.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@217.149.30.225:8449?encryption=none&flow=xtls-rprx-vision&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&security=reality&sid=60ccd0e5ab46ac4f&sni=www.rumedia-cdn.com&type=tcp&fp=firefox#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&security=none&type=ws&path=%2Fv1#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#15.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.198.221.49:22224?encryption=none&security=none&type=tcp#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#17.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://9ddd1219-bc7f-4524-ad7c-5b110e7c37bc@217.149.30.225:8449?encryption=none&flow=xtls-rprx-vision&pbk=lcLyifIUyL1UnMABv4u7mVSh7VRmOVaZinSDfSKB13g&security=reality&sid=60ccd0e5ab46ac4f&sni=www.rumedia-cdn.com&type=tcp&fp=edge#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?path=%2Fv1&security=none&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@91.222.237.55:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=edge#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://c05888f0-4029-45c8-bea7-ea5eff564462@194.26.229.157:2200?encryption=none&path=%2Fv1&security=none&type=ws#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?security=none&type=ws&path=%2F%3Fed%3D2560security%3Dtls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#22.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=chrome#23.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://d11613a1-2e1f-4209-a275-aabd986b7ad1@185.147.26.216:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=17faf32cb516c9cb&sni=ru.srv.anti-zapret.com&type=tcp&fp=firefox#24.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@217.149.30.225:8443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&security=reality&sid=4f676caa93313eab&sni=www.rumedia-cdn.com&spx=%2F&type=raw#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
