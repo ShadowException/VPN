@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200?encryption=none&path=%2Fv1&security=none&type=ws#1.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#8.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080?type=tcp&headerType=none#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#16.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@104.16.100.66:8880?&security=false&fp=chrome&type=ws&headerType=none&host=steep-glitter-7c3c.367-5c9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#19.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&path=%2Fv1&security=none#20.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#21.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://2da8106d-8c6a-4818-9a79-07890f9dd859@80.90.188.104:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#23.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#25.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#2.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#4.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080?type=tcp&headerType=none#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#7.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc=@38.180.135.156:8388#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:443#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#10.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#12.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#13.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#14.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#15.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.175.73:62145#16.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#17.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.208.5:62145?security=none&type=tcp&encryption=none#18.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiMTkuIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBHZXJtYW55Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
+vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?fp=android&path=%2Fv1&security=none&type=ws#20.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#21.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://70853635-5b3e-4561-bd3f-4354b56194de@104.17.181.19:8880?encryption=none&type=ws&host=broken-glitter-6d2f.408-51c.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?fp=edge&path=%2Fv1&security=none&type=ws#23.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?&security=false&fp=chrome&type=ws&headerType=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
