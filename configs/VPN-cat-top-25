@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?fp=edge&path=%2Fv1&sni=live.ok.ru&type=ws#1.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#3.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.33.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-fr2.mystatic-cdn.ru&fp=firefox&pbk=ZZwdN1Lt-fIR8A4Y1NbYCCEI6th2YXYHHRLHraVXyn0&sid=72461ccce5373103#4.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?&sni=201.24.49.117&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#5.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#6.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?fp=edge&path=%2Fv1&security=none&sni=rzd.ru&type=ws#7.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?&sni=201.24.49.117&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#2.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@201.24.49.74:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#3.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiNC4gXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEdlcm1hbnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://af60d475-3c13-41cf-af0e-18353d08877a@201.24.49.77:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=chrome#5.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.205.157:62145?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#6.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#7.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=firefox#8.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&security=none&fp=ios&type=ws&host=live.ok.ru&path=%2Fv1#9.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://099f0859-cb81-4a57-b6d8-2c8e18030627@200.165.234.119:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#10.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&security=none&type=ws#11.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#13.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vmess://eyJ2IjoiMiIsInBzIjoiMTQuIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBHZXJtYW55IiwiYWRkIjoiOTQuMTU2LjE3MC4xMDIiLCJwb3J0IjoiMTEwIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNiJ9
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?fp=edge&path=%2Fv1&sni=live.ok.ru&type=ws#15.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#16.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#17.%20%F0%9F%87%A8%F0%9F%87%B4%20Colombia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#18.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vmess://eyJhZGQiOiI2OS42My4yMTAuMzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiYTg5ZmVkYTktZWMzMC00OGMxLWFlNmItMWE2ZjViNTczZjZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2E4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2Yi12bSIsInBvcnQiOjI0OTQzLCJwcyI6IjE5LiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgVW5pdGVkIEtpbmdkb20iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwibmFtZSI6IkBjaGlsbGd1eV92cG4ifQ
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@maple.adaspoloandco.com:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#20.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@50.7.248.82:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=n4fBPJmg0A5jzAPG6QyAV61gxCuYqw5sStpAZixgxkA&sid=bc2f177e31b60023&sni=edge-astde.mystatic-cdn.ru#21.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#22.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@rubifen.adaspoloandco.com:443?security=tls&type=ws&path=%2FGOrbEh&packetEncoding=none&allowInsecure=0&sni=rubifen.adaspoloandco.com&fp=qq#23.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#24.%20%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@45.128.78.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?fp=edge&path=%2Fv1&security=none&sni=rzd.ru&type=ws#9.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?fp=firefox&path=%2Fv1&sni=rzd.ru&type=ws#10.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://9c2307ba-7972-4ea5-a199-f2c80049be7f@81.200.146.190:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://60a7542b-8ef9-4e01-940b-aac191807cd1@146.75.119.82:80?path=ws%2F%3Fed%3D2048%2F%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%40vpnserverrr%2F%3F2048&security=none&encryption=none&host=rb24.ir&type=ws#13.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:196?security=none&encryption=none&headerType=none&type=tcp#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://410c7ad7-7894-401a-bb61-8ceb0d82339a@panelarshiavpnshop.arshialezat.ir:44702?security=&encryption=none&headerType=&type=tcp#15.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#17.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.184:3443?security=reality&encryption=none&pbk=WblkmqKUs4-IiNsawjWBV16uB_FBxLr8xFVi6eDPkxk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fr.aeternavpn.space&sid=a1b2c3d4#18.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://5c43b6d8-f71a-46d6-b804-f86349e6f313@77.222.47.204:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#20.%20%F0%9F%87%A8%F0%9F%87%B4%20Colombia
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WmpjME4yUXlZVGt5TnpjMk5HUmlaRGhqWTJOallUVTVNemsyTjJOa09Uaz06WW1OaE4yVXlOemRsTlRnM05HRmtNamt4TkdZNFpqRXpZV00yTXpRMk5HUT0@84.32.131.61:18610#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@45.82.31.158:808?security=none&encryption=none&headerType=none&type=tcp#22.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443?security=reality&encryption=none&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&sid=b21f41e79ecbac55#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@v5p.sabermusic.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#24.%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
+vless://eaeb9077-b90c-45e3-a52c-da847f5f86d7@5.61.28.51:443?security=tls&sni=v5p.sabermusic.ir&type=tcp&allowInsecure=1#25.%20%F0%9F%87%AE%F0%9F%87%B7%20Iran
