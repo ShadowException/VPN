@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Существует несколько способов сжечь книгу. И мир полон людей, бегающих с зажженными спичками» — Рэй Бредбери | t.me/vpn_cat
+#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#1.%20%F0%9F%87%A9%F0%9F%87%B0%20Denmark
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#6.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://40fa5575-7649-428d-8859-2426dd69056c@155.117.234.131:42638?encryption=none&security=none&type=tcp#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.156.230:2053?&security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#8.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.16.157.175:8443?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.156.230:2053?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#12.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.25.208:2096?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?&security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#15.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8080?type=ws&security=none&host=italic.dearhossein-taktaz.ir&path=/&encryption=none#16.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#17.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vmess://eyJ2IjpudWxsLCJwcyI6IjE4LiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgVW5pdGVkIEtpbmdkb20iLCJhZGQiOiI2YzAwYmYxZi1hNTY5LTRkNTQtOWY3MS1hMTM2MTE4MDE4NjcuNjYxLnF6ei5pbyIsInBvcnQiOjQ0MywiaWQiOiIwYzZiOTZiYy01ZTNhLTQ1MDAtODQ5Ny02ZGVhZDE5NjU2MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjZjMDBiZjFmLWE1NjktNGQ1NC05ZjcxLWExMzYxMTgwMTg2Ny42NjEucXp6LmlvIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9LSHRQdk5abDM3MUM4TnNiYloxd3dEaEozIiwidGxzIjoidGxzIiwic25pIjoiNmMwMGJmMWYtYTU2OS00ZDU0LTlmNzEtYTEzNjExODAxODY3LjY2MS5xenouaW8iLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyA5NiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiMTkuIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBVbml0ZWQgS2luZ2RvbSIsImFkZCI6Im5ld3JlbGF4LnJlbGF4ZWRib3kub25saW5lIiwicG9ydCI6MTEwLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@150.241.68.208:443?alpn=http/1.1&encryption=none&fp=firefox&host=cf13.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf13.rumedia-cdn.com&type=ws#20.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://abd1c29a-94cb-4648-8d1e-5baae9d2a807@172.236.233.59:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=525e0ffc773f48ba&pbk=oTMDLwY2hloBfA7ShzVsrFhjL4QXR6mY32B93rMLxV0#21.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?type=tcp&encryption=none&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d#22.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#23.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vmess://eyJ2IjoiMiIsInBzIjoiMjQuIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYXBhbiIsImFkZCI6IjQ1LjMyLjU3LjExOCIsInBvcnQiOjQ0MzMsImlkIjoiMzViODk4MzItMGE3Yy00OGRkLThkMWMtYTI4OTFiNTIyMTk1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
-vmess://eyJ2IjoiMiIsInBzIjoiMjUuIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKYXBhbiIsImFkZCI6IjQ1LjMyLjU3LjExOCIsInBvcnQiOiI0NDMzIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#3.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://40fa5575-7649-428d-8859-2426dd69056c@155.117.234.131:42638?encryption=none&security=none&type=tcp#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@15.204.246.111:5498#6.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.246.189:8119#7.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#8.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#9.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.156.230:2053?&security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8080?type=ws&security=none&host=italic.dearhossein-taktaz.ir&path=/&encryption=none#11.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.16.157.175:8443?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#13.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#14.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#15.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?&security=tls&fp=chrome&sni=fq.jp188.dpdns.org&type=ws&headerType=none&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.156.230:2053?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#18.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#19.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#20.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.25.208:2096?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.20.32:2087?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#24.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+trojan://humanity@88.198.82.150:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#25.%20%F0%9F%87%AB%F0%9F%87%B7%20France
