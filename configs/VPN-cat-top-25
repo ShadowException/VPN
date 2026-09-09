@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://e8073dec-42b9-4c00-9348-5ff33a2249a5@155.117.234.131:42638?encryption=none&amp;security=none&amp;type=tcp#1.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@applyjitteryspilt.orbitgazette.art:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=applyjitteryspilt.orbitgazette.art&pbk=pU7eWw1B4phNfOaRY9-r4kDHqoQe_lRp5id6XDsWgyA&sid=17cb877eb6914141&fp=firefox#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.112.34:2096?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#5.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8080?type=ws&security=none&host=italic.dearhossein-taktaz.ir&path=/&encryption=none#6.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.33.237:2096?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#7.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.35.211.145:8443?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#8.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.146.58:2053?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#9.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#10.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#11.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#12.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#13.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#14.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@refriedbuzzhasty.dailygazette.one:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=refriedbuzzhasty.dailygazette.one&pbk=n2v6NvgEHxPfvzo1IvFhc85vdhO80sQZ7t3TFYkagCc&sid=d1de39d194b602ff&fp=firefox#16.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.52.183:2087?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.50.227:2087?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#18.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.39.125.245:2096?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#19.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.210.74:2083?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#20.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.39.125.70:2053?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#21.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#22.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
-vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.20.32:2087?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=dark-rain-2989.gzgshsgs.workers.dev#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#25.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#1.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=/Telegram-@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&fp=randomized&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://0246edce-0512-46a7-90eb-ddf79c294f45@185.146.173.58:8080?type=httpupgrade&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/&host=http.digicyber.click.&security=none#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#5.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#6.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vmess://eyJ2IjoiMiIsInBzIjoiNy4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFVuaXRlZCBLaW5nZG9tIiwiYWRkIjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJwb3J0IjoxMTAsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#8.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoiOS4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFVuaXRlZCBLaW5nZG9tIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.177.165:2087?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=square-tree-3dbf.285.workers.dev&type=ws#11.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+trojan://telegram-id-privatevpns@18.134.53.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#12.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#13.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@8.39.125.70:2053?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.159.237:2083?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vmess://eyJhZGQiOiI4LjIxNC4zMy4xNTgiLCJhaWQiOjAsImhvc3QiOiI4LjIxNC4zMy4xNTgiLCJpZCI6ImNiODFlNmFiLTFkODMtNGFjMS1mMGFkLWFlNWMyYTdjMjllZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiIxNi4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#17.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#18.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000?type=tcp#19.%20%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@45.131.212.37:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&fp=safari#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.19.146.98:2083?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.19.33.237:2096?fp=chrome&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43&security=tls&sni=mianfei-73q.pages.dev&type=ws#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://42c62a5a-cd31-4551-80ef-908732370287@104.17.25.208:2096?fp=chrome&host=fq.jp188.dpdns.org&path=%2Fproxyip%3D154.17.22.207%2C69.63.210.157%2C134.195.211.13%2C172.236.245.153%2C209.146.115.209%2C64.186.224.194%2C149.28.94.52%2C107.151.188.57&security=tls&sni=fq.jp188.dpdns.org&type=ws#23.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://e8073dec-42b9-4c00-9348-5ff33a2249a5@155.117.234.131:42638?encryption=none&amp;security=none&amp;type=tcp#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8666ab45-8e3d-4988-841b-2561d91e32d5@104.17.170.99:2053?&security=tls&fp=chrome&sni=mianfei-73q.pages.dev&type=ws&headerType=none&host=mianfei-73q.pages.dev&path=%2Fproxyip%3D154.3.33.43#25.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
