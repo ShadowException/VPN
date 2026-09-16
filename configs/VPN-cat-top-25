@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22223?encryption=none&security=none&type=tcp#1.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22224?encryption=none&security=none&type=tcp#2.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?type=tcp&security=reality&encryption=none&fp=chrome&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&flow=xtls-rprx-vision&headerType=none#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vmess://eyJ2IjoiMiIsInBzIjoiNC4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiIxMDcuMTczLjI1NC4yNyIsInBvcnQiOjE1MzExLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImFkNzhkMDJiLTg3M2YtNGNmZi04ZDRhLTY3M2Y1M2Q2Y2UwZiJ9
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=178.105.61.61&sid=af04ff8094115e93#5.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#6.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic-2.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#7.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?type=raw&security=reality&encryption=none&sni=178.105.61.61&fp=chrome&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&sid=af04ff8094115e93&flow=xtls-rprx-vision&headerType=none#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=af04ff8094115e93#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.196:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#10.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#11.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=178.105.61.61&sid=af04ff8094115e93#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-decic-1.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#13.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#14.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@uk-dedic-new-1.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=uk-dedic-new-1.failspace.top&type=tcp#15.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.157:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-dedic.failspace.top&type=tcp#16.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#17.%20%F0%9F%87%AE%F0%9F%87%AA%20Ireland
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ee.cdn-update.rutube.info:20443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&fp=firefox&sni=dest1.cdn-update.rutube.info&sid=08#18.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic.failspace.top:443?type=tcp&security=tls&sni=at-dedic.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#19.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?type=tcp&headerType=none&security=tls&encryption=none&sni=poland-new-dedic-2.failspace.top&fp=firefox&alpn=h2&flow=xtls-rprx-vision#20.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.219.10:22222?encryption=none&security=none&type=tcp#21.%20%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://98d0fa1b-d778-477e-b897-4e2569c53178@128.254.186.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=mother-earth.fyi&type=tcp#22.%20%F0%9F%87%B5%F0%9F%87%AA%20Peru
-trojan://j8HSz13mcSpcbzQD-jxhNt3T99NLzgMB@nl4.275.axolab.org:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=nl4.275.axolab.org#23.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://98d0fa1b-d778-477e-b897-4e2569c53178@ae-tube-01.stre4m.net:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#24.%20%F0%9F%87%B5%F0%9F%87%AA%20Peru
-vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?encryption=none&type=tcp&allowInsecure=1#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#1.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic-2.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#2.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#3.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.29:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#4.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vmess://eyJ2IjoiMiIsInBzIjoiNS4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiIxMDcuMTczLjI1NC4yNyIsInBvcnQiOjE1MzExLCJpZCI6ImFkNzhkMDJiLTg3M2YtNGNmZi04ZDRhLTY3M2Y1M2Q2Y2UwZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiJVUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggfCBAUmF5ZGlrYWx4IHwgMTk0NTBGIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/140.245.53.45=443#6.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic-2.failspace.top:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at-dedic-2.failspace.top&fp=firefox&alpn=h2&flow=xtls-rprx-vision#7.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-dedic-2.failspace.top:443?type=tcp&headerType=none&security=tls&encryption=none&sni=poland-new-dedic-2.failspace.top&fp=firefox&alpn=h2&flow=xtls-rprx-vision#8.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=none&type=tcp&encryption=none#9.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.157:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-dedic.failspace.top&type=tcp#10.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic-2.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=at-dedic-2.failspace.top#11.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?encryption=none&type=tcp&allowInsecure=1#12.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=178.105.61.61&sid=af04ff8094115e93#13.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=178.105.61.61&sid=af04ff8094115e93#14.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-decic-1.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#15.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vless://cb077bf2-70b7-457b-af42-27cdc3e0e544@178.105.61.61:2083?security=reality&encryption=none&pbk=H0nCazQFHVhSObfqSUhGLhK7KRwKzTMggIBPjnMMqhk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=af04ff8094115e93#16.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://98d0fa1b-d778-477e-b897-4e2569c53178@fr-gra-ovh-03.stre4m.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mother-earth.fyi&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#17.%20%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic.failspace.top:443?type=tcp&security=tls&sni=at-dedic.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#18.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.196:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=poland-new-decic-1.failspace.top#19.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+vmess://eyJ2IjoiMiIsInBzIjoiMjAuIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIiwiYWRkIjoiMTA3LjE3My4yNTQuMjciLCJwb3J0IjoxNTMxMSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoibm9uZSIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJhZDc4ZDAyYi04NzNmLTRjZmYtOGQ0YS02NzNmNTNkNmNlMGYifQ
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nether.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=nether.failspace.top#21.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.157:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=at-dedic.failspace.top&type=tcp#22.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-dedic.failspace.top:443?type=tcp&security=tls&sni=at-dedic.failspace.top&fp=firefox&alpn=h2&encryption=none&flow=xtls-rprx-vision#23.%20%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nether.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nether.failspace.top&type=tcp#24.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=none&encryption=none&headerType=none&type=tcp#25.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
