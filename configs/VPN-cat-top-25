@@ -2,32 +2,32 @@
 #profile-update-interval: 1
 #support-url: https://t.me/+SC1kvjHAVWVhNWFh
 #profile-web-page-url: https://github.com/VPN-cat/VPN
-#announce: «Цензура помогает против обычных людей, но бессильна против высоко мотивированных» — Джулиан Ассанж | t.me/vpn_cat
+#announce: «Кто контролирует интернет, контролирует мир. Если глобальная сеть становится тоталитарной, то таковым становится и весь мир, буквально в одну секунду» — Джулиан Ассанж | t.me/vpn_cat
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#🔗 TG: @vpn_cat
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.180.214.110:5600#1.%20%F0%9F%87%A9%F0%9F%87%B0%20Denmark
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.180.214.110:5600#2.%20%F0%9F%87%A9%F0%9F%87%B0%20Denmark
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?sni=nl-dedic-mori.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#3.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#4.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.107.139:8880?security=none&type=ws&host=shy-mud-e936.15-bb9.workers.dev#5.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b4a18856-301d-4bb2-b729-6afcb700faf5@104.16.100.66:8880?&security=none&type=ws&headerType=&host=red-flower-a2bf.363.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#6.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cnNaR1NqRlhVeWk2a1g4UDZnbGcxNStUZEswemR0S1ZCamtIWWVaZEo1OD0=@130.61.82.183:59924#7.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://YWVzLTI1Ni1nY206NzgyMzVlN2RjNTVlOWFkMQ==@132.243.255.3:10900#8.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@104.17.21.137:8880?host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net+&security=none&type=ws#9.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.21.88.129:8880?type=ws&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#10.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://9d45d137-9892-4a83-a04a-f30b4da28243@104.26.13.40:8880?type=ws&host=broken-wave-8a45.483.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@188.114.97.6:8880?path=%2Fpyip&security=none&encryption=none&host=lingering-grass-6728.131-a78.workers.dev&type=ws#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@104.16.8.66:8880?&security=false&fp=chrome&type=ws&headerType=none&host=broad-truth-e988.258-217.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8d032cfc-4a8c-4769-bd29-4fa0ade77b14@104.17.21.32:8880?encryption=none&security=none&type=ws&host=icy-frog-a2a2.245.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#14.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://cfb74ef3-f868-43c5-b05a-56509e2c948f@162.159.156.214:8880?host=flat-limit-5b5e.472-cf5.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#15.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&security=none&type=ws&headerType=&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#16.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://82a3c394-55b7-4780-93a0-5f45c0e89625@172.67.179.98:8880?encryption=none&type=ws&host=square-brook-e650.353-3ac.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#17.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@104.16.8.66:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=broad-truth-e988.258-217.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@188.114.97.6:8080?host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.107.139:8880?&security=false&fp=chrome&type=ws&headerType=none&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#20.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=gentle-surf-cc74.345-604.workers.dev&type=ws#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://14e0ab2e-fb3e-4fd1-a6d9-62eeae62976b@104.17.58.113:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=jolly-shape-3ce6.392.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#22.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8d032cfc-4a8c-4769-bd29-4fa0ade77b14@172.64.88.251:8880?&security=false&fp=chrome&type=ws&headerType=none&host=icy-frog-a2a2.245.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#23.%20%F0%9F%87%AB%F0%9F%87%AE%20Finland
-vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?&type=ws&headerType=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@104.17.21.137:8880?&type=ws&headerType=none&host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#25.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-dedic-mori.failspace.top&type=tcp#1.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#2.%20%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cWNiaFlqT1lMK3d5ME42OWNQeVBEWk1hQ0xpeDZMLzVYRDFIckNabFppQT0@130.61.232.82:59924#3.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UVhIZlVhRlJoSDZxaU84VC9hNWVsM01HTExwYmU3SVFxRk5zMlJQZVFPMD0@130.61.34.252:59924#4.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?sni=nl-dedic-mori.failspace.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#5.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@162.159.140.78:8880?encryption=none&security=none&type=ws&host=flat-heart-b60a.401-306.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#6.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@104.16.8.66:8880?&security=false&fp=chrome&type=ws&headerType=none&host=broad-truth-e988.258-217.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#7.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WXo3d0VSQ1hJdGp4ZzU4UWtXb1VhWGRBRm9pREZveXRWc1NlUk8wUm9qQT0@130.61.80.134:59924#8.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WVF2dlp0MTgxcnhDQ25keTRvSFRCeG5jeTBMYmFYSEdLd29OSWpXcE9pVT0@92.5.200.242:45819#9.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@104.16.107.139:8880?&security=none&type=ws&headerType=&host=white-night-afee.419-acc.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#10.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#11.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://f35fb51f-8d34-49ec-80cb-7d04ffc1a69b@162.159.140.78:8880?host=damp-sky-9aaa.224-8b4.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net+&security=none&type=ws#12.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@104.16.8.66:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=broad-truth-e988.258-217.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#13.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@172.67.179.98:8880?security=false&fp=chrome&type=ws&headerType=none&host=white-night-afee.419-acc.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#14.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@104.27.82.154:8880?&type=ws&headerType=none&host=gentle-surf-cc74.345-604.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#15.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@mute-river-6aee.421-bd7.workers.dev:8880?path=/pyip=ProxyIP.KR.CMLiussss.net&encryption=none&type=ws#16.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.120.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=nl-dedic-mori.failspace.top&type=tcp#17.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+vless://fbd6ffcc-f07b-4790-898e-2a6827f6d10f@104.17.58.113:8880?encryption=none&type=ws&host=old-disk-b667.399-1b9.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#18.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@188.114.97.6:8080?encryption=none&type=ws&host=ancient-tooth-af89.500-ba0.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#19.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vmess://eyJ2IjoiMiIsInBzIjoiMjAuIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVbml0ZWQgU3RhdGVzIiwiYWRkIjoiMTA3LjE3My4yNTQuMjciLCJwb3J0IjoxNTMxMSwiaWQiOiJhZDc4ZDAyYi04NzNmLTRjZmYtOGQ0YS02NzNmNTNkNmNlMGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IDE5NDUwRiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5@long-math-be5a.233-98b.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&encryption=none&fp=qq&type=ws#21.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://94ed4a58-dcf4-43cb-afc1-f158e14ec42d@188.114.97.6:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=gentle-surf-cc74.345-604.workers.dev&type=ws#22.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://f35fb51f-8d34-49ec-80cb-7d04ffc1a69b@162.159.140.78:8880?type=ws&host=damp-sky-9aaa.224-8b4.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#23.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://37fce9ce-9fec-4f30-89a0-fbb1f6f33b3c@104.21.88.129:8880?security=false&fp=chrome&type=ws&headerType=none&host=white-night-afee.419-acc.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#24.%20%F0%9F%87%B8%F0%9F%87%AA%20Sweden
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.248.237:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=pl-new-dedic.failspace.top&type=tcp#25.%20%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
